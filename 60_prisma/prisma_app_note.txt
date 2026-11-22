@@ -1,0 +1,55 @@
+Review
+Systematic review of soil moisture monitoring using unmanned aircraft systems
+Lenka Miková (corresponding); Elena Scholz; Jiří Rous; Jan Komárek
+mikoval@fzp.czu.cz
+
+Protocol
+Zenodo
+Protocol after ...
+
+Databases
+WoS, Scopus
+
+DOI
+Protocol 10.5281/zenodo.24362475
+dataset 10.5281/zenodo.24362075
+software 10.5281/zenodo.24362240
+
+PRISMA-P
+Rationale: Soil moisture (SM) governs crop water consumption; however, satellite data and point measurements leave a gap at the field scale. While the use of UAVs for SM monitoring is increasing, existing reviews focus either on UAVs in agriculture generally or on satellite-based SM—rather than the acquisition, processing, and reporting of UAV campaigns specifically for SM. This review surveys methods from 2019–2026 and assesses the replicability of the flight operations described in the literature.
+
+Objectives: Systematically identify and summarize primary research from 2019–2026 regarding the estimation/monitoring of soil moisture (SM) via remote sensing in agriculture, with an emphasis on methods applicable using UAVs.
+Research questions: which platforms and sensors were used (including combinations); what were the flight and data processing protocols, and what results were reported; which inputs, applications, and methods fall within the priority subset; and which items from the checklist (25 items + SM module) are missing?
+
+Inclusion rules: Topic, methods and setting as defined by the search groups. Primary research (journal article, conference paper, or book chapter kept at audit). Years and language as set in Search.
+
+
+Other
+Funding: IGA grant 2026B0015, Faculty of Environmental Sciences, Czech University of Life Sciences Prague.
+Code repository: https://github.com/LenkaMikova/UAS-review
+
+
+
+Duplicity DOI (Rozdíl roku (WoS starsi datum - rok publikace a Scopus novejsi - rok u vydani))
+10.22434/ifamr1048 (published 10.5.2024; Volume 28, Issue 4, 2025)
+10.1016/j.ejrh.2026.103230 - ve WoS je autor Liu a ve Scopus Yangun (jeden ten samý, ale je prohozeno jméno a příjmení)
+10.1109/edis63605.2024.10783277 - ve WoS je hlavní autor s dlouhým I a ve Scopus s krátkým.
+10.1007/s10291-025-01981-y (published 10.11.2025; Volume 30, article number 20 (2026))
+10.1007/s10661-024-13510-4 (published 12.12.2024; Volume 197, article number 52 (2025))
+10.1007/s11269-025-04461-7 (published 29.12.2025; Volume 40, article number 30 (2026))
+10.1007/s41324-025-00663-8 (published 22.12.2025; Volume 34, article number 4 (2026))
+10.1038/s41598-025-33024-4 (published 26.12.2025; Scientific Reports volume 16, Article number: 3090 (2026))
+10.3389/frai.2024.1496066 (published 23.1.2025; Volume 7 - 2024) - zde vyjimecne WoS starsi datum
+10.3390/soilsystems10010008 (published 31.12.2025; Soil Syst.2026, 10(1), 8)
+10.1007/978-3-031-19309-5_22 (first online 16.3.2023)
+10.1007/978-3-031-19309-5_39 (first online 16.3.2023)
+10.5194/piahs-385-111-2024 (18.4.2024)
+
+Duplicate title - stejný název 2 DOI
+10.23919/ACC50511.2021.9482905 (conference 25-28.5.2021) a druhe DOI neexistuje
+
+No DOI - dohledání
+Accuracy Assessment of Satellite-Based Downscaling Soil Moisture Product in Ghana (10.23919/APSAR64635.2025.11392119)
+Dielectric Characterization of Sodic Soils in the C-Band: Implications for Moisture Monitoring (10.63278/1289)
+
+
