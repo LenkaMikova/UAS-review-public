@@ -1,0 +1,29 @@
+{"ts": "2026-11-21T11:08:46", "step": "search", "action": "query", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\00_search\\02_final\\final_query.txt"}
+{"ts": "2026-11-21T11:08:49", "step": "search", "action": "query", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\00_search\\02_final\\final_query.txt"}
+{"ts": "2026-11-21T11:10:01", "step": "raw", "action": "merge", "ok": true, "detail": "", "seconds": 3.27}
+{"ts": "2026-11-21T11:10:06", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-21T11:47:57", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-21T11:55:34", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:15:49", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:43:09", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:43:36", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:46:55", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:47:26", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:47:59", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T08:58:12", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T09:27:22", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T09:42:56", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T09:43:51", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T09:43:56", "step": "clean", "action": "record_decisions", "ok": true, "detail": "record_decisions.json"}
+{"ts": "2026-11-22T09:45:04", "step": "screen", "action": "save_config", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\30_screening\\33_reports\\screening_config.json"}
+{"ts": "2026-11-22T09:45:06", "step": "screen", "action": "run", "ok": true, "detail": "", "seconds": 1.59}
+{"ts": "2026-11-22T09:47:22", "step": "screen", "action": "save_config", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\30_screening\\33_reports\\screening_config.json"}
+{"ts": "2026-11-22T09:47:25", "step": "screen", "action": "run", "ok": true, "detail": "", "seconds": 2.39}
+{"ts": "2026-11-22T11:33:43", "step": "screen", "action": "save_config", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\30_screening\\33_reports\\screening_config.json"}
+{"ts": "2026-11-22T11:33:45", "step": "screen", "action": "run", "ok": false, "detail": "", "seconds": 2.16}
+{"ts": "2026-11-22T11:34:33", "step": "screen", "action": "save_config", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\30_screening\\33_reports\\screening_config.json"}
+{"ts": "2026-11-22T11:34:35", "step": "screen", "action": "run", "ok": false, "detail": "", "seconds": 2.14}
+{"ts": "2026-11-22T11:35:04", "step": "screen", "action": "save_config", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\30_screening\\33_reports\\screening_config.json"}
+{"ts": "2026-11-22T11:35:14", "step": "screen", "action": "run", "ok": true, "detail": "", "seconds": 6.52}
+{"ts": "2026-11-22T13:28:26", "step": "retrospective", "action": "protocol", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\60_prisma\\protocol\\generated\\PRISMA-P_executed.md"}
+{"ts": "2026-11-22T13:42:56", "step": "retrospective", "action": "protocol", "ok": true, "detail": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\60_prisma\\protocol\\generated\\PRISMA-P_executed.md"}

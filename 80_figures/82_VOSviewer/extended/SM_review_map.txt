@@ -1,0 +1,15 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+23	antennas	-0.7252	0.4925	1	12	47	7	2023
+58	crops	-0.1828	0.6597	1	13	50	8	2022.375
+131	irrigation	-0.6796	-0.6519	1	12	33	5	2022.6
+150	machine learning	0.8833	-0.6473	1	11	28	7	2024.1429
+202	precision agriculture	-0.0678	-0.36	1	13	62	11	2024.0909
+222	remote sensing	-0.4939	0.1865	1	12	71	13	2022.4615
+234	satellite data	0.5281	-0.1304	1	13	37	6	2023.8333
+235	satellite imagery	-0.8747	-0.1677	1	12	40	7	2023.5714
+257	soil moisture	0.0411	0.0385	1	13	94	18	2023.1111
+259	soil moisture content	0.671	0.7091	1	12	26	5	2024.4
+268	soil surveys	-0.2864	-0.0579	1	13	77	12	2023.25
+313	uav	1.0852	0.2834	1	12	23	5	2023.8
+325	unmanned aerial vehicles (uav)	-0.1421	0.3075	1	13	70	11	2022.9091
+330	unmanned vehicle	0.2438	-0.662	1	13	40	6	2024.3333

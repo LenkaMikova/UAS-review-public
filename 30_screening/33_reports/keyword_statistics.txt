@@ -1,0 +1,29 @@
+=== KEYWORD & CATEGORY STATISTICS ===
+
+Total records: 1031
+
+PLATFORM:
+UAV: 268
+Satellite: 618
+
+SCALING:
+downscaling: 73
+data fusion: 58
+multi-scale: 16
+
+UAV APPLICABILITY:
+Direct UAV: 268
+Potential UAV: 225
+Combined: 452
+Non-UAV: 579
+
+SENSOR MODE:
+Active: 251
+Passive: 229
+
+DOMAIN:
+cropland: 112
+farmland: 71
+arable: 24
+bare soil: 41
+agriculture: 892

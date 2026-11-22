@@ -1,0 +1,12 @@
+## frozen
+
+databases: WoS; Scopus
+soil moisture | all
+remote sensing, UAV, UAS, drone*, satellite* | all
+agriculture, cropland, arable land, farmland, bare soil | all
+precision agriculture, site-specific, irrigation, water management, downscaling, multi-scale, data fusion | all
+year: 2019-2026
+language: English
+
+Boolean (adapt per database):
+("soil moisture") AND ("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND ("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND ("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion")

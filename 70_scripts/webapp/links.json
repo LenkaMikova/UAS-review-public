@@ -1,0 +1,9 @@
+{
+  "github_project": "https://github.com/LenkaMikova/UAS-review",
+  "github_tools": "https://github.com/LenkaMikova/PRISMAtools",
+  "zenodo": {
+    "dataset": "https://doi.org/10.5281/zenodo.24362075",
+    "software": "https://doi.org/10.5281/zenodo.24362240",
+    "protocol": "https://doi.org/10.5281/zenodo.24362475"
+  }
+}

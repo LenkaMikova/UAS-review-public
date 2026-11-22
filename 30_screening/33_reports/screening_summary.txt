@@ -1,0 +1,15 @@
+=== SCREENING SUMMARY (PRISMA READY) ===
+
+Records (non-review): 1031
+Review articles: 115
+UAV-related reviews: 60
+
+SCREENING DECISIONS:
+Include: 258 (25.0%)
+Maybe: 723 (70.1%)
+Exclude: 50 (4.8%)
+
+PRIORITIZATION:
+Must-cite: 49
+Must-cite (core): 22
+Must-cite (extended): 27

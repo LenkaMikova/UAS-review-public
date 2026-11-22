@@ -1,0 +1,19 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<!-- Online Resource 2 (`or-icons`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+
+::: {#or-icons}
+![](../80_figures/81_icons/setIcons2.png)
+![](../80_figures/81_icons/setIcons1.png)
+
+Icon legend used throughout the manuscript and the Online Resources.
+Upper plate: measurement platforms and the sensor payloads associated
+with each platform category. Lower plate: land-use and land-cover
+categories of the monitored sites.
+:::
+
+------------------------------------------------------------------------

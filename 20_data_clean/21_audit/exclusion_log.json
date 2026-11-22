@@ -1,0 +1,73 @@
+{
+  "generated": "2026-11-21T11:10:01",
+  "retained": 1154,
+  "removed": 482,
+  "doi_missing_retained": 21,
+  "doi_missing_types": [
+    {
+      "label": "conference paper",
+      "n": 11
+    },
+    {
+      "label": "book chapter",
+      "n": 5
+    },
+    {
+      "label": "journal article",
+      "n": 4
+    },
+    {
+      "label": "conference review",
+      "n": 1
+    }
+  ],
+  "kept_types": [
+    {
+      "label": "journal article",
+      "n": 824
+    },
+    {
+      "label": "conference paper",
+      "n": 248
+    },
+    {
+      "label": "book chapter",
+      "n": 81
+    },
+    {
+      "label": "conference review",
+      "n": 1
+    }
+  ],
+  "entries": [
+    {
+      "source": "script",
+      "status": "duplicate_doi",
+      "reason": "Duplicate DOI",
+      "n": 473,
+      "kept": false
+    },
+    {
+      "source": "script",
+      "status": "duplicate_title",
+      "reason": "Duplicate title and year",
+      "n": 6,
+      "kept": false
+    },
+    {
+      "source": "script",
+      "status": "non_article_type",
+      "reason": "Book (systematic review of primary research articles only)",
+      "n": 3,
+      "kept": false
+    },
+    {
+      "source": "script",
+      "status": "doi_missing",
+      "reason": "DOI missing — retained (cannot exclude)",
+      "n": 21,
+      "kept": true,
+      "cannot_exclude": true
+    }
+  ]
+}

@@ -1,0 +1,1173 @@
+TY  - JOUR
+AU  - Ezenne, GI; Jupp, L; Mantel, SK; Tanner, JL
+TI  - Current and potential capabilities of UAS for crop water productivity in precision agriculture
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Agricultural water use; Thermal imaging; Real-time irrigation scheduling; AIRCRAFT SYSTEMS UASS; STRESS INDEX; CANOPY TEMPERATURE; MULTISPECTRAL IMAGERY; GROWING-SEASON; USE EFFICIENCY; IRRIGATION; FLUORESCENCE; VARIABILITY; MAIZE
+AB  - In order to feed growing populations under scare water resources, a suitable technology that improves crop water productivity (CWP) is crucial. Precision agriculture that utilizes digital techniques such as unmanned aerial systems (UAS) can play a significant role in improving CWP. CWP is an important indicator that quantifies the effect of agricultural water management. To improve CWP, implementation of suitable methods for early detection of crop water stress before irreversible damage on crops occurs, is vital. Conventionally, farmers have relied on in situ measurements of soil moisture and weather variables for detecting crop water status for irrigation scheduling. This method is time consuming and does not account for spatial and temporal variability associated with crop water status. Hence, the aim of this study is to give an overview of the current and potential capabilities of UAS for crop water productivity in precision agriculture. Identified in this study are the factors as well as the technology that can improve CWP. UAS thermal remote sensing is found to be the most suitable technology for monitoring and assessing crop water status using certain indices. Determining a crop water stress index (CWSI) from thermal imagery has the potential to detect instantaneous variations of water status. CWSI obtained from UAS thermal imaging camera can be adapted for real-time irrigation scheduling for maximum crop water productivity.
+AD  - Rhodes Univ, Inst Water Res, Grahamstown, South Africa; Terreco Aviat, 123 Western Ave, East London, South Africa
+C3  - Rhodes University
+SN  - 0378-3774; 1873-2283
+DA  - JUN 1
+PY  - 2019
+VL  - 218
+DO  - 10.1016/j.agwat.2019.03.034
+AN  - WOS:000467512800016
+N1  - Times Cited in Web of Science Core Collection:  66
+SP  - 158
+EP  - 164
+UR  - https://www.scopus.com/pages/publications/85063671479?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Awais, M; Li, W; Cheema, MJM; Zaman, QU; Shaheen, A; Aslam, B; Zhu, W; Ajmal, M; Faheem, M; Hussain, S; Nadeem, AA; Afzal, MM; Liu, C
+TI  - UAV-based remote sensing in plant stress imagine using high-resolution thermal sensor for digital agriculture practices: a meta-review
+T2  - INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCE AND TECHNOLOGY
+LA  - English
+KW  - Unmanned aerial vehicle (UAV); Crop water stress index; Precision agriculture; Vegetation index; Image processing; Intelligent irrigation; CROP-WATER STATUS; LEAF-AREA INDEX; CANOPY TEMPERATURE; IRRIGATION MANAGEMENT; CHLOROPHYLL CONTENT; VISIBLE IMAGERY; USE EFFICIENCY; VEGETATION; DEFICIT; YIELD
+AB  - Water management is becoming a critical issue for sustainable agriculture, especially in the semi-arid region, where problems with water scarcity are rising. More accurate water status recovery in crops is required for precise irrigation through remote sensing technologies. These technologies have a lot of potential in intelligent irrigation because they allow for real-time environmental data collection. Nowadays, digital practices have been used, such as unmanned aerial vehicle (UAV), which plays an essential role in various applications related to crop management. Drones offer an exciting opportunity to track crop fields with high spatial and temporal resolution remote sensing to enhance water stress management in irrigation. Farmers have historically depended on soil moisture measurements and weather conditions to detect crop water status for irrigation scheduling. This review paper summarizes the use of UAV remote sensing data in crops for estimating the water status and gives a detailed summary of the potential capacity of UAV remote sensing for water stress application. The remote sensing techniques help modify agricultural practices to meet this significant challenge by providing repeated information on crop status at different scales and various performances during the season. UAVs successful implementation in water stress estimations depends on UAV features, such as flexibility of use in flight planning, low cost, reliability, autonomy, and capability of timely provision of high-resolution data. UAV with a thermal sensor is considered the most effective technique for detecting water stress using specific indices. Thermal imaging can identify water status variations and crop water stress index (CWSI). This CWSI acquired through UAV thermal sensors imagery can be acceptable for managing real-time irrigation to achieve optimum crop water efficiency.
+AD  - Jiangsu Univ, Res Ctr Fluid Machinery Engn & Technol, Zhenjiang 212013, Jiangsu, Peoples R China; PMAS Arid Agr Univ, Fac Agr Engn & Technol, Rawalpindi 46000, Pakistan; PMAS Arid Agr Univ, NCIB Project, Rawalpindi, Pakistan; Dalhousie Univ, Dept Engn, Agr Campus, Truro, NS B2N 5E3, Canada; Univ Sargodha, Dept Earth Sci, Sargodha 40100, Pakistan; Qingdao Univ, Sch Business, Qingdao 266071, Peoples R China; Jiangsu Univ, Sch Agr Equipment Engn, Zhenjiang 212013, Jiangsu, Peoples R China; Univ Agr Faisalabad, Dept Farm Machinery & Power, Faisalabad 38000, Pakistan; King Abd Ul Aziz Univ, Dept Hydrol & Water Resources, Jeddah, Saudi Arabia; Wuhan Univ, State Key Lab Water Resources & Hydropower Engn S, Wuhan 430072, Hubei, Peoples R China; Univ Chinese Acad Sci, Inst Geog Sci, Key Lab Ecosyst Network Observat & Modelling, Beijing 100049, Peoples R China
+C3  - Jiangsu University; Arid Agriculture University; Arid Agriculture University; Dalhousie University; University of Sargodha; Qingdao University; Jiangsu University; University of Agriculture Faisalabad; Wuhan University; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS
+SN  - 1735-1472; 1735-2630
+DA  - JAN
+PY  - 2023
+VL  - 20
+IS  - 1
+DO  - 10.1007/s13762-021-03801-5
+AN  - WOS:000739278200004
+N1  - Times Cited in Web of Science Core Collection:  85
+SP  - 1135
+EP  - 1152
+UR  - https://www.scopus.com/pages/publications/85122316399?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Haokip, SC; Rajwade, YA; Rao, KVR; Kumar, SP; Marak, AB; Srivastava, A
+TI  - Approaches for Assessment of Soil Moisture with Conventional Methods, Remote Sensing, UAV, and Machine Learning Methods-A Review
+T2  - WATER
+LA  - English
+KW  - in situ measurement; bibliometric analysis; machine learning; precision agriculture; random forest; remote sensing; soil moisture; UAV monitoring; BARE SOIL; NEAR-SURFACE; MICROWAVE BACKSCATTERING; SPECTRAL REFLECTANCE; AIRCRAFT SYSTEMS; MODEL; RETRIEVAL; VEGETATION; RESOLUTION; PARAMETERS
+AB  - Soil moisture or moisture content is a fundamental constituent of the hydrological system of the Earth and its ecological systems, playing a pivotal role in the productivity of agricultural produce, climate modeling, and water resource management. This review comprehensively examines conventional and advanced approaches for estimation or measuring of soil moisture, including in situ methods, remote sensing technologies, UAV-based monitoring, and machine learning-driven models. Emphasis is primarily on the evolution of soil moisture measurement from destructive gravimetric techniques to non-invasive, high-resolution sensing systems. The paper emphasizes how machine learning modules like Random Forest models, support vector machines, and AI-based neural networks are becoming more and more popular for modeling intricate soil moisture dynamics with data from several sources. A bibliometric analysis further underscores the research trends and identifies key contributors, regions, and technologies in this domain. The findings advocate for the integration of physics-based understanding, sensor technologies, and data-driven approaches to enhance prediction accuracy, spatiotemporal coverage, and decision-making capabilities.
+AD  - ICAR Cent Inst Agr Engn, Grad Sch, IARI, Bhopal 462038, Madhya Pradesh, India; ICAR Cent Inst Agr Engn, Bhopal 462038, India; Univ Technol Sydney UTS, Sch Life Sci, Ultimo, NSW 2007, Australia
+C3  - Indian Council of Agricultural Research (ICAR); ICAR - Central Institute of Agricultural Engineering; Indian Council of Agricultural Research (ICAR); ICAR - Central Institute of Agricultural Engineering; University of Technology Sydney
+SN  - 2073-4441
+DA  - AUG 12
+PY  - 2025
+VL  - 17
+IS  - 16
+C7  - 2388
+DO  - 10.3390/w17162388
+AN  - WOS:001558683100001
+N1  - Times Cited in Web of Science Core Collection:  8
+UR  - https://www.scopus.com/pages/publications/105014324303?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, XM; Feng, G; Sun, X
+TI  - Advanced technologies of soil moisture monitoring in precision agriculture: A Review
+T2  - JOURNAL OF AGRICULTURE AND FOOD RESEARCH
+LA  - English
+KW  - Precision agriculture; Soil moisture monitoring; On-the-go sensors; Unmanned ground vehicles; Unmanned aerial vehicles; Remote sensing; IoT-based systems; Wireless sensor networks; REFLECTANCE SPECTROSCOPY; PREDICTION; SALINITY; CARBON
+AB  - Facing the dual challenges of limited natural resources, particularly water, and increasing demands for food security, the role of precision agriculture has become increasingly critical, especially in resource-constrained environments of developing countries. Since its inception in the mid-1980s, precision agriculture in the United States and Europe has evolved to integrate advanced technologies to optimize resource use and minimize environmental impacts, yet it remains in its nascent stages in major developing countries despite attempts at precision irrigation practices. This paper reviews the evolution of soil moisture monitoring technologies from 2013 to 2024, analyzing their strengths, weaknesses, and accuracy in various soil depths to guide modern practices in water and irrigation management within precision agriculture. Highlighting the shift from traditional methods to innovative on-the-go sensors, including electrical, optical, and radiometric sensors, as well as the deployment of unmanned aerial vehicles (UAVs), satellite remote sensing (RS), and IoT-based systems and wireless sensor networks (WSNs), these technologies provide timely, cost-effective, and detailed soil moisture data, significantly enhancing irrigation precision. Our analysis not only showcases technological advancements but also identifies current research gaps, proposing the integration of these technologies to enhance soil moisture management and support sustainable, high-yield agriculture. The anticipated benefits of this integration include improved soil health, increased crop yields, and more effective utilization of water resources, crucial for the sustainability of agriculture in developing nations. By bridging the research-practice gap, this paper aims to foster the adoption of these technologies in precision agriculture, addressing specific agricultural challenges in water-limited settings.
+AD  - North Dakota State Univ, Agr & Biosyst Engn Dept, Fargo, ND 58108 USA; ARS, Genet & Sustainable Agr Res Unit, USDA, Mississippi State, MS 39762 USA
+C3  - North Dakota State University Fargo; United States Department of Agriculture (USDA); Mississippi State University
+SN  - 2666-1543
+DA  - DEC
+PY  - 2024
+VL  - 18
+C7  - 101473
+DO  - 10.1016/j.jafr.2024.101473
+AN  - WOS:001345849000001
+N1  - Times Cited in Web of Science Core Collection:  43
+UR  - https://www.scopus.com/pages/publications/85207134688?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Yang, XF; Chen, JY; Lu, XH; Liu, H; Liu, YF; Bai, XQ; Qian, L; Zhang, ZT
+TI  - Advances in UAV Remote Sensing for Monitoring Crop Water and Nutrient Status: Modeling Methods, Influencing Factors, and Challenges
+T2  - PLANTS-BASEL
+LA  - English
+KW  - UAV-based remote sensing; crop water status; crop nutrient status; precision agriculture; ENERGY-BALANCE; VEGETATION INDEXES; SOIL-MOISTURE; STRESS; REFLECTANCE; IMAGES; CLASSIFICATION; SEGMENTATION; EVAPORATION; ALGORITHMS
+AB  - With the advancement of precision agriculture, Unmanned Aerial Vehicle (UAV)-based remote sensing has been increasingly employed for monitoring crop water and nutrient status due to its high flexibility, fine spatial resolution, and rapid data acquisition capabilities. This review systematically examines recent research progress and key technological pathways in UAV-based remote sensing for crop water and nutrient monitoring. It provides an in-depth analysis of UAV platforms, sensor configurations, and their suitability across diverse agricultural applications. The review also highlights critical data processing steps-including radiometric correction, image stitching, segmentation, and data fusion-and compares three major modeling approaches for parameter inversion: vegetation index-based, data-driven, and physically based methods. Representative application cases across various crops and spatiotemporal scales are summarized. Furthermore, the review explores factors affecting monitoring performance, such as crop growth stages, spatial resolution, illumination and meteorological conditions, and model generalization. Despite significant advancements, current limitations include insufficient sensor versatility, labor-intensive data processing chains, and limited model scalability. Finally, the review outlines future directions, including the integration of edge intelligence, hybrid physical-data modeling, and multi-source, three-dimensional collaborative sensing. This work aims to provide theoretical insights and technical support for advancing UAV-based remote sensing in precision agriculture.
+AD  - Northwest A&F Univ, Coll Water Resources & Architectural Engn, Xianyang 712100, Peoples R China; Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid Semiarid Areas, Minist Educ, Xianyang 712100, Peoples R China; Northwest A&F Univ, Xinjiang Res Inst Agr Arid Areas, Xianyang 712100, Peoples R China
+C3  - Northwest A&F University - China; Northwest A&F University - China; Northwest A&F University - China
+SN  - 2223-7747
+DA  - AUG 15
+PY  - 2025
+VL  - 14
+IS  - 16
+C7  - 2544
+DO  - 10.3390/plants14162544
+AN  - WOS:001557529500001
+N1  - Times Cited in Web of Science Core Collection:  16
+ER  - 
+
+TY  - JOUR
+AU  - Saki, M; Keshavarz, R; Franklin, D; Abolhasan, M; Lipman, J; Shariati, N
+TI  - A Data-Driven Review of Remote Sensing-Based Data Fusion in Precision Agriculture From Foundational to Transformer-Based Techniques
+T2  - IEEE ACCESS
+LA  - English
+KW  - Data integration; Transformers; Sensors; Monitoring; Satellites; Crops; Precision agriculture; Reviews; Laser radar; Data models; Data fusion; deep learning; precision agriculture; remote sensing; transformers; SOIL-MOISTURE; IMAGE FUSION; MODEL; LANDSAT; MULTIMODALITY; MULTISOURCE; CALIBRATION; PRODUCTS; CLOUD
+AB  - This review explores recent advancements in data fusion techniques and Transformer-based remote sensing applications in precision agriculture. Using a systematic, data-driven approach, we analyse research trends from 1994 to 2024, identifying key developments in data fusion, remote sensing, and AI-driven agricultural monitoring. While traditional machine learning and deep learning approaches have demonstrated effectiveness in agricultural decision-making, challenges such as limited scalability, suboptimal feature extraction, and reliance on extensive labelled data persist. This study examines the comparative advantages of Transformer-based fusion methods, particularly their ability to model spatiotemporal dependencies and integrate heterogeneous datasets for applications in soil analysis, crop classification, yield prediction, and disease detection. A comparative analysis of multimodal data fusion approaches is conducted, evaluating data types, fusion techniques, and remote sensing platforms. We demonstrate how Transformers outperform conventional models by enhancing prediction accuracy, mitigating feature redundancy, and optimizing large-scale data integration. Furthermore, we propose a structured roadmap for implementing data fusion in agricultural remote sensing, outlining best practices for ground-truth data selection, platform integration, and fusion model design. By addressing key research gaps and providing a strategic framework, this review offers valuable insights for advancing precision agriculture through AI-driven data fusion techniques.
+AD  - Univ Technol Sydney, RF & Commun Technol RFCT Res Lab, Ultimo, NSW 2007, Australia
+C3  - University of Technology Sydney
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+DO  - 10.1109/ACCESS.2025.3610649
+AN  - WOS:001582176400040
+N1  - Times Cited in Web of Science Core Collection:  9
+SP  - 166188
+EP  - 166209
+ER  - 
+
+TY  - JOUR
+AU  - Lagiewska, M; Panek-Chwastyk, E
+TI  - Integrating Remote Sensing and Autonomous Robotics in Precision Agriculture: Current Applications and Workflow Challenges
+T2  - AGRONOMY-BASEL
+LA  - English
+KW  - autonomous robots; precision agriculture; remote sensing; multispectral sensors; LiDAR; PERFORMANCE; MANAGEMENT; SYSTEMS; IMPACT; WHEAT; FROST; WATER
+AB  - Remote sensing technologies are increasingly integrated with autonomous robotic platforms to enhance data-driven decision-making in precision agriculture. Rather than replacing conventional platforms such as satellites or UAVs, autonomous ground robots complement them by enabling high-resolution, site-specific observations in real time, especially at the plant level. This review analyzes how remote sensing sensors-including multispectral, hyperspectral, LiDAR, and thermal-are deployed via robotic systems for specific agricultural tasks such as canopy mapping, weed identification, soil moisture monitoring, and precision spraying. Key benefits include higher spatial and temporal resolution, improved monitoring of under-canopy conditions, and enhanced task automation. However, the practical deployment of such systems is constrained by terrain complexity, power demands, and sensor calibration. The integration of artificial intelligence and IoT connectivity emerges as a critical enabler for responsive, scalable solutions. By focusing on how autonomous robots function as mobile sensor platforms, this article contributes to the understanding of their role within modern precision agriculture workflows. The findings support future development pathways aimed at increasing operational efficiency and sustainability across diverse crop systems.
+AD  - Inst Geodesy & Cartog, Remote Sensing Ctr, PL-02679 Warsaw, Poland
+C3  - Institute of Geodesy & Cartography
+SN  - 2073-4395
+DA  - SEP 30
+PY  - 2025
+VL  - 15
+IS  - 10
+C7  - 2314
+DO  - 10.3390/agronomy15102314
+AN  - WOS:001602254800001
+N1  - Times Cited in Web of Science Core Collection:  6
+UR  - https://www.scopus.com/pages/publications/105020300585?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Parra-López, C; Ben Abdallah, S; Garcia-Garcia, G; Hassoun, A; Trollman, H; Jagtap, S; Gupta, S; Aït-Kaddour, A; Makmuang, S; Carmona-Torres, C
+TI  - Digital technologies for water use and management in agriculture: Recent applications and future outlook
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Agriculture 4.0; Digital transformation; Digitalisation; Water; Irrigation; Precision agriculture; CLIMATE-CHANGE; FORECASTING CORN; USE EFFICIENCY; BIG DATA; IRRIGATION; SYSTEM; STRATEGIES; SCARCITY; QUALITY; FIELD
+AB  - This article provides a comprehensive overview of digital technologies for water use and management in agriculture, examining recent applications and future prospects. It examines key water-related challenges- scarcity, pollution, inefficient use and climate change- and shows how various digital technologies such as Remote Sensing, Artificial Intelligence, the Internet of Things, Big Data, Robotics, Smart Sensors and Blockchain can help address them. The review finds that these technologies offer significant potential for improving water management practices, with Remote Sensing and Artificial Intelligence emerging as the most versatile and widely adopted. Efficient irrigation strategies appear to be the most common application across technologies. Digital solutions significantly reduce water wastage, help identify pollution hotspots, and improve overall water resource management. For example, remote sensing-based approaches (e.g. UAV-mounted multispectral cameras) can accurately monitor soil moisture to optimise irrigation scheduling, while AI-driven models (e.g. random forest or neural networks) can predict groundwater recharge or forecast rainfall events. However, several barriers to widespread adoption are identified, including high implementation costs, lack of technical expertise, data management challenges, and infrastructure and connectivity constraints. The study concludes by suggesting priorities for future research and development, highlighting the need for integrated technological solutions, improved accessibility and affordability, improved efficiency and sustainability, improved water quality, enhanced data management capabilities, and strategies to address emerging concerns such as cybersecurity and the environmental impact of digital technologies themselves. This review aims to inform future research, policy and practice in agricultural water management and support the development of more productive, resilient and sustainable agricultural systems.
+AD  - Inst Agr & Fisheries Res & Training IFAPA, Dept Agrifood Syst Econ, Ctr Camino de Purchil S-N, Granada 18004, Spain; Natl Inst Agron Res Tunisia INRAT, Lab Rural Econ, El Menzah 1, Tunis 10041001, Tunisia; Univ Granada, Fac Sci, Dept Chem Engn, Avda Fuentenueva S-N, Granada 18071, Spain; Sustainable AgriFoodtech Innovat & Res SAFIR, Arras, France; Univ Johannesburg, Coll Business & Econ, Johannesburg, South Africa; Univ Leicester, Ctr Sustainable Org Management, Sch Business, 266 London Rd, Leicester LE2 1RQ, England; Lund Univ, Fac Engn, Dept Mech Engn Sci, Ole Romers Vag 1,M Bldg, S-22363 Lund, Sweden; Cranfield Univ, Sustainable Mfg Syst Ctr, Cranfield MK43 0AL, England; Amity Univ Uttar Pradesh, Amity Sch Engn & Technol ASET, Dept Mech Engn, Sect 125, Noida 201313, India; Univ Clermont Auvergne, Unite Mixte Rech Fromage UMRF, INRAE, VetAgro Sup, 89 Ave LEurope, Auvergne, France; Univ Padjadjaran, Fac Agroind Technol, Sumedang, Indonesia; Univ Granada, Inst Reg Dev, Rector Lopez Argueta S-N, Granada 18071, Spain
+C3  - University of Granada; University of Johannesburg; University of Leicester; Lund University; Cranfield University; Amity University Noida; Universite Clermont Auvergne (UCA); INRAE; VetAgro Sup; Universitas Padjadjaran; University of Granada
+SN  - 0378-3774; 1873-2283
+DA  - MAR 31
+PY  - 2025
+VL  - 309
+C7  - 109347
+DO  - 10.1016/j.agwat.2025.109347
+AN  - WOS:001420064500001
+N1  - Times Cited in Web of Science Core Collection:  42
+UR  - https://www.scopus.com/pages/publications/85216577603?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Teixeira, AC; Bakon, M; Lopes, D; Cunha, A; Sousa, JJ
+TI  - A systematic review on soil moisture estimation using remote sensing data for agricultural applications
+T2  - SCIENCE OF REMOTE SENSING
+LA  - English
+KW  - Agriculture; Soil moisture; Retrieval; Microwave; Multispectral; Empirical models; Learning models; ROOT-ZONE; SURFACE-ROUGHNESS; VEGETATION; RETRIEVAL; MODEL; INDEX; WATER; SAR; RADAR; SENSORS
+AB  - Soil moisture plays a central role in agricultural sustainability and water-resource management under climate change and increasing water scarcity. Remote-sensing technologies have transformed soil-moisture estimation by enabling large-scale, high-resolution, and continuous monitoring. Following the PRISMA framework, this systematic review analyzes 64 studies published between 2016 and 2024, selected from 379 screened articles, focusing on agricultural applications. Remote-sensing data span optical, thermal, and microwave observations from satellites and unmanned aerial vehicles (UAVs), with estimation approaches classified as empirical, semi-empirical, physical, or learning-based. Satellite observations dominate the literature (73% of studies), while UAVs are increasingly used for high-resolution, site-specific assessments. Multi-sensor fusion, combining optical, thermal, and microwave data, is a growing strategy to overcome the limitations of individual sensors. Active SAR systems provide weather-independent measurements with high spatial resolution, whereas optical and thermal sensors offer valuable spectral indices but are limited by cloud cover and shallow penetration depth. Learning-based methods are the most frequent approach (54% of studies), using machine and deep learning to model complex relationships between soil moisture and remote-sensing variables. Principal challenges include vegetation interference, surface roughness, and limited in-situ calibration data. Mitigation strategies involve longer-wavelength SAR (L-and P-bands), multi-sensor fusion, downscaling, and integration of auxiliary datasets (soil texture, elevation, meteorology). By synthesizing recent advances and emerging trends, this review provides practical guidance for accurate, scalable, and operational soil-moisture monitoring in precision agriculture and environmental management.
+AD  - Univ Tras Os Montes & Alto Douro, Sch Sci & Technol, Engn Dept, Vila Real, Portugal; Inst Syst & Comp Engn Technol & Sci, Porto, Portugal; Univ Presov UNIPO, Dept Environm Econ & Management, Presov, Slovakia; Insar Sk Ltd, Presov, Slovakia; Univ Tras Os Montes & Alto Douro, Dept Forestry Sci & Landscape Architecture, Vila Real, Portugal; Univ Tras Os Montes & Alto Douro, Ctr Res & Technol Agroenvironm & Biol Sci, Vila Real, Portugal; Fundacao Coa Parque, Vila Nova De Foz Coa, Portugal; Univ Minho, ALGORITMI Res Ctr, Guimaraes, Portugal
+C3  - University of Tras-os-Montes & Alto Douro; INESC TEC; University of Tras-os-Montes & Alto Douro; University of Tras-os-Montes & Alto Douro; Universidade do Minho
+SN  - 2666-0172
+DA  - DEC
+PY  - 2025
+VL  - 12
+C7  - 100328
+DO  - 10.1016/j.srs.2025.100328
+AN  - WOS:001615508700001
+N1  - Times Cited in Web of Science Core Collection:  4
+UR  - https://www.scopus.com/pages/publications/105021092866?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Yadav, M; Vashisht, BB; Vullaganti, N; Kumar, P; Jalota, SK; Kumar, A; Kaushik, P
+TI  - UAV-enabled approaches for irrigation scheduling and water body characterization
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Canopy temperature; Crop monitoring; Machine learning; Precision agriculture; Sustainable; Water resources; SOIL-MOISTURE; MULTISPECTRAL IMAGERY; VARIABILITY; TEMPERATURE; MANAGEMENT; SYSTEM; BATHYMETRY; TOPOGRAPHY; VEGETATION; CATCHMENT
+AB  - In recent years, precision agriculture has seen a substantial increase in the use of unmanned aerial vehicles (UAVs). They have shown great potential in spraying, nutrient application, irrigation scheduling, field mapping, yield estimation, and crop monitoring. UAV-enabled approaches have transformed several industries, and they have enormous potential for irrigation water management and characterization of water reservoirs. This paper explores the use of UAVs for variable rate irrigation (VRI) which provides tailored irrigation based on crop water demand, weather conditions, and soil moisture levels using the indices viz canopy temperature, crop water stress index (CWSI), crop evapotranspiration, etc. UAV-VRI provides customized irrigation which increases crop yield and reduces total water uses by improving the water use efficiency. It further enables sustainable water resources management, particularly in water-scarce areas. UAVs offer versatile applications including mapping water quality, vegetation, and bathymetry of aquatic bodies such as lakes and reservoirs. The review highlights the advantages of UAVs over conventional techniques, including a cost-effective, high spatial and temporal resolution, frequent revisit time for irrigation scheduling and monitoring of water bodies which provide useful information for water resource managers and environmental researchers. However, It also discusses the challenges associated with UAVs such as legal issues, data processing, and the need for trained personnel. The massive amounts of data gathered by UAVs may be processed and analyzed using machine learning algorithms, enabling more effective and precise water management. The ongoing advancements in UAVs and machine learning ensure its potential for sustainable water resources management.
+AD  - Punjab Agr Univ, Dept Soil Sci, Ludhiana 141004, Punjab, India; ICAR IARI, Div Soil Sci & Agr Chem, New Delhi 110012, India; Rajasthan Univ Vet & Anim Sci Beechwal, Livestock Res Stn, Bikaner 334001, Rajasthan, India; Chaudhary Charan Singh Haryana Agr Univ, Hisar 125001, India
+C3  - Punjab Agricultural University; Indian Council of Agricultural Research (ICAR); ICAR - Indian Agricultural Research Institute; CCS Haryana Agricultural University
+SN  - 0378-3774; 1873-2283
+DA  - NOV 1
+PY  - 2024
+VL  - 304
+C7  - 109091
+DO  - 10.1016/j.agwat.2024.109091
+AN  - WOS:001332317400001
+N1  - Times Cited in Web of Science Core Collection:  14
+UR  - https://www.scopus.com/pages/publications/85205895087?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Sishodia, RP; Ray, RL; Singh, SK
+TI  - Applications of Remote Sensing in Precision Agriculture: A Review
+T2  - REMOTE SENSING
+LA  - English
+KW  - big data analysis; disease and pest management; nutrient management; satellite remote sensing; UAV; vegetation indices; water management; LEAF-AREA INDEX; UNMANNED AERIAL VEHICLE; OPTICAL TRAPEZOID MODEL; SOIL-MOISTURE; VEGETATION INDEXES; IRRIGATION MANAGEMENT; WINTER-WHEAT; NITROGEN STATUS; WATER-STRESS; NUTRIENT MANAGEMENT
+AB  - Agriculture provides for the most basic needs of humankind: food and fiber. The introduction of new farming techniques in the past century (e.g., during the Green Revolution) has helped agriculture keep pace with growing demands for food and other agricultural products. However, further increases in food demand, a growing population, and rising income levels are likely to put additional strain on natural resources. With growing recognition of the negative impacts of agriculture on the environment, new techniques and approaches should be able to meet future food demands while maintaining or reducing the environmental footprint of agriculture. Emerging technologies, such as geospatial technologies, Internet of Things (IoT), Big Data analysis, and artificial intelligence (AI), could be utilized to make informed management decisions aimed to increase crop production. Precision agriculture (PA) entails the application of a suite of such technologies to optimize agricultural inputs to increase agricultural production and reduce input losses. Use of remote sensing technologies for PA has increased rapidly during the past few decades. The unprecedented availability of high resolution (spatial, spectral and temporal) satellite images has promoted the use of remote sensing in many PA applications, including crop monitoring, irrigation management, nutrient application, disease and pest management, and yield prediction. In this paper, we provide an overview of remote sensing systems, techniques, and vegetation indices along with their recent (2015-2020) applications in PA. Remote-sensing-based PA technologies such as variable fertilizer rate application technology in Green Seeker and Crop Circle have already been incorporated in commercial agriculture. Use of unmanned aerial vehicles (UAVs) has increased tremendously during the last decade due to their cost-effectiveness and flexibility in obtaining the high-resolution (cm-scale) images needed for PA applications. At the same time, the availability of a large amount of satellite data has prompted researchers to explore advanced data storage and processing techniques such as cloud computing and machine learning. Given the complexity of image processing and the amount of technical knowledge and expertise needed, it is critical to explore and develop a simple yet reliable workflow for the real-time application of remote sensing in PA. Development of accurate yet easy to use, user-friendly systems is likely to result in broader adoption of remote sensing technologies in commercial and non-commercial PA applications.
+AD  - Prairie View A&M Univ, Coll Agr & Human Sci, Prairie View, TX 77446 USA; Univ Allahabad, K Banerjee Ctr Atmospher & Ocean Studies, IIDS, Nehru Sci Ctr, Prayagraj 211002, India
+C3  - Texas A&M University System; Prairie View A&M University; University of Allahabad
+SN  - 2072-4292
+DA  - OCT
+PY  - 2020
+VL  - 12
+IS  - 19
+C7  - 3136
+DO  - 10.3390/rs12193136
+AN  - WOS:000587176200001
+N1  - Times Cited in Web of Science Core Collection:  876
+ER  - 
+
+TY  - JOUR
+AU  - Fuentes-Peñailillo, F; del Campo-Hitschfeld, ML; Gutter, K; Torres-Quezada, E
+TI  - Data-Driven Integration of Remote Sensing, Agro-Meteorology, and Wireless Sensor Networks for Crop Water Demand Estimation: Tools Towards Sustainable Irrigation in High-Value Fruit Crops
+T2  - AGRONOMY-BASEL
+LA  - English
+KW  - precision irrigation; crop water stress index (CWSI); energy balance models; climate-resilient agriculture; decision support systems; PRECISION AGRICULTURE; MANAGEMENT; LANDSAT; IMAGERY; MODEL
+AB  - Despite advances in precision irrigation, no systematic review has yet integrated the roles of remote sensing, agro-meteorological data, and wireless sensor networks in high-value, water-sensitive crops such as mango, avocado, and vineyards. Existing research often isolates technologies or crop types, overlooking their convergence and joint performance in the field. This review fills that gap by examining how these tools estimate crop water demand and support sustainable, site-specific irrigation under variable climate conditions. A structured search across major databases yielded 365 articles, of which 92 met the inclusion criteria. Studies were grouped into four categories: remote sensing, agro-meteorology, wireless sensor networks, and integrated approaches. Remote sensing techniques, including multispectral and thermal imaging, enable the spatial monitoring of vegetation indices and stress indicators, such as the Crop Water Stress Index. Agro-meteorological data feed evapotranspiration models using temperature, humidity, wind, and radiation inputs. Wireless sensor networks provide continuous, localized data on soil moisture and canopy temperature. Integrated approaches combine these sources to improve irrigation recommendations. Findings suggest that combining remote sensing, wireless sensor networks, and agro-meteorological inputs can reduce water use by up to 30% without yield loss. Challenges include sensor calibration, data integration complexity, and limited scalability. This review also compares methodologies and highlights future directions, including artificial intelligence systems, digital twins, and affordable Internet of Things platforms for irrigation optimization.
+AD  - Univ Talca, Talca 3460000, Chile; Univ Talca, Fac Ingn, Ctr Tecnol Kipus, Curico 3340000, Chile; Univ Talca, Fac Ciencias Agr, Ciencias Agr, Talca 3460000, Chile; North Carolina State Univ, Hort Sci Dept, 2721 Founders Dr, Raleigh, NC 27607 USA
+C3  - Universidad de Talca; Universidad de Talca; Universidad de Talca; North Carolina State University
+SN  - 2073-4395
+DA  - SEP 4
+PY  - 2025
+VL  - 15
+IS  - 9
+C7  - 2122
+DO  - 10.3390/agronomy15092122
+AN  - WOS:001579459100001
+N1  - Times Cited in Web of Science Core Collection:  2
+UR  - https://www.scopus.com/pages/publications/105017171198?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Bazrafkan, A; Igathinathane, C; Bandillo, N; Flores, P
+TI  - Optimizing integration techniques for UAS and satellite image data in precision agriculture - a review
+T2  - FRONTIERS IN REMOTE SENSING
+LA  - English
+KW  - crop monitoring; satellite imagery; UAS imagery; image fusion; high-throughput phenotyping; RADIOMETRIC CALIBRATION; MULTISPECTRAL IMAGERY; ABOVEGROUND BIOMASS; SOIL-MOISTURE; FUSION METHOD; PLANT HEIGHT; YIELD; FIELDS; INDEX; LIDAR
+AB  - The fusion of unmanned aerial system (UAS) and satellite imagery has emerged as a pivotal strategy in advancing precision agriculture. This review explores the significance of integrating high-resolution UAS and satellite imagery via pixel-based, feature-based, and decision-based fusion methods. The study investigates optimization techniques, spectral synergy, temporal strategies, and challenges in data fusion, presenting transformative insights such as enhanced biomass estimation through UAS-satellite synergy, improved nitrogen stress detection in maize, and refined crop type mapping using multi-temporal fusion. The combined spectral information from UAS and satellite sources confirms instrumental in crop monitoring and biomass estimation. Temporal optimization strategies consider factors such as crop phenology, spatial resolution, and budget constraints, offering effective and continuous monitoring solutions. The review systematically addresses challenges in spatial and temporal resolutions, radiometric calibration, data synchronization, and processing techniques, providing practical solutions. Integrated UAS and satellite data impact precision agriculture, contributing to improved resolution, monitoring capabilities, resource allocation, and crop performance evaluation. A comparative analysis underscores the superiority of combined data, particularly for specific crops and scenarios. Researchers exhibit a preference for pixel-based fusion methods, aligning fusion goals with specific needs. The findings contribute to the evolving landscape of precision agriculture, suggesting avenues for future research and reinforcing the field's dynamism and relevance. Future works should delve into advanced fusion methodologies, incorporating machine learning algorithms, and conduct cross-crop application studies to broaden applicability and tailor insights for specific crops.
+AD  - North Dakota State Univ, Dept Agr & Biosyst Engn, Fargo, ND 58105 USA; North Carolina State Univ, Dept Crop & Soil Sci, Fargo, ND USA
+C3  - North Dakota State University Fargo; North Carolina State University
+SN  - 2673-6187
+DA  - JUN 24
+PY  - 2025
+VL  - 6
+C7  - 1622884
+DO  - 10.3389/frsen.2025.1622884
+AN  - WOS:001523810300001
+N1  - Times Cited in Web of Science Core Collection:  13
+ER  - 
+
+TY  - JOUR
+AU  - Khanal, S; Kushal, KC; Fulton, JP; Shearer, S; Ozkan, E
+TI  - Remote Sensing in Agriculture-Accomplishments, Limitations, and Opportunities
+T2  - REMOTE SENSING
+LA  - English
+KW  - remote sensing; satellite; UAS; precision agriculture; MACHINE-LEARNING TECHNIQUES; ELEVATION DATA SOURCES; RTK GPS SURVEY; SOIL-MOISTURE; NITROGEN MANAGEMENT; WINTER-WHEAT; VEGETATION INDEXES; PROTEIN-CONTENT; AERIAL IMAGES; WATER STATUS
+AB  - Remote sensing (RS) technologies provide a diagnostic tool that can serve as an early warning system, allowing the agricultural community to intervene early on to counter potential problems before they spread widely and negatively impact crop productivity. With the recent advancements in sensor technologies, data management and data analytics, currently, several RS options are available to the agricultural community. However, the agricultural sector is yet to implement RS technologies fully due to knowledge gaps on their sufficiency, appropriateness and techno-economic feasibilities. This study reviewed the literature between 2000 to 2019 that focused on the application of RS technologies in production agriculture, ranging from field preparation, planting, and in-season applications to harvesting, with the objective of contributing to the scientific understanding on the potential for RS technologies to support decision-making within different production stages. We found an increasing trend in the use of RS technologies in agricultural production over the past 20 years, with a sharp increase in applications of unmanned aerial systems (UASs) after 2015. The largest number of scientific papers related to UASs originated from Europe (34%), followed by the United States (20%) and China (11%). Most of the prior RS studies have focused on soil moisture and in-season crop health monitoring, and less in areas such as soil compaction, subsurface drainage, and crop grain quality monitoring. In summary, the literature highlighted that RS technologies can be used to support site-specific management decisions at various stages of crop production, helping to optimize crop production while addressing environmental quality, profitability, and sustainability.
+AD  - Ohio State Univ, Dept Food Agr & Biol Engn, Columbus, OH 43210 USA
+C3  - University System of Ohio; Ohio State University
+SN  - 2072-4292
+DA  - NOV
+PY  - 2020
+VL  - 12
+IS  - 22
+C7  - 3783
+DO  - 10.3390/rs12223783
+AN  - WOS:000595053500001
+N1  - Times Cited in Web of Science Core Collection:  332
+UR  - https://www.scopus.com/pages/publications/85096464905?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Palraj, S; Dhanaraju, M; Sellaperumal, P; Ramasamy, J; Kanniappan, G
+TI  - Applications of thermal infrared remote sensing in agriculture
+T2  - PLANT SCIENCE TODAY
+LA  - English
+KW  - agriculture; crop health monitoring; thermal remote sensing; thermal sensors; SOIL-MOISTURE; WATER STATUS; TILE DRAINAGE; GRAIN-YIELD; TEMPERATURE; INDEXES; WHEAT; EVAPOTRANSPIRATION; EMISSIVITY; IMAGERY
+AB  - Agriculture is a fundamental sector globally, particularly in developing countries, as it provides food, feed and non-food products essential for economic and societal stability. Advancements in remote sensing technologies have greatly enhanced agricultural productivity and management. Thermal infrared remote sensing (TIRS) is a transformative tool in agriculture, enabling precise monitoring of crop and soil conditions by capturing and analysing the emitted radiation in the thermal infrared spectrum (3-14 mu m). This technology offers critical insights into crop and soil health. Unlike optical sensing, thermal remote sensing supports crop water stressassessment, soil mapping, crop maturity assessment, yield estimation, tile drainage mapping and residue cover analysis. Integrating TIRS with multispectral and hyperspectral imaging enhances agricultural decision-making, optimises resource allocation and improves crop health. Future research should prioritize AI-driven real-time data processing by integrating machine learning, UAV-based imaging and IoTenabled monitoring systems. These advancements can enhance precision agriculture, optimize resource use and improve crop stress detection. As technological innovations continue to evolve, thermal remote sensing is poised to play a pivotal role in sustainable agricultural management, offering valuable insights to improve efficiency and resilience in farming practices.
+AD  - Tamil Nadu Agr Univ, Dept Remote Sensing & Geog Informat Syst, Coimbatore 641003, Tamil Nadu, India; Tamil Nadu Agr Univ, Ctr Water & Geospatial Studies, Coimbatore 641 003, Tamil Nadu, India; Tamil Nadu Agr Univ, Directorate Planning & Monitoring, Coimbatore 641003, Tamil Nadu, India
+C3  - Tamil Nadu Agricultural University; Tamil Nadu Agricultural University; Tamil Nadu Agricultural University
+SN  - 2348-1900
+PY  - 2025
+VL  - 12
+IS  - 3
+C7  - 9186
+DO  - 10.14719/pst.9186
+AN  - WOS:001578738400021
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105009856093?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Wang, J; Wang, YL; Qi, ZY
+TI  - Remote Sensing Data Assimilation in Crop Growth Modeling from an Agricultural Perspective: New Insights on Challenges and Prospects
+T2  - AGRONOMY-BASEL
+LA  - English
+KW  - remote sensing; crop growth model; data assimilation; precision agricultures; LEAF-AREA INDEX; WINTER-WHEAT YIELD; ENSEMBLE KALMAN FILTER; SOIL-MOISTURE; MONTE-CARLO; PARTICLE FILTER; VARIATIONAL ASSIMILATION; VEGETATION CONDITION; ERROR COVARIANCES; SIMULATION-MODELS
+AB  - The frequent occurrence of global climate change and natural disasters highlights the importance of precision agricultural monitoring, yield forecasting, and early warning systems. The data assimilation method provides a new possibility to solve the problems of low accuracy of yield prediction, strong dependence on the field, and poor adaptability of the model in traditional agricultural applications. Therefore, this study makes a systematic literature retrieval based on Web of Science, Scopus, Google Scholar, and PubMed databases, introduces in detail the assimilation strategies based on many new remote sensing data sources, such as satellite constellation, UAV, ground observation stations, and mobile platforms, and compares and analyzes the progress of assimilation models such as compulsion method, model parameter method, state update method, and Bayesian paradigm method. The results show that: (1) the new remote sensing platform data assimilation shows significant advantages in precision agriculture, especially in emerging satellite constellation remote sensing and UAV data assimilation. (2) SWAP model is the most widely used in simulating crop growth, while Aquacrop, WOFOST, and APSIM models have great potential for application. (3) Sequential assimilation strategy is the most widely used algorithm in the field of agricultural data assimilation, especially the ensemble Kalman filter algorithm, and hierarchical Bayesian assimilation strategy is considered to be a promising method. (4) Leaf area index (LAI) is considered to be the most preferred assimilation variable, and the study of soil moisture (SM) and vegetation index (VIs) has also been strengthened. In addition, the quality, resolution, and applicability of assimilation data sources are the key bottlenecks that affect the application of data assimilation in the development of precision agriculture. In the future, the development of data assimilation models tends to be more refined, diversified, and integrated. To sum up, this study can provide a comprehensive reference for agricultural monitoring, yield prediction, and crop early warning by using the data assimilation model.
+AD  - Gansu Agr Univ, Coll Informat Sci & Technol, Lanzhou 730070, Peoples R China
+C3  - Gansu Agricultural University
+SN  - 2073-4395
+DA  - SEP
+PY  - 2024
+VL  - 14
+IS  - 9
+C7  - 1920
+DO  - 10.3390/agronomy14091920
+AN  - WOS:001323874900001
+N1  - Times Cited in Web of Science Core Collection:  23
+UR  - https://www.scopus.com/pages/publications/85205062834?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Jeziorska, J
+TI  - UAS for Wetland Mapping and Hydrological Modeling
+T2  - REMOTE SENSING
+LA  - English
+KW  - UAS; UAV; drone; wetlands; hydrological modeling; STRUCTURE-FROM-MOTION; UNMANNED AIRCRAFT SYSTEMS; SURFACE SOIL-MOISTURE; INPUT DATA RESOLUTION; WATER-STRESS INDEX; PRECISION AGRICULTURE; DIGITAL PHOTOGRAMMETRY; AERIAL VEHICLES; TIME; CLASSIFICATION
+AB  - The miniaturization and affordable production of integrated microelectronics have improved in recent years, making unmanned aerial systems (UAS) accessible to consumers and igniting their interest. Researchers have proposed UAS-based solutions for almost any conceivable problem, but the greatest impact will likely be in applications that exploit the unique advantages of the technology: work in dangerous or difficult-to-access areas, high spatial resolution and/or frequent measurements of environmental phenomena, and deployment of novel sensing technology over small to moderate spatial scales. Examples of such applications may be the identification of wetland areas and use of high-resolution spatial data for hydrological modeling. However, because of the large-and growing-assortment of aircraft and sensors available on the market, an evolving regulatory environment, and limited practical guidance or examples of wetland mapping with UAS, it has been difficult to confidently devise or recommend UAS-based monitoring strategies for these applications. This paper provides a comprehensive review of UAS hardware, software, regulations, scientific applications, and data collection/post-processing procedures that are relevant for wetland monitoring and hydrological modeling.
+AD  - North Carolina State Univ, Ctr Geospatial Anal, Raleigh, NC 27695 USA; 2800 Faucette Dr, Raleigh, NC 27695 USA
+C3  - North Carolina State University
+SN  - 2072-4292
+DA  - SEP 1
+PY  - 2019
+VL  - 11
+IS  - 17
+C7  - 1997
+DO  - 10.3390/rs11171997
+AN  - WOS:000486874300041
+N1  - Times Cited in Web of Science Core Collection:  60
+ER  - 
+
+TY  - JOUR
+AU  - Mowla, N; Mowla, N; Chowdhury, SR; Rabie, KM; Shongwe, T
+TI  - Unmanned aerial vehicles (UAVs) for smart agriculture with machine learning: A system-oriented review of methods, applications, and challenges
+T2  - SMART AGRICULTURAL TECHNOLOGY
+LA  - English
+KW  - Unmanned aerial vehicles; Machine learning; Smart agriculture; Remote sensing; Edge computing; PRECISION AGRICULTURE; SOIL-MOISTURE; ARTIFICIAL-INTELLIGENCE; YIELD PREDICTION; TECHNOLOGIES; MODELS; PATH; OPPORTUNITIES; COMMUNICATION; OPTIMIZATION
+AB  - Rising food demand and climate variability are accelerating the adoption of smart agriculture (SA), where unmanned aerial vehicles (UAVs) coupled with machine learning (ML) provide on-demand, high-resolution information for agronomic decision-making. However, most existing reviews focus on UAV platforms, sensors, communication links, and ML algorithms in isolation, and rarely examine how these layers interact in operational agricultural settings. This study surveys ML-enabled UAV applications in agriculture published since 2020. It introduces a layered architecture that links UAV airframe and payload design, sensor configuration, navigation and positioning, and communication subsystems with an end-to-end ML pipeline for data acquisition, preprocessing, feature engineering, model training, validation, and deployment. The survey places particular emphasis on traditional ML methods that are well-suited to moderate-sized datasets, edge or near-edge deployment, and agronomic interpretability. Across major application areas, it critically assesses methodological robustness and transferability and clarifies how flight planning and sensing choices propagate to model reliability. Finally, the study identifies current challenges and provides actionable recommendations for integrating advanced UAV-ML technologies into future SA systems.
+AD  - Adana Alparslan Turkes Sci & Technol Univ, Grad Sch, Dept Elect & Elect Engn, TR-01250 Sarcam, Adana, Turkiye; North South Univ, Dept Elect & Comp Engn, Dhaka 1229, Bangladesh; King Fahd Univ Petr & Minerals, Dept Comp Engn, Dhahran 5051, Saudi Arabia; King Fahd Univ Petr & Minerals, Ctr Commun Syst & Sensing, Dhahran 5051, Saudi Arabia; Univ Johannesburg, Dept Elect & Elect Engn Technol, ZA-2006 Johannesburg, South Africa
+C3  - Adana Alparslan Turkes Science & Technology University; North South University (NSU); King Fahd University of Petroleum & Minerals; King Fahd University of Petroleum & Minerals; University of Johannesburg
+SN  - 2772-3755
+DA  - MAR
+PY  - 2026
+VL  - 13
+C7  - 101880
+DO  - 10.1016/j.atech.2026.101880
+AN  - WOS:001702776200001
+N1  - Times Cited in Web of Science Core Collection:  1
+ER  - 
+
+TY  - JOUR
+AU  - Singh, R; Sharma, L; Singh, H; Zotarelli, L
+TI  - Remote Sensing and Machine Learning for Irrigation Management in Potato Cultivation: A Systematic Review
+T2  - AMERICAN JOURNAL OF POTATO RESEARCH
+LA  - English
+KW  - Precision irrigation; Crop water stress detection; Evapotranspiration modeling; Machine learning for water management; Soil moisture estimation; Crop coefficient estimation; SOIL-MOISTURE; CANOPY TEMPERATURE; WATER MANAGEMENT; STRESS; EVAPOTRANSPIRATION; CROP; AGRICULTURE; REFLECTANCE; EFFICIENCY; FIELD
+AB  - Irrigation efficiency is vital for sustaining potato productivity under increasing climate variability and global water scarcity. As a shallow-rooted, water-sensitive crop, potato requires precise irrigation scheduling to optimize yield and tuber quality. Recent advances in remote sensing and machine learning (ML) have enabled high-resolution monitoring of crop water status, offering promising tools for automated irrigation management. This systematic review synthesizes research from 49 peer-reviewed studies (2000-2025), identified through Scopus and Web of Science using PRISMA guidelines. The findings highlight a growing use of UAV-based multispectral and thermal imaging to estimate evapotranspiration, soil moisture, and canopy temperature. ML algorithms, particularly random forest (RF), support vector machine (SVM), and partial least squares regression (PLSR), have been used to model crop water needs. However, gaps remain in the application of UAV-based hyperspectral imaging, root-zone moisture modeling, and accurate crop coefficient (Kc) estimation. Common challenges include cloud interference, limited field-scale validation, and poor system interoperability. To achieve scalable and site-specific irrigation in potato systems, future research should prioritize sensor fusion, robust model development across diverse environments, and user-focused decision support tools. Addressing these gaps is essential for advancing sustainable irrigation strategies tailored to potato's unique water requirements. Resumen La eficiencia del riego es vital para mantener la productividad de la papa bajo la creciente variabilidad clim & aacute;tica y la escasez mundial de agua. Como cultivo de ra & iacute;ces superficiales y sensible al agua, la papa requiere una programaci & oacute;n de riego precisa para optimizar el rendimiento y la calidad de los tub & eacute;rculos. Los avances recientes en teledetecci & oacute;n y aprendizaje autom & aacute;tico (ML) han permitido el monitoreo de alta resoluci & oacute;n del estado del agua de los cultivos, ofreciendo herramientas prometedoras para la gesti & oacute;n automatizada del riego. Esta revisi & oacute;n sistem & aacute;tica sintetiza la investigaci & oacute;n de 49 estudios revisados por pares (2000-2025), identificados a trav & eacute;s de Scopus y red de ciencias (Web of Science) utilizando las pautas PRISMA. Los hallazgos destacan un uso creciente de im & aacute;genes t & eacute;rmicas y multiespectrales basadas en UAV para estimar la evapotranspiraci & oacute;n, la humedad del suelo y la temperatura del dosel. Los algoritmos de ML, en particular los bosques aleatorios, las m & aacute;quinas de vectores de soporte y la regresi & oacute;n de m & iacute;nimos cuadrados parciales, se han utilizado para modelar las necesidades de agua de los cultivos. Sin embargo, siguen existiendo lagunas en la aplicaci & oacute;n de im & aacute;genes hiperespectrales basadas en UAV, el modelado de la humedad de la zona radical y la estimaci & oacute;n precisa del coeficiente de cultivo (Kc). Los desaf & iacute;os comunes incluyen interferencia en la nube, validaci & oacute;n limitada a escala de campo y poca interoperabilidad del sistema. Para lograr un riego escalable y espec & iacute;fico del sitio en los sistemas de papa, la investigaci & oacute;n futura debe priorizar la fusi & oacute;n de sensores, el desarrollo de modelos s & oacute;lidos en diversos entornos y herramientas de apoyo a la toma de decisiones centradas en el usuario.
+AD  - Univ Florida, Soil Water & Ecosyst Sci Dept, Gainesville, FL 32611 USA; Univ Florida, West Florida Res & Educ Ctr, Jay, FL 32565 USA; Univ Florida, Hort Sci Dept, Gainesville, FL 32611 USA
+C3  - State University System of Florida; University of Florida; State University System of Florida; University of Florida; State University System of Florida; University of Florida
+SN  - 1099-209X; 1874-9380
+DA  - FEB
+PY  - 2026
+VL  - 103
+IS  - 1
+DO  - 10.1007/s12230-025-10029-3
+AN  - WOS:001627885600001
+N1  - Times Cited in Web of Science Core Collection:  0
+SP  - 1
+EP  - 16
+ER  - 
+
+TY  - JOUR
+AU  - Ali, A; Hassan, MU; Kaul, HP
+TI  - Broad Scope of Site-Specific Crop Management and Specific Role of Remote Sensing Technologies Within It-A Review
+T2  - JOURNAL OF AGRONOMY AND CROP SCIENCE
+LA  - English
+KW  - LEAF-AREA INDEX; PRECISION AGRICULTURE TECHNOLOGY; IMPROVE NITROGEN MANAGEMENT; SOIL-MOISTURE; SPATIAL VARIABILITY; ORGANIC-CARBON; VEGETATION INDEXES; SATELLITE IMAGERY; WATER-CONTENT; DATA FUSION
+AB  - Precision agriculture (PA) has great potential to increase agricultural productivity and profitability while reducing input costs and environmental impacts. Within PA, site-specific crop management (SSCM) is considered the main premise, in which tillage operations and precise crop inputs (such as seed, fertiliser, water, pesticide and agrochemical) are applied according to field variability. The main aim of this review was to highlight the methods and tools used for spatial crop monitoring, soil and weather data influencing crop productivity and to support the adoption of SSCM technology. To achieve this goal: we discussed the main five components of SSCM, methods for monitoring crop and soil data, delineating field management zones (FMZs) and variable rate technologies (VRT) such as precision planting and digital smart sensors used for SSCM application. The review summarised that recent advances in plant and soil sensing systems, artificial intelligence (AI) and machine learning should be used in retrieving and analysing GIS big data for optimised crop inputs supply. Within VRT, light-bar systems, automatic controllers and sensors are user-friendly technologies that should be employed in SSCM solution. The authors highlight that adoption of PA can be increased through proper training and education of the farmers, and developing simple, affordable and efficient PA technologies. The review suggests five criteria that should be strictly adopted to get maximum benefits from SSCM: (i) all factors influencing crop yields can be identified; (ii) their effects on crop yields can be determined by using appropriate digital tools and crop modelling; (iii) variable rate crop inputs (VRCIs) should be calculated based on accurate information obtained from plant, soil and environment; (iv) targeted crop inputs should be exercised through global positioning system (GPS) enabled automatic controllers or wireless sensors network (WSN); and (v) right doses of crop inputs (e.g., nitrogen and irrigation) must be applied at the right time and place.
+AD  - Univ Bologna, Dept Agr & Food Sci DISTAL, Bologna, Italy; Jiangxi Agr Univ, Res Ctr Ecol Sci, Nanchang, Peoples R China; Univ Nat Resources & Life Sci Vienna BOKU, Inst Agron, Dept Crop Sci, Tulln, Austria
+C3  - University of Bologna; Jiangxi Agricultural University; BOKU University
+SN  - 0931-2250; 1439-037X
+DA  - JUL 17
+PY  - 2024
+VL  - 210
+IS  - 4
+C7  - e12732
+DO  - 10.1111/jac.12732
+AN  - WOS:001269085300001
+N1  - Times Cited in Web of Science Core Collection:  14
+ER  - 
+
+TY  - JOUR
+AU  - Huang, JY; Sehgal, V; Alvarez, LV; Brocca, L; Cai, SH; Cheng, R; Cheng, XH; Du, JY; El Masri, B; Endsley, KA; Fang, YL; Hu, J; Jampani, M; Kibria, MG; Koren, G; Li, LC; Liu, LB; Mao, JF; Moreno, HA; Rigden, A; Shi, MJ; Shi, XY; Wang, YP; Zhang, X; Fisher, JB
+TI  - Remotely Sensed High-Resolution Soil Moisture and Evapotranspiration: Bridging the Gap Between Science and Society
+T2  - WATER RESOURCES RESEARCH
+LA  - English
+KW  - soil moisture; evapotranspiration; remote sensing; high-resolution; machine learning; water resources management; LAND-SURFACE PARAMETERS; ATMOSPHERE WATER FLUX; WACMOS-ET PROJECT; LATENT-HEAT FLUX; FLASH DROUGHTS; ENERGY-BALANCE; MODEL DEVELOPMENT; EDDY COVARIANCE; DATA SETS; SAP FLOW
+AB  - This paper reviews the current state of high-resolution remotely sensed soil moisture (SM) and evapotranspiration (ET) products and modeling, and the coupling relationship between SM and ET. SM downscaling approaches for satellite passive microwave products leverage advances in artificial intelligence and high-resolution remote sensing using visible, near-infrared, thermal-infrared, and synthetic aperture radar sensors. Remotely sensed ET continues to advance in spatiotemporal resolutions from MODIS to ECOSTRESS to Hydrosat and beyond. These advances enable a new understanding of bio-geo-physical controls and coupled feedback mechanisms between SM and ET reflecting the land cover and land use at field scale (3-30 m, daily). Still, the state-of-the-science products have their challenges and limitations, which we detail across data, retrieval algorithms, and applications. We describe the roles of these data in advancing 10 application areas: drought assessment, food security, precision agriculture, soil salinization, wildfire modeling, dust monitoring, flood forecasting, urban water, energy, and ecosystem management, ecohydrology, and biodiversity conservation. We discuss that future scientific advancement should focus on developing open-access, high-resolution (3-30 m), sub-daily SM and ET products, enabling the evaluation of hydrological processes at finer scales and revolutionizing the societal applications in data-limited regions of the world, especially the Global South for socio-economic development.
+AD  - Univ Wisconsin Madison, Dept Soil & Environm Sci, Madison, WI USA; Louisiana State Univ, Sch Plant Environm & Soil Sci, Baton Rouge, LA USA; Univ Texas El Paso, Dept Earth Environm & Resource Sci, El Paso, TX USA; CNR, Res Inst Geohydrol Protect, Perugia, Italy; Claremont McKenna Coll, Kravis Dept Integrated Sci, Claremont, CA USA; Univ Connecticut, Dept Nat Resources & Environm, Storrs, CT USA; Univ Montana, WA Franke Coll Forestry & Conservat, Numer Terradynam Simulat Grp, Missoula, MT USA; Murray State Univ, Dept Earth & Environm Sci, Murray, KY USA; Pacific Northwest Natl Lab, Energy & Environm Div, Richland, WA USA; CGIAR, Int Water Management Inst, Colombo, Sri Lanka; Morehead State Univ, Dept Engn Sci, Morehead, KY USA; Univ Utrecht, Copernicus Inst Sustainable Dev, Utrecht, Netherlands; Pacific Northwest Natl Lab, Atmospher Climate & Earth Sci Div, Richland, WA USA; Univ Hong Kong, Dept Geog, Hong Kong, Peoples R China; Univ Hong Kong, Inst Climate & Carbon Neutral, Hong Kong, Peoples R China; Oak Ridge Natl Lab, Environm Sci Div, Oak Ridge, TN USA; Oak Ridge Natl Lab, Climate Change Sci Inst, Oak Ridge, TN USA; Univ Calif Irvine, Dept Earth Syst Sci, Irvine, CA USA; Univ Tennessee, Dept Biosyst Engn & Soil Sci, Knoxville, TN USA; Chapman Univ, Schmid Coll Sci & Technol, Orange, CA USA
+C3  - University of Wisconsin System; University of Wisconsin Madison; Louisiana State University System; Louisiana State University; University of Texas System; University of Texas El Paso; Consiglio Nazionale delle Ricerche (CNR); Claremont Colleges; Claremont McKenna College; Claremont Graduate University; University of Connecticut; University of Montana System; University of Montana; Murray State University; United States Department of Energy (DOE); Pacific Northwest National Laboratory; CGIAR; International Water Management Institute (IWMI); Morehead State University; Utrecht University; United States Department of Energy (DOE); Pacific Northwest National Laboratory; University of Hong Kong; University of Hong Kong; United States Department of Energy (DOE); Oak Ridge National Laboratory; United States Department of Energy (DOE); Oak Ridge National Laboratory; University of California System; University of California Irvine; University of Tennessee System; University of Tennessee Knoxville; UT Institute of Agriculture; Chapman University System; Chapman University
+SN  - 0043-1397; 1944-7973
+DA  - MAY 13
+PY  - 2025
+VL  - 61
+IS  - 5
+C7  - e2024WR037929
+DO  - 10.1029/2024WR037929
+AN  - WOS:001487825500001
+N1  - Times Cited in Web of Science Core Collection:  13
+UR  - https://www.scopus.com/pages/publications/105005025653?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Niu, HY; Hollenbeck, D; Zhao, TB; Wang, D; Chen, YQ
+TI  - Evapotranspiration Estimation with Small UAVs in Precision Agriculture
+T2  - SENSORS
+LA  - English
+KW  - clumped canopy; evapotranspiration; unmanned aerial vehicles; METRIC; remote sensing; ENERGY-BALANCE ALGORITHM; UNMANNED AERIAL VEHICLES; REMOTELY-SENSED DATA; ESTIMATING EVAPORATION; WATER-STRESS; HEAT-FLUX; MAPPING EVAPOTRANSPIRATION; RADIOMETRIC TEMPERATURE; INFRARED THERMOMETRY; EMPIRICAL EQUATIONS
+AB  - Estimating evapotranspiration (ET) has been one of the most critical research areas in agriculture because of water scarcity, the growing population, and climate change. The accurate estimation and mapping of ET are necessary for crop water management. Traditionally, researchers use water balance, soil moisture, weighing lysimeters, or an energy balance approach, such as Bowen ratio or eddy covariance towers to estimate ET. However, these ET methods are point-specific or area-weighted measurements and cannot be extended to a large scale. With the advent of satellite technology, remote sensing images became able to provide spatially distributed measurements. However, the spatial resolution of multispectral satellite images is in the range of meters, tens of meters, or hundreds of meters, which is often not enough for crops with clumped canopy structures, such as trees and vines. Unmanned aerial vehicles (UAVs) can mitigate these spatial and temporal limitations. Lightweight cameras and sensors can be mounted on the UAVs and take high-resolution images. Unlike satellite imagery, the spatial resolution of the UAV images can be at the centimeter-level. UAVs can also fly on-demand, which provides high temporal imagery. In this study, the authors examined different UAV-based approaches of ET estimation at first. Models and algorithms, such as mapping evapotranspiration at high resolution with internalized calibration (METRIC), the two-source energy balance (TSEB) model, and machine learning (ML) are analyzed and discussed herein. Second, challenges and opportunities for UAVs in ET estimation are also discussed, such as uncooled thermal camera calibration, UAV image collection, and image processing. Then, the authors share views on ET estimation with UAVs for future research and draw conclusive remarks.
+AD  - Univ Calif, Elect Engn & Comp Sci Dept, Merced, CA 95340 USA; Univ Calif, Mech Engn Dept, Merced, CA 95340 USA; USDA ARS, San Joaquin Valley Agr Sci Ctr, Parlier, CA 93648 USA; MESA Lab, Room 22,4225 Hosp Rd, Atwater, CA 95301 USA
+C3  - University of California System; University of California Merced; University of California System; University of California Merced; United States Department of Agriculture (USDA)
+SN  - 1424-8220
+DA  - NOV
+PY  - 2020
+VL  - 20
+IS  - 22
+C7  - 6427
+DO  - 10.3390/s20226427
+AN  - WOS:000594604400001
+N1  - Times Cited in Web of Science Core Collection:  52
+UR  - https://www.scopus.com/pages/publications/85096035498?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Wang, TX; Sun, SK; Yin, YL; Zhao, JF; Tang, YH; Wang, YB; Gao, F; Luan, XB
+TI  - Status of crop water use efficiency evaluation methods: A review
+T2  - AGRICULTURAL AND FOREST METEOROLOGY
+LA  - English
+KW  - Water use efficiency; WUE; Remote sensing; Crop model; Data assimilation; CARBON-ISOTOPE DISCRIMINATION; REMOTE-SENSING DATA; CLIMATE-CHANGE; DATA ASSIMILATION; LOESS PLATEAU; SIMULATION-MODEL; YIELD ESTIMATION; SOIL-MOISTURE; WINTER-WHEAT; COVER CROP
+AB  - Due to the impacts of climate change and human activities on scarcity and uneven spatial distribution of water resources, water use efficiency (WUE) has gained significant attention. Currently, there is a lack of research on estimating WUE with higher accuracy and stronger mechanism on the large regional scale. This study systematically reviewed the status and hotspots from an amount of studies and analyzed various concepts and estimation methods of WUE at different scales. Additionally, we discussed the limitations and challenges of these studies to point out the future opportunities. WUE at different scales could not be directly scale transferred as WUE varied at various scales. Recently, the remote sensing gross primary productivity (GPP) and evapotranspiration (ET) products, the remote sensing crop distribution recognition models, remote sensing ET and yield estimation models have improved the accuracy of WUE estimation at the regional scale, but lack of mechanical explanation. However, data assimilation provided a stronger mechanistic interpretation of WUE estimation at the regional scale by coupling remote sensing data and crop models. Optimized data assimilation method for coupling multi-source remote sensing fusion platform, unmanned aerial vehicle (UAV) platform and crop model would be a better approach to quantify WUE of the large area in the future. It is also necessary to incorporate crop types and irrigation allocations into high spatial resolution crop-specific WUE modeling. Therefore, integrating multi-source remote sensing data, ensemble using multi-crop models, innovating near-real-time seamless efficient data assimilation algorithms at the regional scale, and refining multi-variables assimilation at different crop growth stages are the research hotspots in the future. This study will provide useful guidance for optimizing water resource management in precision agriculture and improving the efficient utilization of water resources.
+AD  - Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid Semiarid Areas, Minist Educ, Yangling 712100, Peoples R China; Northwest A&F Univ, Inst Water Saving Agr Arid Areas China, Yangling 712100, Shaanxi, Peoples R China; Northwest A&F Univ, Coll Water Resources & Architectural Engn, Yngling 712100, Shaanxi, Peoples R China
+C3  - Northwest A&F University - China; Northwest A&F University - China; Northwest A&F University - China
+SN  - 0168-1923; 1873-2240
+DA  - APR 15
+PY  - 2024
+VL  - 349
+C7  - 109961
+DO  - 10.1016/j.agrformet.2024.109961
+AN  - WOS:001216814800001
+N1  - Times Cited in Web of Science Core Collection:  23
+ER  - 
+
+TY  - JOUR
+AU  - Acharya, BS; Bhandari, M; Bandini, F; Pizarro, A; Perks, M; Joshi, DR; Wang, S; Dogwiler, T; Ray, RL; Kharel, G; Sharma, S
+TI  - Unmanned Aerial Vehicles in Hydrology and Water Management: Applications, Challenges, and Perspectives
+T2  - WATER RESOURCES RESEARCH
+LA  - English
+KW  - environmental monitoring; hydrology; hyperspectral sensors; LiDAR; modeling; remote sensing; unmanned aerial vehicles; SURFACE-SOIL-MOISTURE; PARTICLE IMAGE VELOCIMETRY; THERMAL INFRARED IMAGERY; SNOW DEPTH; SPATIAL-RESOLUTION; GROUNDWATER DISCHARGE; MULTISPECTRAL IMAGERY; UAV; BATHYMETRY; VELOCITY
+AB  - The hydrologic sciences and water resources management have long depended on a combination of in situ measurements and remotely sensed data for research and regulatory purposes. In situ measurements are constrained in their spatial distribution by both logistics and costs. Satellite- and manned aircraft-based remote sensing provide spatially broad data, but often of a coarse resolution. Furthermore, all these data collection methods are often limited in their ability to respond to specific short-term events when the data and imagery could inform real-time assessment and decision-making, especially during and immediately after natural disasters. Researchers and regulators are increasingly using unmanned aerial vehicles (UAVs) to fill these gaps in both spatial and temporal data resolution. UAVs are often more cost-effective than traditional remote sensing or in situ data collection methodologies and the availability of new advancements in UAV design, power supply, payload capacity, and sensors has been driving rapid innovations in their use in the hydrological sciences. This in-depth review explores these UAV technologies and how they are being employed for on-demand and cost-effective characterization, monitoring, assessment, and modeling of soil and water resources. Our discussion addresses both key opportunities and challenges in surface water and groundwater studies, land-atmosphere interaction studies, water management in agriculture and forestry, ecosystem monitoring, and hydrological modeling.
+AD  - Dept Mines, Oklahoma City, OK 73106 USA; Texas A&M AgriLife Res & Extens Ctr, Corpus Christi, TX USA; Tech Univ Denmark, Dept Environm Engn, Lyngby, Denmark; Univ Diego Portales, Escuela Ingn Obras Civiles, Santiago, Chile; Newcastle Univ, Sch Geog Polit & Sociol, Newcastle Upon Tyne, Tyne & Wear, England; South Dakota State Univ, Dept Agron Hort & Plant Sci, Brookings, SD 57007 USA; Univ Illinois, Inst Sustainabil Energy & Environm, Urbana, IL USA; Missouri State Univ, Dept Geog Geol & Planning, Springfield, MO USA; Prairie View A&M Univ, Prairie View, TX USA; Texas Christian Univ, Dept Environm Sci, Ft Worth, TX 76129 USA; Penn State Univ, Dept Ecosyst Sci & Management, University Pk, PA 16802 USA
+C3  - Texas A&M University System; Texas A&M University Corpus Christi; Texas A&M University College Station; Technical University of Denmark; University Diego Portales; Newcastle University - UK; South Dakota State University; University of Illinois System; University of Illinois Urbana-Champaign; Missouri State University; Texas A&M University System; Prairie View A&M University; Texas Christian University; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park
+SN  - 0043-1397; 1944-7973
+DA  - NOV
+PY  - 2021
+VL  - 57
+IS  - 11
+C7  - e2021WR029925
+DO  - 10.1029/2021WR029925
+AN  - WOS:000723106900037
+N1  - Times Cited in Web of Science Core Collection:  122
+ER  - 
+
+TY  - JOUR
+AU  - Karthikeyan, L; Chawla, I; Mishra, AK
+TI  - A review of remote sensing applications in agriculture for food security: Crop growth and yield, irrigation, and crop losses
+T2  - JOURNAL OF HYDROLOGY
+LA  - English
+KW  - Agriculture; Remote sensing; Crop yield; Data assimilation; Irrigation; Crop losses; LEAF-AREA INDEX; VEGETATION OPTICAL DEPTH; ZONE SOIL-MOISTURE; WATER-STRESS INDEX; MODIS TIME-SERIES; X-BAND SAR; WAVE RADAR BACKSCATTERING; USE/LAND-COVER LULC; DATA ASSIMILATION; PADDY-RICE
+AB  - The global population is expected to reach 9.8 billion by 2050. There is an exponential growth of food production to meet the needs of the growing population. However, the limited land and water resources, climate change, and an increase in extreme events likely to pose a significant threat for achieving the sustainable agriculture goal. Given these challenges, food security is included in the United Nations' Sustainable Development Goals (SDGs). Since the advent of Sputnik, followed by the Explorer missions, satellite remote sensing is assisting us in collecting the data at global scales. In this work, we review how satellite remote sensing information is utilized to assess and manage agriculture, an important component of ecohydrology. Overall, three critical aspects of agriculture are considered: (a) crop growth and yield through empirical models, physics-based models, and data assimilation in crop models, (b) applications pertaining to irrigation, which include mapping irrigation areas and quantification of irrigation, and (c) crop losses due to pests, diseases, crop lodging, and weeds. The emphasis is on satellite sensors in optical, thermal, microwave, and fluorescence frequencies. We conclude the review with an outlook of challenges and recommendations. This paper is the first of a two-part review series. The second part reviews the role of satellite remote sensing in water security, wherein we discuss the aspects of water quality and quantity along with extremes (floods and droughts).
+AD  - Indian Inst Technol, Ctr Studies Resources Engn, Mumbai, Maharashtra, India; Dept Civil Engn, Clemson, SC 29634 USA; Indian Inst Sci, Interdisciplinary Ctr Water Res ICWaR, Bangalore, Karnataka, India
+C3  - Indian Institute of Technology System (IIT System); Indian Institute of Technology (IIT) - Bombay; Indian Institute of Science (IISC) - Bangalore
+SN  - 0022-1694; 1879-2707
+DA  - JUL
+PY  - 2020
+VL  - 586
+C7  - 124905
+DO  - 10.1016/j.jhydrol.2020.124905
+AN  - WOS:000544258100064
+N1  - Times Cited in Web of Science Core Collection:  377
+ER  - 
+
+TY  - JOUR
+AU  - Yang, LL; Lu, B; Schmidt, M; Natesan, S; Mccaffrey, D
+TI  - Applications of remote sensing for crop residue cover mapping
+T2  - SMART AGRICULTURAL TECHNOLOGY
+LA  - English
+KW  - Remote sensing; Crop residue cover; Precision agriculture; Platform; Sensor; CONTRASTING TILLAGE PRACTICES; NONPHOTOSYNTHETIC VEGETATION; HYPERSPECTRAL DATA; NEURAL-NETWORK; SOIL; LANDSAT; INDEX; BIOMASS; IMAGES; HYPERION
+AB  - Crop residue is critical for the health of soils and crops as it can maintain soil moisture, reduce soil erosion, support soil nutrient cycling, and increase soil carbon sequestration. Monitoring crop residue cover (CRC) is thus essential for understanding the distribution and amount of crop residues in the field and for developing corresponding management strategies. Remote sensing is a powerful geospatial technique that enables the collection of images covering large areas repeatedly, which can contribute greatly to CRC mapping. This paper reviews the use of remote sensing in estimating CRC, focusing on different remote sensing platforms (e.g., satellites and drones), sensors (e.g., multispectral, hyperspectral, non-optical) and analytical methods (e.g., spectral unmixing, image classification). A total of 101 studies were selected based on their relevance to the scope of this review. The review found that while remote sensing technologies have shown great potential in accurately monitoring CRC, challenges remain in data integration, sensor selection, and computational demands, pointing to the need for ongoing research to optimize crop residue monitoring. This review is expected to bring more insights to agricultural researchers and practitioners and promote developing effective techniques for CRC mapping and management.
+AD  - Simon Fraser Univ, Dept Geog, 8888 Univ Dr, Burnaby, BC V5A 1S6, Canada; Miraterra Inc, 199 W 6th Ave, Vancouver, BC V5Y 1K3, Canada
+C3  - Simon Fraser University
+SN  - 2772-3755
+DA  - AUG
+PY  - 2025
+VL  - 11
+C7  - 100880
+DO  - 10.1016/j.atech.2025.100880
+AN  - WOS:001443814100001
+N1  - Times Cited in Web of Science Core Collection:  10
+UR  - https://www.scopus.com/pages/publications/86000319164?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Dong, H; Dong, JH; Sun, SK; Bai, T; Zhao, DM; Yin, YL; Shen, X; Wang, YK; Zhang, ZT; Wang, YB
+TI  - Crop water stress detection based on UAV remote sensing systems
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - UAV; CWSI; RGB; Optical; Multi-spectral; Hyper-spectral; DRY-MATTER TRANSLOCATION; UNMANNED AERIAL VEHICLE; PHOTOSYNTHETIC CHARACTERISTICS; WINTER-WHEAT; AREA INDEX; CHLOROPHYLL FLUORESCENCE; CANOPY TEMPERATURE; DROUGHT STRESS; USE EFFICIENCY; EVAPOTRANSPIRATION
+AB  - Agricultural water accounts for more than 70 % of the total global water usage, and the scarcity of global freshwater resources will largely limit global agricultural production. Precision irrigation is the key to improving water efficiency and achieving sustainable agriculture. Accurate and rapid access to crop water information is an essential prerequisite for precise irrigation decisions. Traditional moisture detection methods based on soil moisture and crop physiological parameters are faced with the problems of variable field conditions, low efficiency and lack of spatial information, which can be extremely limited in practical applications. By contrast, unmanned aerial vehicle (UAV) remote sensing has the advantages of low cost, small size, flexible data acquisition time, and easy acquisition of high-resolution image data. Therefore, UAV remote sensing has become an easy and efficient method for crop water information monitoring. This study systematically introduces the principles, methods and applications of crop water stress analysis using the UAV technology. First, the mechanism of crop water stress analysed by UAV is elaborated, focusing on the relationship between canopy temperature, evapotranspiration, sun-induced chlorophyll fluorescence (SIF) and crop water stress. Next, various UAV imaging technologies for crop water stress monitoring are presented, including optical sensing systems, red, green and blue (RGB) images, multi-spectral sensing systems, and hyper-spectral sensing systems. Subsequently, the application of machine learning algorithms in the field of UAV monitoring of crop water information is outlined, demonstrating their potential for data processing and analysis. Finally, new directions and challenges in UAV-based crop water information acquisition and processing are synthesised and discussed, with special emphasis on the prospects of data assimilation algorithms and non-stomatal restriction in monitoring crop water information in the future. This study provides a comprehensive comparison and assessment of the mechanisms, technologies and challenges of UAV-based crop water information monitoring, providing insights and references for researchers in related fields.
+AD  - Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid & Semiarid Area, Minist Educ, Yangling 712100, Shaanxi, Peoples R China; Northwest A&F Univ, Inst Water Saving Agr Arid Reg China, Yangling 712100, Shaanxi, Peoples R China; Natl Engn Res Ctr Water Saving Irrigat Yangling, Yangling 712100, Shaanxi, Peoples R China; Natl Agrotech Extens & Serv Ctr, Beijing, Peoples R China
+C3  - Northwest A&F University - China; Northwest A&F University - China
+SN  - 0378-3774; 1873-2283
+DA  - OCT 1
+PY  - 2024
+VL  - 303
+C7  - 109059
+DO  - 10.1016/j.agwat.2024.109059
+AN  - WOS:001316793700001
+N1  - Times Cited in Web of Science Core Collection:  60
+UR  - https://www.scopus.com/pages/publications/85203642133?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Aslan, MF; Sabanci, K; Aslan, B
+TI  - Artificial Intelligence Techniques in Crop Yield Estimation Based on Sentinel-2 Data: A Comprehensive Survey
+T2  - SUSTAINABILITY
+LA  - English
+KW  - AI; crop yield estimation; precision agriculture; Sentinel-2; VI; LANDSAT 8; FUSION
+AB  - This review explores the integration of Artificial Intelligence (AI) with Sentinel-2 satellite data in the context of precision agriculture, specifically for crop yield estimation. The rapid advancements in remote sensing technology, particularly through Sentinel-2's high-resolution multispectral imagery, have transformed agricultural monitoring by providing critical data on plant health, soil moisture, and growth patterns. By leveraging Vegetation Indices (VIs) derived from these images, AI algorithms, including Machine Learning (ML) and Deep Learning (DL) models, can now predict crop yields with high accuracy. This paper reviews studies from the past five years that utilize Sentinel-2 and AI techniques to estimate yields for crops like wheat, maize, rice, and others. Various AI approaches are discussed, including Random Forests, Support Vector Machines (SVM), Convolutional Neural Networks (CNNs), and ensemble methods, all contributing to refined yield forecasts. The review identifies a notable gap in the standardization of methodologies, with researchers using different VIs and AI techniques for similar crops, leading to varied results. As such, this study emphasizes the need for comprehensive comparisons and more consistent methodologies in future research. The work underscores the significant role of Sentinel-2 and AI in advancing precision agriculture, offering valuable insights for future studies that aim to enhance sustainability and efficiency in crop management through advanced predictive models.
+AD  - Karamanoglu Mehmetbey Univ, Fac Engn, Dept Elect & Elect Engn, TR-70100 Karaman, Turkiye; Karamanoglu Mehmetbey Univ, Grad Sch Nat & Appl Sci, Dept Mechatron Engn, TR-70100 Karaman, Turkiye
+C3  - Karamanoglu Mehmetbey University; Karamanoglu Mehmetbey University
+SN  - 2071-1050
+DA  - SEP
+PY  - 2024
+VL  - 16
+IS  - 18
+C7  - 8277
+DO  - 10.3390/su16188277
+AN  - WOS:001323723600001
+N1  - Times Cited in Web of Science Core Collection:  41
+UR  - https://www.scopus.com/pages/publications/85205230150?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Kaivosoja, J; Hautsalo, J; Heikkinen, J; Hiltunen, L; Ruuttunen, P; Näsi, R; Niemeläinen, O; Lemsalu, M; Honkavaara, E; Salonen, J
+TI  - Reference Measurements in Developing UAV Systems for Detecting Pests, Weeds, and Diseases
+T2  - REMOTE SENSING
+LA  - English
+KW  - UAS; drone; unmanned aerial vehicle; in situ; reference data; ground truth; monitoring; precision agriculture; smart farming; UNMANNED AERIAL VEHICLE; FUSARIUM HEAD BLIGHT; MACHINE LEARNING ALGORITHMS; SUPPORT VECTOR MACHINES; CROP ROW DETECTION; MULTISPECTRAL IMAGERY; VEGETATION INDEXES; ESTIMATING BIOMASS; CIRSIUM-ARVENSE; SOIL-MOISTURE
+AB  - The development of UAV (unmanned aerial vehicle) imaging technologies for precision farming applications is rapid, and new studies are published frequently. In cases where measurements are based on aerial imaging, there is the need to have ground truth or reference data in order to develop reliable applications. However, in several precision farming use cases such as pests, weeds, and diseases detection, the reference data can be subjective or relatively difficult to capture. Furthermore, the collection of reference data is usually laborious and time consuming. It also appears that it is difficult to develop generalisable solutions for these areas. This review studies previous research related to pests, weeds, and diseases detection and mapping using UAV imaging in the precision farming context, underpinning the applied reference measurement techniques. The majority of the reviewed studies utilised subjective visual observations of UAV images, and only a few applied in situ measurements. The conclusion of the review is that there is a lack of quantitative and repeatable reference data measurement solutions in the areas of mapping pests, weeds, and diseases. In addition, the results that the studies present should be reflected in the applied references. An option in the future approach could be the use of synthetic data as reference.
+AD  - Nat Resources Inst Finland Luke, Helsinki 00790, Finland; Natl Land Survey Finland FGI, Finnish Geospatial Res Inst, Masala 02430, Finland
+C3  - Natural Resources Institute Finland (Luke); The National Land Survey of Finland; Finnish Geospatial Research Institute (FGI)
+SN  - 2072-4292
+DA  - APR
+PY  - 2021
+VL  - 13
+IS  - 7
+C7  - 1238
+DO  - 10.3390/rs13071238
+AN  - WOS:000638792400001
+N1  - Times Cited in Web of Science Core Collection:  28
+ER  - 
+
+TY  - JOUR
+AU  - Mkhwenkwana, A; Matongera, TN; Blaauw, C; Mutanga, O
+TI  - A critical review on the applications of Sentinel satellite datasets for soil moisture assessment in crop production
+T2  - INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+LA  - English
+KW  - Soil moisture; Sentinel-2; Data fusion; Sentinel-1; Sentinel-3; VEGETATION WATER-CONTENT; SURFACE MOISTURE; SYNERGISTIC USE; RED-EDGE; MODEL; RADAR; YIELD; SAR; EVAPOTRANSPIRATION; RESOLUTION
+AB  - Understanding soil moisture dynamics in crop production is critical for optimising water resource management. The Sentinel satellite missions have significantly contributed to soil moisture monitoring by providing highresolution, multi-sensor data. This review examines advancements in soil moisture assessment using Sentinel datasets, particularly in crop production. It highlights key challenges, evaluates their impact on monitoring accuracy, and explores potential methodological improvements. Findings indicate that Sentinel-1 ' s synthetic aperture radar (SAR) data, particularly VV and VH polarizations, and Sentinel-2 ' s multispectral indices, such as NDVI and NDMI, are widely integrated with machine learning algorithms to enhance soil moisture estimation. However, dense vegetation and complex topography reduce retrieval accuracy, necessitating sensor fusion and calibration for improved reliability. Sentinel-3 provides valuable surface temperature and land condition data for indirect soil moisture estimation, but its application remains limited due to higher uncertainty compared to SAR and multispectral approaches. Emerging trends suggest that machine and deep learning techniques, such as RF, SVR, and CNN, can enhance data fusion across Sentinel missions. Additionally, preprocessing steps such as RTC, speckle filtering, and the integration of multipolar and polarimetric data with physical backscattering models show promise in mitigating radar backscatter interference. Further development of robust retrieval models that incorporate topography, soil roughness, and texture are essential for improving soil moisture accuracy in diverse agricultural landscapes. This review underscores the need for continued methodological advancements to maximise the potential of Sentinel datasets for soil moisture monitoring in precision agriculture and water resource management.
+AD  - Univ KwaZulu Natal, Sch Agr Earth & Environm Sci, Discipline Geog & Environm Sci, ZA-3201 Pietermaritzburg, South Africa; Council Sci & Ind Res CSIR, Meiring Naude Rd, ZA-0184 Pretoria, South Africa; Univ Nottingham Malaysia, Sch Biosci, Semenyih 43500, Malaysia
+C3  - University of Kwazulu Natal; University of Nottingham Malaysia
+SN  - 1569-8432; 1872-826X
+DA  - JUL
+PY  - 2025
+VL  - 141
+C7  - 104647
+DO  - 10.1016/j.jag.2025.104647
+AN  - WOS:001508669200001
+N1  - Times Cited in Web of Science Core Collection:  8
+UR  - https://www.scopus.com/pages/publications/105007833520?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Tsaousidis, M; Kalampokas, T; Vrochidou, E; Papakostas, GA
+TI  - AI-Enabled Digital Twins in Agriculture
+T2  - AI
+LA  - English
+KW  - digital twins; agriculture; artificial intelligence; precision agriculture; simulation; sustainable agriculture; remote sensing; data integration; smart farming; scoping review
+AB  - Digital Twins (DTs) have emerged within the last decade due to the adequate maturity of several key technologies contributing to the realization of real-time virtual-physical world synchronization. Advancements in sensing, connectivity, computing processing power, and artificial intelligence have contributed to the deployment of DTs in several application sectors, such as in agriculture. This work aims to provide a scoping review of recent advancements in digital twin technologies and agricultural applications. Results indicate a special focus on plant-level models, soil moisture, and machinery, while most works are based on drone imagery combined with machine learning routines. Several works use the term DTs rather loosely, often describing systems that resemble decision support tools rather than a fully synchronized virtual-physical setup. Data integration emerges as the most important bottleneck, especially when the system mixes satellite data, local sensory data, and simulation outputs. Yet it is suggested that DTs could eventually support more adaptive and resource-efficient farm management. However, the field is still missing common frameworks and long-term evaluations. Based on this review, progress depends on better data-handling pipelines, clearer definitions of operational DTs, and more attention to economic and practical constraints faced by farmers rather than just technical proofs of concept.
+AD  - Democritus Univ Thrace, Dept Informat, MLV Res Grp, Kavala 65404, Greece
+SN  - 2673-2688
+DA  - MAR 12
+PY  - 2026
+VL  - 7
+IS  - 3
+C7  - 108
+DO  - 10.3390/ai7030108
+AN  - WOS:001724936400001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105034222227?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Yousaf, A; Kayvanfar, V; Mazzoni, A; Elomri, A
+TI  - Artificial intelligence-based decision support systems in smart agriculture: Bibliometric analysis for operational insights and future directions
+T2  - FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+LA  - English
+KW  - smart agriculture; precision agriculture; Agriculture 4.0; Internet of Things; artificial intelligence; machine learning; bibliometric analysis; operations research; GROUNDWATER NITRATE POLLUTION; IRRIGATED AREAS; SOIL-MOISTURE; GIS; MANAGEMENT; VEGETATION; FEATURES; SCIENCE; MODEL; TOOL
+AB  - As the world population is expected to touch 9.73 billion by 2050, according to the Food and Agriculture Organization (FAO), the demand for agricultural needs is increasing proportionately. Smart Agriculture is replacing conventional farming systems, employing advanced technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), and Machine Learning (ML) to ensure higher productivity and precise agriculture management to overcome food demand. In recent years, there has been an increased interest in researchers within Smart Agriculture. Previous literature reviews have also conducted similar bibliometric analyses; however, there is a lack of research in Operations Research (OR) insights into Smart Agriculture. This paper conducts a Bibliometric Analysis of past research work in OR knowledge which has been done over the last two decades in Agriculture 4.0, to understand the trends and the gaps. Biblioshiny, an advanced data mining tool, was used in conducting bibliometric analysis on a total number of 1,305 articles collected from the Scopus database between the years 2000-2022. Researchers and decision makers will be able to visualize how newer advanced OR theories are being applied and how they can contribute toward some research gaps highlighted in this review paper. While governments and policymakers will benefit through understanding how Unmanned Aerial Vehicles (UAV) and robotic units are being used in farms to optimize resource allocation. Nations that have arid climate conditions would be informed how satellite imagery and mapping can assist them in detecting newer irrigation lands to assist their scarce agriculture resources.
+AD  - Hamad Bin Khalifa Univ, Qatar Fdn, Coll Sci & Engn, Div Engn Management & Decis Sci, Doha, Qatar
+C3  - Qatar Foundation (QF); Hamad Bin Khalifa University-Qatar
+SN  - 2571-581X
+DA  - JAN 9
+PY  - 2023
+VL  - 6
+C7  - 1053921
+DO  - 10.3389/fsufs.2022.1053921
+AN  - WOS:000921365100001
+N1  - Times Cited in Web of Science Core Collection:  41
+ER  - 
+
+TY  - JOUR
+AU  - Kumar, V; Sharma, KV; Kedam, N; Patel, A; Kate, TR; Rathnayake, U
+TI  - A comprehensive review on smart and sustainable agriculture using IoT technologies
+T2  - SMART AGRICULTURAL TECHNOLOGY
+LA  - English
+KW  - IoT; Agriculture; Smart irrigation; Precision farming; Crop monitoring; LOW-COST; PRECISION AGRICULTURE; DECISION-SUPPORT; SOIL-MOISTURE; BIG DATA; IRRIGATION MANAGEMENT; PREDICTIVE ANALYTICS; HUMIDITY SENSORS; THINGS IOT; INTERNET
+AB  - The article provides a comprehensive review of the use of the Internet of Things (IoT) in agriculture, along with its advantages and disadvantages. However, it's important to recognize that IoT holds immense potential for generating new ideas that could drive innovations in modern agriculture and address several challenges faced by farmers today. Applications such as smart irrigation, precision farming, crop and soil tracking, smart greenhouses, supply chain management, livestock monitoring, agricultural drones, pest and disease prevention, and farm machinery are among the areas considered for IoT implementation in agriculture by this paper. These innovative solutions have the potential to revolutionize farming practices, improve efficiency, reduce resource wastage, and ultimately enhance agricultural productivity and sustainability. The analysis examines each application in terms of its utility and outlines measures necessary to enhance its effectiveness. Key considerations include addressing connectivity issues, managing costs, ensuring data security and privacy, scaling solutions appropriately, effectively managing data, and promoting awareness and adoption of IoT tools. Despite these challenges, IoT offers numerous benefits to the agricultural sector. The paper underscores the importance of collaboration among farmers, IoT technology companies, academia, and policymakers to address these issues and fully harness the potential of IoT. To achieve this goal, ongoing research, development, and acceptance of IoTdriven solutions are essential to sustain agriculture as a viable option amidst emerging challenges such as climate change and resource scarcity.
+AD  - Dr Vishwanath Karad MIT World Peace Univ, Dept Civil Engn, Pune 411038, Maharashtra, India; Samara Natl Res Univ, Dept Thermal Engn & Thermal Engines, Mos kovskoye shosse 34, Samara 443086, Russia; Inst Technol Nirma Univ, Civil Engn Dept, Ahmadabad 382481, Gujarat, India; Atlantic Technol Univ, Fac Engn & Design, Dept Civil Engn & Construct, Sligo F91YW50, Ireland
+C3  - Dr. Vishwanath Karad MIT World Peace University; Samara National Research University; Nirma University; Atlantic Technological University (ATU)
+SN  - 2772-3755
+DA  - AUG
+PY  - 2024
+VL  - 8
+C7  - 100487
+DO  - 10.1016/j.atech.2024.100487
+AN  - WOS:001253818000001
+N1  - Times Cited in Web of Science Core Collection:  116
+ER  - 
+
+TY  - JOUR
+AU  - Sarr, A; Chandel, AK; Diop, L; Soro, YM; Tossa, AK; Hota, S; Manimozhian, A
+TI  - Agroclimatic Sensing, Communication, and Computational Systems-Based Methods and Technologies for Precision Irrigation Management: Current State and Prospects
+T2  - COMPUTERS
+LA  - English
+KW  - sustainable agriculture; precision irrigation; internet of things; agroclimatic sensors; remote sensing; energy efficiency; WIRELESS SENSOR NETWORKS; WATER-STRESS INDEX; SMART IRRIGATION; SOIL-MOISTURE; DRIP IRRIGATION; VEGETATION INDEXES; CROP COEFFICIENT; EVAPOTRANSPIRATION; PERFORMANCE; SOLAR
+AB  - Agriculture uses most of the world's fresh water. Given that the worldwide population is expanding at an alarming rate, more land cultivation is apparently in demand. As a result, much more water would be required to irrigate cultivable lands. However, fresh water is becoming scarce at a faster rate due to climate uncertainties and over-exploitation. Several controlled irrigation techniques, such as drip and sprinkler irrigation, have been introduced to safeguard water resources. However, these techniques do not readily meet crop water demands and often end up causing overapplication of water. Under these circumstances, smart precision irrigation is the best solution. Smart irrigation techniques facilitate delivery of water in an amount that is required by the crop as per site/location and temporal requirements. Several studies have been carried out in this area, and remarkable progress has been observed. These studies range from making use of in situ sophisticated sensors that are low-cost and consume minimum energy up to the use of small unmanned aerial systems (SUAS) and satellite imagery for irrigation management. This review summarizes research studies that highlight the components of developing and deploying various precision irrigation technologies, their benefits, and their limitations. Specifically, the scientific value of this study lies in outlining implications of using different sensors, parameters, and equipment, the agroclimatic models, communication technologies, artificial intelligence, and the energy sources to implement automated irrigation systems. A future scope of precision irrigation is also discussed in accordance with cost-effectiveness and sustainability. This study should also act as a referring guideline for new researchers as well as technology manufacturers who seek to design and develop a futuristic yet efficient irrigation system. Overall, this review is aimed at contributing to the understanding of automated irrigation systems for their effective deployment towards enhanced agricultural production, conserved water resources, and sustainable use of energy sources.
+AD  - Inst Int Ingn Eau & Environm 2iE, Lab Energies Renouvelable & Efficacite Energet, Rue Sci,01 BP 594, Ouagadougou, Burkina Faso; Virginia Tech, Tidewater Agr Res & Extens Ctr, 6321 Holland Rd, Suffolk, VA 23437 USA; Virginia Tech, Biol Syst Engn, 155 Ag Quad Ln, Blacksburg, VA 24061 USA; Gaston Berger Univ, Unite Format & Rech Sci Agron Aquaculture & Techno, Lab Sci Biol Agron Alimentaire & Modelisat Syst Co, BP 234, St Louis, Senegal; Ecole Polytech Abomey Calavi, Lab Energet & Mecan Appl LEMA, 01 BP 2009, Cotonou, Benin
+C3  - Virginia Polytechnic Institute & State University; Virginia Polytechnic Institute & State University; Universite Gaston Berger; University of Abomey Calavi
+SN  - 2073-431X
+DA  - FEB 23
+PY  - 2026
+VL  - 15
+IS  - 2
+C7  - 137
+DO  - 10.3390/computers15020137
+AN  - WOS:001699921200001
+N1  - Times Cited in Web of Science Core Collection:  0
+ER  - 
+
+TY  - JOUR
+AU  - Khan, N; Ray, RL; Sargani, GR; Ihtisham, M; Khayyam, M; Ismail, S
+TI  - Current Progress and Future Prospects of Agriculture Technology: Gateway to Sustainable Agriculture
+T2  - SUSTAINABILITY
+LA  - English
+KW  - IoT; agriculture advancement; UAVs; sustainable agriculture; SATELLITE SOIL-MOISTURE; CROP WATER-STRESS; ON-THE-GO; UAV; IOT; INTERNET; THINGS; SENSOR; MANAGEMENT; SYSTEM
+AB  - The agricultural industry is getting more data-centric and requires precise, more advanced data and technologies than before, despite being familiar with agricultural processes. The agriculture industry is being advanced by various information and advanced communication technologies, such as the Internet of Things (IoT). The rapid emergence of these advanced technologies has restructured almost all other industries, as well as advanced agriculture, which has shifted the industry from a statistical approach to a quantitative one. This radical change has shaken existing farming techniques and produced the latest prospects in a series of challenges. This comprehensive review article enlightens the potential of the IoT in the advancement of agriculture and the challenges faced when combining these advanced technologies with conventional agricultural systems. A brief analysis of these advanced technologies with sensors is presented in advanced agricultural applications. Numerous sensors that can be implemented for specific agricultural practices require best management practices (e.g., land preparation, irrigation systems, insect, and disease management). This review includes the integration of all suitable techniques, from sowing to harvesting, packaging, transportation, and advanced technologies available for farmers throughout the cropping system. Besides, this review article highlights the utilization of other tools such as unmanned aerial vehicles (UAVs) for crop monitoring and other beneficiary measures, such as optimizing crop yields. In addition, advanced programs based on the IoT are also discussed. Finally, based on our comprehensive review, we identified advanced prospects regarding the IoT, which are essential tools for sustainable agriculture.
+AD  - Sichuan Agr Univ, Coll Management, Chengdu 611100, Peoples R China; Prairie View A&M Univ, Coll Agr & Human Sci, Prairie View, TX 77446 USA; Sichuan Agr Univ, Coll Econ, Chengdu 611100, Peoples R China; Sichuan Agr Univ, Coll Landscape Architecture, Chengdu 611130, Peoples R China; Huazhong Agr Univ, Coll Hort & Forestry, Wuhan 430070, Peoples R China; China Univ Geosci, Sch Econ & Management, Wuhan 430074, Peoples R China; Sichuan Agr Univ, Dept Plant Pathol, Chengdu 611130, Peoples R China
+C3  - Sichuan Agricultural University; Texas A&M University System; Prairie View A&M University; Sichuan Agricultural University; Sichuan Agricultural University; Huazhong Agricultural University; China University of Geosciences; Sichuan Agricultural University
+SN  - 2071-1050
+DA  - MAY
+PY  - 2021
+VL  - 13
+IS  - 9
+C7  - 4883
+DO  - 10.3390/su13094883
+AN  - WOS:000650864600001
+N1  - Times Cited in Web of Science Core Collection:  212
+ER  - 
+
+TY  - JOUR
+AU  - Ogwu, MC; Kosoe, EA
+TI  - Integrating Green Infrastructure into Sustainable Agriculture to Enhance Soil Health, Biodiversity, and Microclimate Resilience
+T2  - SUSTAINABILITY
+LA  - English
+KW  - sustainable agriculture; green infrastructure; agroecology; regenerative farming; soil microbiome; climate adaptation; ecosystem services; ECOSYSTEM SERVICES; FARMING SYSTEMS; HABITAT USE; LAND-USE; URBAN; FOOD; IMPACTS; CARBON; CROPS; BEES
+AB  - While green infrastructure (GI) offers numerous benefits, its implementation in low-resource settings remains constrained by limited policy support and upfront costs, highlighting the need for context-sensitive strategies. This paper highlights the value of integrating GI within sustainable agricultural systems and the effectiveness of various GI techniques in improving soil microbial communities and reducing greenhouse gas emissions. The transition to sustainable agricultural systems requires innovative strategies that balance productivity, environmental conservation, and resilience to climate change. Sustainable agriculture increasingly leverages technological innovations in GI to enhance productivity, biodiversity, and microclimate resilience. Green infrastructure has found direct application in agroforestry, conservation buffers, precision agriculture, soil health monitoring systems, and nature-based solutions such as regenerative soil management. These applications are crucial in enhancing soil health, water retention, and biodiversity, while mitigating microclimatic impacts. Precision agriculture tools, like IoT sensors, drones, and AI-driven analytics, allow farmers to optimize water, nutrient, and pesticide use, boosting yields and efficiency while minimizing environmental impact. Simultaneously, advanced soil health monitoring technologies track soil moisture, nutrients, and biological activity in real time, informing practices that maintain long-term soil fertility and carbon sequestration. This integrated approach yields practical on-farm benefits, such as higher crop stability during droughts and enhanced habitats for beneficial species. In conclusion, there is a need for supportive frameworks, like subsidies for GI adoption, application of precision tools, incentives for improving soil microclimate, development of innovative GI programs, and knowledge-sharing initiatives, to encourage farmer adoption.
+AD  - Appalachian State Univ, Goodnight Family Dept Sustainable Dev, Boone, NC 28608 USA; Simon Diedong Dombo Univ Business & Integrated Dev, Dept Environm & Resource Studies, XW-1147-8901, Wa, Ghana
+C3  - University of North Carolina; Appalachian State University
+SN  - 2071-1050
+DA  - APR 24
+PY  - 2025
+VL  - 17
+IS  - 9
+C7  - 3838
+DO  - 10.3390/su17093838
+AN  - WOS:001486787700001
+N1  - Times Cited in Web of Science Core Collection:  13
+UR  - https://www.scopus.com/pages/publications/105004922921?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Mamun, Q; Zaman, A; Ip, RHL; Haque, KMS
+TI  - A bibliographic study of integrating IoT and geospatial modelling for sustainable smart agriculture in developed countries: Focus on Australia
+T2  - COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA  - English
+KW  - Geospatial modelling; Precision agriculture; Sustainability; IoT; WINTER-WHEAT; SOIL-MOISTURE; FIELD; WATER; SAR; DEPLOYMENT; FEATURES; BIOMASS; IMAGERY; SYSTEM
+AB  - Integrating the Internet of Things (IoT) and geospatial modelling technologies is pivotal for advancing sustainable smart agriculture, particularly in resource-constrained environments like Australia. This systematic literature review examines the adoption and impact of these technologies in agriculture across Australia and select developed countries. Through an extensive analysis of 172 peer-reviewed articles published between 2013 and 2023, this study identifies key technological advancements such as unmanned aerial vehicles (UAVs), consumer-grade cameras (RGB cameras), and satellite platforms (Sentinel-2, LANDSAT-8) that have significantly influenced agricultural practices. The findings reveal Australia's progress in adopting these technologies but also highlight gaps compared to countries like Germany and the USA, especially in using UAVs, Synthetic Aperture Radar (SAR) and RGB cameras. The study underscores Australia's need to enhance its technological capabilities, particularly resource management, to foster more efficient and sustainable agricultural practices. This review provides valuable insights for policymakers, researchers, and technology providers, aiming to drive innovation and improve agricultural outcomes in the face of growing environmental challenges.
+AD  - Charles Sturt Univ, Sch Comp Math & Engn, Albury, NSW 2640, Australia; Monash Univ, Fac Informat Technol, Dept Data Sci & Artificial Intelligence, Clayton, Vic 3168, Australia; Charles Sturt Univ, Sch Agr Environm & Vet Sci, Wagga Wagga, NSW 2678, Australia; Auckland Univ Technol, Dept Math Sci, Auckland, New Zealand
+C3  - Charles Sturt University; Monash University; Charles Sturt University; Auckland University of Technology
+SN  - 0168-1699; 1872-7107
+DA  - FEB 1
+PY  - 2026
+VL  - 241
+C7  - 111289
+DO  - 10.1016/j.compag.2025.111289
+AN  - WOS:001633746300001
+N1  - Times Cited in Web of Science Core Collection:  1
+ER  - 
+
+TY  - JOUR
+AU  - Syeda, IH; Alam, MM; Illahi, U; Su'ud, MM
+TI  - Advance control strategies using image processing, UAV and AI in agriculture: a review
+T2  - WORLD JOURNAL OF ENGINEERING
+LA  - English
+KW  - Agriculture; Artificial intelligence; Autonomous vehicle; Control strategies; Imaging technique; WATER-STRESS INDEX; IDENTIFICATION; FUSION; WILT
+AB  - Purpose
+AD  - Univ Kuala Lumpur, British Malaysian Inst, Gombak, Malaysia; Inst Business Management, Karachi, Pakistan
+C3  - University of Kuala Lumpur
+SN  - 1708-5284
+DA  - JUL 29
+PY  - 2021
+VL  - 18
+IS  - 4
+DO  - 10.1108/WJE-09-2020-0459
+AN  - WOS:000634771300001
+N1  - Times Cited in Web of Science Core Collection:  17
+SP  - 579
+EP  - 589
+UR  - https://www.scopus.com/pages/publications/85103022960?origin=resultslist
+M3  - Review
+ER  - 
+
+TY  - JOUR
+AU  - Dang, M; Wang, HX; Li, YF; Nguyen, TH; Tightiz, L; Xuan-Mung, N; Nguyen, TN
+TI  - Computer Vision for Plant Disease Recognition: A Comprehensive Review
+T2  - BOTANICAL REVIEW
+LA  - English
+KW  - Plant disease; Precision agriculture; Image processing; Phytopathology; Deep learning; Disease recognition; CONVOLUTIONAL NEURAL-NETWORKS; LEAF DISEASES; CLASSIFICATION; SEGMENTATION; IDENTIFICATION; IMAGES; AGRICULTURE; DISCRIMINATION; SUPERPIXEL; DIAGNOSIS
+AB  - Agriculture has undergone a remarkable transformation, transitioning from traditional methods that were used for centuries to technology-driven practices. The advent of image processing and computational intelligence has revolutionized crop production and plant health monitoring. From drones capturing detailed crop growth data to sensors meticulously measuring soil moisture levels, the possibilities are boundless. This review delves into the cutting-edge research advancements in the application of image processing and computational intelligence techniques for botanical fields, with a particular focus on plant health monitoring. First, it provides a comprehensive overview of the diverse imaging sensors employed in agriculture, including visible, near-infrared, thermal, and hyperspectral imaging. Subsequently, it carefully analyzes the advantages and limitations of each sensor type, along with illustrative examples of their utilization in plant health monitoring. The review further explores the application of machine learning and deep learning for automated plant disease identification, highlighting the critical need for standardized datasets, benchmarking protocols, and domain-specific knowledge for effective implementation. In conclusion, the review emphasizes the future challenges and trends in this rapidly evolving field. It serves as a valuable resource, providing insights into the latest trends in computer vision-based plant disease monitoring and identifying gaps that demand further attention from the scientific community.
+AD  - Duy Tan Univ, Inst Res & Dev, Da Nang 550000, Vietnam; Duy Tan Univ, Fac Informat Technol, Da Nang 550000, Vietnam; Qufu Normal Univ, Sch Comp Sci, Rizhao 276826, Peoples R China; Ho Chi Minh City Open Univ, Fac Comp Sci, Ho Chi Minh City 70000, Vietnam; Gachon Univ, Sch Comp, 1342 Seongnam Daero, Seongnam Si 13120, Gyeonggi Do, South Korea; Sejong Univ, Fac Mech & Aerosp Engn, Seoul 05006, South Korea; Sejong Univ, Dept Architectural Engn, 209 Neungdong Ro, Seoul 05006, South Korea
+C3  - Duy Tan University; Duy Tan University; Qufu Normal University; Ho Chi Minh City Open University; Gachon University; Sejong University; Sejong University
+SN  - 0006-8101; 1874-9372
+DA  - SEP
+PY  - 2024
+VL  - 90
+IS  - 3
+DO  - 10.1007/s12229-024-09299-z
+AN  - WOS:001174909200001
+N1  - Times Cited in Web of Science Core Collection:  31
+SP  - 251
+EP  - 311
+UR  - https://www.scopus.com/pages/publications/85186587525?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Manono, BO; Mwami, B; Mutavi, S; Nzilu, F
+TI  - Precision Farming with Smart Sensors: Current State, Challenges and Future Outlook
+T2  - SENSORS
+LA  - English
+KW  - precision agriculture; agricultural technology; data-driven agriculture; agricultural resource management; smart sensors; sustainable agriculture; smart farming; AGRICULTURE-CURRENT TRENDS; WIRELESS SENSOR; SOIL-MOISTURE; MANAGEMENT; SYSTEMS; TECHNOLOGIES; CALIBRATION; NETWORKS; INTERNET; THINGS
+AB  - The agricultural sector, a vital industry for human survival and a primary source of food and raw materials, faces increasing pressure due to global population growth and environmental strains. Productivity, efficiency, and sustainability constraints are preventing traditional farming methods from adequately meeting the growing demand for food. Precision farming has emerged as a transformative paradigm to address these issues. It integrates advanced technologies to improve decision making, optimize yield, and conserve resources. This approach leverages technologies such as wireless sensor networks, the Internet of Things (IoT), robotics, drones, artificial intelligence (AI), and cloud computing to provide effective and cost-efficient agricultural services. Smart sensor technologies are foundational to precision farming. They offer crucial information regarding soil conditions, plant growth, and environmental factors in real time. This review explores the status, challenges, and prospects of smart sensor technologies in precision farming. The integration of smart sensors with the IoT and AI has significantly transformed how agricultural data is collected, analyzed, and utilized to optimize yield, conserve resources, and enhance overall farm efficiency. The review delves into various types of smart sensors used, their applications, and emerging technologies that promise to further innovate data acquisition and decision making in agriculture. Despite progress, challenges persist. They include sensor calibration, data privacy, interoperability, and adoption barriers. To fully realize the potential of smart sensors in ensuring global food security and promoting sustainable farming, the challenges need to be addressed.
+AD  - Colorado State Univ Extens, Ft Collins, CO 80523 USA; South Eastern Kenya Univ, Sch Agr Environm Water & Nat Resources Management, POB 170, Kitui 90200, Kenya; Czech Univ Life Sci Prague, Fac Trop Agrisci, Dept Crop Sci & Agroforestry, Kamycka 129, Prague 16500, Czech Republic; Kenyatta Univ, Sch Agr & Enterprise Dev, POB 43844 00100, Nairobi, Kenya; Ecodev Associates Ltd, POB 565300100, Nairobi, Kenya
+C3  - Colorado State University System; Colorado State University Fort Collins; Czech University of Life Sciences Prague; Kenyatta University
+SN  - 1424-8220
+DA  - JAN 29
+PY  - 2026
+VL  - 26
+IS  - 3
+C7  - 882
+DO  - 10.3390/s26030882
+AN  - WOS:001688068000001
+N1  - Times Cited in Web of Science Core Collection:  4
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Goel, S.; Sharma, R.; Varanasi, L.N.S.; Krishna, V.B.M.
+TI  - Passive and active smart farming for remote and proximal sensing of wildlife deterrence
+T2  - Robotics and Intelligent Machines in Smart Agriculture: Emerging Systems and Applications
+LA  - English
+KW  - Agribusiness; Animals; Crops; Damage detection; Livestock; Smart agriculture; Weed control; Agricultural crops; AS-soils; Crop loss; Crop monitoring; Farming practices; Moisture level; Proximal sensing; Remote-sensing; Weed management; Wild animals; Soil moisture
+AB  - Agricultural crop monitoring, from sowing to harvesting, is crucial for boosting production and productivity. Crop losses are often caused by factors such as soil moisture levels, timely irrigation, pest control, weed management, and damage from wild animals. Farmers have implemented various measures to address crop damage, and smart farming offers a way to reduce losses by enhancing productivity and income. This paper reviews previous global research on the use of sensor systems for monitoring crop growth and addressing damage caused by wild animals during harvesting. The study highlights that integrating modern technologies like IoT, AI, robotics, and UAVs into agriculture can optimize farming practices. These technologies provide real-time data on crop health, soil conditions, and pest activity, supporting sustainable farming practices. © 2026 selection and editorial matter, Mohammad Shabaz; individual chapters, the contributors.
+PY  - 2026
+DO  - 10.1201/9781003562627-7
+N1  - Export Date: 29 April 2026; Cited By: 0
+SP  - 141
+EP  - 167
+UR  - https://www.scopus.com/pages/publications/105031903338?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Ghaedamini Asadabadi, M.H.
+TI  - Integrating AI and Drone Technologies in Organic Crop Systems
+T2  - Agriculturae Conspectus Scientificus
+LA  - English
+KW  - artificial intelligence; biological pest control; drone; organic agriculture; precision farming; agricultural practice; agricultural soil; agricultural technology; artificial intelligence; biological control; crop production; literature review; organic carbon; precision agriculture; soil carbon; soil moisture
+AB  - This narrative review examines the transformative role of artificial intelligence (AI) and drone technologies in organic crop production. Literature was identified through targeted searches in databases such as Scopus, Web of Science, Google Scholar, IEEE Xplore, and AGRIS, covering studies published between 2015 and July 2025, with emphasis on certified organic and low-input farming systems. AI-driven platforms enable real-time monitoring of soil moisture, nutrient levels, and water quality, supporting resource efficiency and sustainable practices. Drones enhance precision agriculture through soil organic carbon mapping and targeted delivery of beneficial insects, while block chain-integrated AI platforms strengthen certification transparency. Overall, these technologies demonstrate broad benefits including improved crop performance, reduced resource use, and enhanced compliance with organic standards. Key challenges remain, particularly high costs, technical expertise requirements, and regulatory gaps, which limit adoption among small-scale farmers. Future research should prioritize cost-effective, scalable solutions and standardized protocols to promote equitable access. © 2025, University of Zagreb - Faculty of Agriculture. All rights reserved.
+PY  - 2025
+VL  - 90
+IS  - 4
+N1  - Export Date: 29 April 2026; Cited By: 0
+SP  - 257
+EP  - 262
+UR  - https://www.scopus.com/pages/publications/105026972208?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Sindiramutty, S.R.; Jhanjhi, N.Z.; Tan, C.E.; Tee, W.J.; Lau, S.P.; Jazri, H.; Ray, S.K.; Zaheer, M.A.
+TI  - IoT and AI-based smart solutions for the agriculture industry
+T2  - Advances in Explainable AI Applications for Smart Cities
+LA  - English
+AB  - This chapter's goal is to review how the IoT smart application solution impacts the agricultural industry around the globe. IoT needed to be implemented in the agricultural industry to increase the efficiency of agricultural methods and escalate production to serve the high demand. Implementing the IoT technology will facilitate agriculture to measure and provide accurate data with various parameters like solar intensity, weather, precipitation temperature, soil moisture, and macronutrients in the soil. This chapter will explore the latest trends in IoT agricultural applications, discuss limitations of traditional agricultural methods, current challenges in the agriculture industry, and real-world examples of IoT in agriculture such as IoT in plant and animal environmental monitoring, smart water irrigation animal, and plant life data monitoring. The final part of this chapter discusses the advancement in IoT technology using drones and finally shows the roadmap for IoT implementation in agriculture. © 2024, IGI Global. All rights reserved.
+PY  - 2024
+DO  - 10.4018/978-1-6684-6361-1.ch012
+N1  - Export Date: 29 April 2026; Cited By: 47
+SP  - 317
+EP  - 351
+UR  - https://www.scopus.com/pages/publications/85190843975?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Chauhan, T.; Mudholkar, P.
+TI  - Integrating IoT and AI for Smart Agriculture: Enhancing Crop Yield and Sustainable Farming Practices
+T2  - Proceedings of 3rd IEEE International Conference on Knowledge Engineering and Communication Systems, ICKECS 2025
+LA  - English
+KW  - ' artificial intelligence (AI)'; ' Internet of Things (IoT)'; ' machine learning (ML)'; agriculture automation; big data analytics; blockchain; cloud computing; crop yield prediction; environmental monitoring; precision farming; resource optimization; sensors; smart agriculture; smart greenhouses; sustainable farming; water management; Advanced Analytics; Big data; Crops; Environmental management; Information management; Internet of things; Precision agriculture; Smart agriculture; Sustainable development; ' artificial intelligence '; ' internet of thing '; ' machine learning '; Agriculture automation; Big data analytic; Block-chain; Cloud-computing; Crop yield; Crop yield prediction; Data analytics; Environmental Monitoring; Machine-learning; Precision-farming; Resources optimization; Smart agricultures; Smart greenhouse; Sustainable Farming; Waters managements; Yield prediction; Efficiency
+AB  - This study explores how modern horticulture can benefit from the integration of Web of Things (IoT) advancements to tackle issues such as soil health, water management, and yield efficiency. Researches can use screen fundamental parameters like soil moisture, temperature, and mugginess using IoT-powered sensors, drones, and artificial intelligence, enabling information- driven guidance. The review examines current IoT systems and structures for astute farming, highlighting their potential to increase horticultural efficiency, cut down on waste, and meet the growing demand for sustenance projected for 2050. Mechanized water systems, bug-the-executives, and continuous harvest yield expectations are some of the key applications. In any event, challenges are present, such as high execution costs and limited openness for ranchers with limited scope. The analysis emphasizes the need for sensible IoT arrangements, specific planning, and methodical approaches.  © 2025 IEEE.
+PY  - 2025
+DO  - 10.1109/ICKECS65700.2025.11034819
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105010207721?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Pablos, M.; Portal, G.; Camps, A.; Vall-Llossera, M.; López-Martínez, C.
+TI  - Advances in Soil Moisture Mapping Techniques and Disaggregation Algorithms for Environmental and Agricultural Applications
+T2  - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives
+LA  - English
+KW  - disaggregation algorithms; environmental monitoring; remote sensing; Soil moisture; spatial resolution; Agricultural machinery; Climate change; Ecosystems; Image resolution; Learning systems; Machine learning; Mapping; Meteorological instruments; Microwave devices; Neural networks; Precision agriculture; Radiometers; Soil surveys; %moisture; Disaggregation; Disaggregation algorithm; Environmental Monitoring; Mapping techniques; Multi-sensor data; Remote-sensing; Soil moisture mapping; Spatial resolution; Tunisia; Remote sensing; Soil moisture
+AB  - Soil moisture (SM) is a critical variable for understanding the water cycle, climate change, and agricultural management. This paper reviews advanced remote sensing techniques and disaggregation algorithms for high-resolution SM mapping, focusing on environmental and agricultural applications in North Africa and the UAE. Remote sensing methods, including optical sensors (e.g., Apparent Thermal Inertia, Temperature Vegetation Dryness Index), active microwave sensors (scatterometers, Synthetic Aperture Radar), and passive microwave radiometers (SMOS, SMAP), are evaluated for their ability to map SM at varying spatial and temporal scales. Despite advancements, coarse resolution remains a challenge for regional applications. To address this, two innovative downscaling algorithms are presented: the SMOS Semi-Empirical Method, which fuses SMOS data with ECMWF skin temperature and MODIS/Sentinel-3 NDVI to achieve 1 km and 300 m resolutions, and the Artificial Neural Network (ANN) Method, leveraging multi-sensor data to produce 60 m resolution SM maps. These algorithms have been validated across diverse environments, demonstrating RMSE values of 0.04-0.10 cm3/cm3 The case studies  studies presented highlight their operational utility in flash flood monitoring (Algeria, Tunisia, UAE), ecosystem dynamics (Chott el Djerid, Tunisia), and precision agriculture (East Oweinat, Egypt). Future work includes the integration of multi-sensor data, to enhance machine learning models, and the improvement of SM measurements at deeper soil layers to support applications in arid regions. © Author(s) 2025.
+PY  - 2025
+VL  - 48
+IS  - G-2025
+DO  - 10.5194/isprs-archives-XLVIII-G-2025-1139-2025
+N1  - Export Date: 29 April 2026; Cited By: 1
+SP  - 1139
+EP  - 1146
+UR  - https://www.scopus.com/pages/publications/105014314341?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Sulaiman, A.S.S.; Wayayok, A.; Guo, L.; Aziz, S.A.; Wong, M.Y.
+TI  - Comparative Evaluation of Ground-based, Manual, and Remote Sensing Approaches for Crop Stress Detection: A Review between Malaysia and China
+T2  - Pertanika Journal of Tropical Agricultural Science
+LA  - English
+KW  - AI; China; crop stress; ground sensing; Malaysia; manual inspection; NDVI; remote sensing
+AB  - This study presents a comparative evaluation of manual inspection, ground-based sensors, and UAV-based remote sensing for detecting crop stress in paddy, maize, and coconut fields across Malaysia and China. Although sensing technologies have advanced considerably, cross-country comparisons between regions with differing levels of technological maturity remain limited. China, recognised for its advanced adoption of UAV and sensor-based agriculture, provides a benchmark against Malaysia’s developing digital agriculture landscape. Each method was assessed based on accuracy, responsiveness, scalability, and cost-effectiveness under field conditions. UAV-based remote sensing achieved the highest overall accuracy (mean 92%) and demonstrated superior scalability, enabling rapid large-area monitoring using vegetation indices such as NDVI and NDRE. Ground-based sensors, including soil moisture probes and chlorophyll meters, showed moderate accuracy (mean 81%) and were suitable for plot-level monitoring with real-time feedback. Manual inspection recorded the lowest accuracy (mean 68%) and limited scalability due to labour dependency and subjective assessment. UAV methods were particularly effective in early stress detection, with thermal imaging identifying canopy temperature anomalies 3–5 days before visible symptoms, especially in maize and coconut fields. Integrating UAV and ground-based sensing provided more comprehensive and timely assessments than individual approaches. These findings support the development of scalable precision agriculture frameworks tailored to tropical and subtropical systems. © Universiti Putra Malaysia Press.
+PY  - 2026
+VL  - 49
+IS  - S1
+DO  - 10.47836/pjtas.49.S1.01
+N1  - Export Date: 29 April 2026; Cited By: 0
+SP  - 1
+EP  - 30
+UR  - https://www.scopus.com/pages/publications/105034276944?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - P, H.; Gautam, S.; Joshi, S.K.; Asirvatham, L.G.; Rakshith, B.L.
+TI  - Advancements in soil moisture estimation through integration of remote sensing and artificial intelligence techniques
+T2  - Science of the Total Environment
+LA  - English
+KW  - Artificial intelligence; Data fusion; Deep learning; Hydrological monitoring; Remote sensing; Soil moisture estimation; Agriculture; Cosmology; Data integration; Distributed computer systems; Ecosystems; Groundwater; Hydrogeology; Learning systems; Sensor data fusion; Soil moisture; Soil surveys; Water conservation; %moisture; Artificial intelligence techniques; Climate feedbacks; Crop productivity; Deep learning; Ecosystem functions; Ground water recharge; Hydrological monitoring; Remote-sensing; Soil moisture estimation; comparative study; GNSS; machine learning; monitoring; remote sensing; soil moisture; synthetic aperture radar; agriculture; artificial intelligence; controlled study; cosmic radiation; crowdsourcing; deep learning; explainable artificial intelligence; global navigation satellite system; ground water; nonhuman; physical model; plant root; reflectometry; reliability; remote sensing; review; sensor; soil moisture; surface soil; trustworthiness; water supply; Deep learning; Remote sensing
+AB  - Soil moisture plays a vital role in crop productivity, ecosystem function, climate feedback, and groundwater recharge, yet it remains one of the least directly measured hydrological and hydrogeological variables. Its limitations in spatial coverage, depth sensitivity, and real-time monitoring hinder the soil moisture estimation methods. This review presents a comprehensive overview of recent advancements in soil moisture estimation techniques, covering traditional in-situ, remote sensing, and AI-based methods. A comparative evaluation highlights these methods' operational mechanisms, spatial limitations, and potential synergies with region-specific insights. It also summarizes approaches such as cosmic-ray neutron sensing, Global Navigation Satellite System (GNSS) reflectometry, Synthetic Aperture Radar (SAR) based methods, and multi-sensor data fusion for large-scale surface soil moisture estimation. The present study highlights the key challenges, such as physical interpretability, transparency, and model transferability in AI-based models due to their black-box nature. Incorporation of remote sensing with explainable AI further enhances the performance, trustworthiness, and reliability of the model. In addition, integrating multi-sensor data with in-situ data, machine/deep learning, and physical models enhances the accuracy, spatial and temporal resolution, continuous data availability, and root zone soil moisture estimation. Further research is required in uncertainty handling, evaluating, validating, and improving the transferability of the model across diverse regions. Through citizen science and crowdsourcing, real-time soil moisture monitoring in the data-scarce areas can be achieved. The study concludes by outlining future directions for scalable, interpretable monitoring systems and developing robust systems to support sustainable water resource management and climate-resilient agriculture. © 2025 Elsevier B.V.
+PY  - 2025
+VL  - 1001
+C7  - 180503
+DO  - 10.1016/j.scitotenv.2025.180503
+N1  - Export Date: 29 April 2026; Cited By: 9
+UR  - https://www.scopus.com/pages/publications/105016459073?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Lekha, D.; Valarmathie, P.
+TI  - Integrating Intelligent Agents in Smart Irrigation Systems for Sustainable Paddy Cultivation
+T2  - 2025 2nd International Conference on Computing and Data Science, ICCDS 2025
+LA  - English
+KW  - Drip Irrigation; Intelligent Agents; Paddy Cultivation; Precision agriculture; Smart Irrigation; Water management; Crops; Cultivation; Energy efficiency; Learning systems; Precision agriculture; Smart agriculture; Subirrigation; Water conservation; Agricultural sector; Drip irrigation; Effective management; Irrigation systems; Paddy cultivation; Precision Agriculture; Smart irrigation; Water erosion; Water use; Waters managements; Intelligent agents
+AB  - Water is a major component in the development of crops especially in paddy farming and this necessitates effective management of water in the agricultural sector. The conventional irrigation can be associated with inefficiency of water use, loss of nutrients and water erosion of the soil. This paper gives an extensive review of the smart drip irrigation systems based on intelligent agents which are suitable in paddy fields. It explores the incorporation of intelligent agent, sensor networks, and IoT-based technologies in order to make data-based real-time irrigation decisions. The paper looks at the main elements including the soil moisture sensors, communication protocols and AI/ML-based controllers that allow accurate delivery of water according to the needs of the crops. Comparisons of conventional systems and smart systems are given, and they are based on such parameters as water-use efficiency, crop yield, and energy savings. Hurdles such as reliability of sensors, financial constraints, infrastructure restrictions and data uncertainty are also explored. Future directions discussed in the paper include integration of adaptive learning agents, drones and edge computing as a way of improving system performance further. In the light of interdisciplinary cooperation and governmental assistance, this survey proposes that the use of intelligent irrigation system should be popularized to ensure sustainable agriculture and preservation of resources in paddy cultivation. © 2025 IEEE.
+PY  - 2025
+DO  - 10.1109/ICCDS64403.2025.11209612
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105023821628?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Ramu, P.; Kumar, B.A.V.R.; Raju, P.G.; Sowmya, M.
+TI  - Applications of Internet of Things (IoT) in agriculture: A review
+T2  - Journal of Agrometeorology
+LA  - English
+KW  - Agriculture; Internet of Things (IoT); Precision farming; Sensors; Smart irrigation
+AB  - This paper reviews how the Internet of Things (IoT) is transforming agriculture into a data-driven, technology-enabled sector. IoT applications in farming include soil and weather monitoring, precision irrigation, nutrient management, crop health surveillance, and post-harvest supply chain traceability. By integrating field-deployed sensors, drones, wireless networks, and cloud-based analytics, farmers can continuously track soil moisture, nutrient content, crop growth, and microclimate conditions. These insights enable real-time decision-making that improves resource-use efficiency, reduces input waste, and minimizes environmental impacts. IoT-based automation also allows remote control of pumps, fertigation systems, and spraying equipment, further enhancing labor productivity and operational sustainability. Despite these benefits, adoption remains constrained by high initial costs, limited rural connectivity, device interoperability issues, and data security concerns. Future research and policy efforts must focus on developing affordable, interoperable solutions, strengthening rural digital infrastructure, and integrating IoT with emerging technologies such as artificial intelligence and machine learning to achieve scalable, climate-resilient agriculture. © 2025, Association of Agrometeorologists. All rights reserved.
+PY  - 2025
+VL  - 27
+IS  - 4
+DO  - 10.54386/jam.v27i4.3084
+N1  - Export Date: 29 April 2026; Cited By: 0
+SP  - 544
+EP  - 554
+UR  - https://www.scopus.com/pages/publications/105026907303?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Kushwaha, S.
+TI  - Precision Agriculture and Smart Monitoring Using IoT Technology
+T2  - Advanced Explorations in Machine Learning, Computer Vision, and IoT
+LA  - English
+KW  - Agriculture; Crop management; FAO; IOT; Optimization; Precision agriculture; Productivity; SDG; Sustainability; Agricultural machinery; Artificial intelligence; Crops; Decision making; Internet of things; Precision agriculture; Predictive analytics; Resource allocation; Smart agriculture; Soil surveys; Sustainable agriculture; Advanced technology; Agriculture monitoring; Crop managements; FAO; Internet of things technologies; IOT; Optimisations; Precision Agriculture; Productivity management; Smart monitoring; Sustainable development
+AB  - Precision agriculture is revolutionizing the farming landscape by utilizing advanced technologies to improve productivity, sustainability, and resource management. This chapter delves into the integration of Internet of Things (IoT) technology within precision agriculture, emphasizing the role of smart monitoring systems that enable real-time data collection and analysis. The advent of IoT has transformed traditional farming practices by providing farmers with the tools to monitor environmental conditions, soil health, and crop performance continuously. Through the deployment of various IoT devices, such as sensors, drones, and smart machinery, farmers can gather critical data on parameters like soil moisture, temperature, and nutrient levels. This data-driven approach allows for optimized resource allocation, reducing waste and enhancing crop yields. The chapter reviews current research and applications of IoT in precision agriculture, highlighting successful case studies that demonstrate the effectiveness of these technologies in improving agricultural practices. Moreover, the chapter addresses the challenges and limitations faced in the adoption of IoT solutions, including issues related to data security, infrastructure, and the cost of technology. It also explores future directions for research, particularly the potential integration of artificial intelligence and machine learning with IoT systems to enhance predictive analytics and decision-making processes in agriculture. By providing a comprehensive overview of the intersection between IoT technology and precision agriculture, this chapter aims to inform researchers and practitioners about the transformative potential of these innovations. © 2026, Bentham Books imprint.
+PY  - 2026
+N1  - Export Date: 29 April 2026; Cited By: 0
+SP  - 265
+EP  - 287
+UR  - https://www.scopus.com/pages/publications/105036147560?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Parkash, V.; Chauhan, A.; Gaur, A.; Rai, N.
+TI  - Advances in bionic approaches for agriculture and forestry development
+T2  - The Digital Agricultural Revolution: Innovations and Challenges in Agriculture through Technology Disruptions
+LA  - English
+KW  - Agroforestry; Nanobionics; Nanosensors; Precision farming; Unmanned aerial vehicles
+AB  - With the development in nanotechnology, nanosensors have emerged to be an innovative and intelligent technology that has several applications in agriculture and forestry sectors. Nanosensors are upcoming cutting edge research track for smart agriculture practices. Nanomaterial usage in agriculture may help in the reduction of cost and efforts in precision farming leading to innovative agricul ture systems. In agriculture-related sector, nanosensors can be used to monitor soil conditions, soil health, soil nutrient deficiency, crop growth plant diseases, estimation of agrochemicals in soil, toxicity of chemicals to ensure the health of soil and plant. Irrigation is the most important and labor intense process for the farming in most part of the world because of the lack of proper and advance irri gation and soil system, there is loss of soil and crop health, not only this, further soil moisture and other parameters can be monitored. This nanosensor-based or automated irrigation system has great potential to prevent excess loss of water in drought-affected area and soil degradation and maximize the water efficiency leading to improvement in crop health and soil management. Modern nanosen sors combine biology with nanomaterials to be more accurate and rapid when spotting crop losses. It is a new and broader outlook for a better future. Such wire less nanosensors can be used for real-time monitoring of crop and trees health in particular cultivated and natural areas. Likewise, accurate plant disease and insect, pest detection can be monitored, which will help for timely application of accurate fertilizers, fungicides, insecticides, and pesticides to protect the crop or plant. Agriculture drones are next-generation solutions in the agricultural sectors that deal with a variety of issues, such as climatic conditions, precision farming, higher productivity, and crop production management. Drone with the image recognition approach nanosensors can identify the defects accurately, such innovation can enable to understand the crop stress, diseases, pest, and even soil defects. Applications of nanosensors in forestry include the uses in forest health protection, forest management wood and paper processing, and chemotaxonomy. The nanotechnology sector has best applied its technology in precision farming by developing nanobionics plants by inserting nanosensors into living plants that can be utilized to communicate as infrared devices and also for sensing objects in the plant's environment. Therefore, nanobionic approach has opened a new vista into plant nanomaterial research. In this review paper, some of nanobionic approaches for agriculture and forestry development have been discussed briefly. © 2022 Scrivener Publishing LLC.
+PY  - 2022
+DO  - 10.1002/9781119823469.ch9
+N1  - Export Date: 29 April 2026; Cited By: 4
+SP  - 225
+EP  - 253
+UR  - https://www.scopus.com/pages/publications/85148971053?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Eladl, S.G.; Zaineldin, H.Y.; Haikal, A.Y.; Saafan, M.M.
+TI  - Smart Agriculture Based on Internet of Things Using Drones: A Survey
+T2  - MEJ Mansoura Engineering Journal
+LA  - English
+KW  - Drone; Internet of things; Precision agriculture; Smart agriculture; Smart city; Unmanned aerial vehicles
+AB  - Researchers have studied the potential of unmanned aerial vehicles (UAVs) for real-time visual data acquisition and processing using potent deep learning (DL) algorithms over the past few decades. In this regard, drone use in smart cities has become one of the most common uses in recent years. UAVs and the Internet of Things (IoTs) are two popular technologies being used in smart agriculture that are ushering in a new era of agriculture by replacing traditional farming methods. The combination of drones and IoT has the potential to drastically change our lives through real-time data collection and analysis that will enhance life quality and provide a high quality of service (QoS). UAVs can provide farmers with up-to-date information on their fields, enabling them to make informed decisions about the use of farm inputs. In this paper, this review focuses on the use of UAVs in smart agriculture for pest and crop disease management, plant growth monitoring, yield estimation, weed control, fertilization, phenotypic measurement, soil moisture assessment, pesticide use, and nutritional status evaluation to improve productivity and environmental sustainability. In addition, we outline how UAV technology fits into smart agriculture. The goals of this review were to: (1) assemble information on the application of UAVs in smart agriculture in general in various scenarios; (2) discuss their benefits and limitations in a variety of applications in UAV-based agriculture; (3) cover the key ideas of drone architecture, drone sensors in smart agriculture, drone applications in smart agriculture using remote sensing, and IoT architectures and challenges for smart cities; and (4) offer a survey of all the most recent prior studies on IoT, besides the UAV strategy used in smart agriculture. Therefore, a literature review was conducted using 135 research articles that are relevant to UAV applications in smart agriculture and other general information about how well UAVs can be used in smart agriculture, collected from the research articles mentioned earlier. The study concluded that UAV-based crops can be an effective method for monitoring and management to improve yield and quality and significantly benefit social, economic, and environmental aspects. We conclude that two of the most significant technologies that change conventional farming methods into a new understanding of intelligence are IoT and UAV. However, UAVs should also take into account some of the difficulties in smart agriculture, including high initial costs, regulations, inclement weather, policy, and communication failures. © 2024, Mansoura University, Faculty of Engineering. All rights reserved.
+PY  - 2024
+VL  - 49
+IS  - 4
+C7  - 10
+DO  - 10.58491/2735-4202.3211
+N1  - Export Date: 29 April 2026; Cited By: 2
+UR  - https://www.scopus.com/pages/publications/105025810796?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Bogena, H.R.; Weuthen, A.; Huisman, J.A.
+TI  - Recent Developments in Wireless Soil Moisture Sensing to Support Scientific Research and Agricultural Management
+T2  - Sensors
+LA  - English
+KW  - cyberinfrastructure; field and catchment scale; hydrological modelling; remote sensing; sensor validation; soil moisture sensing; wireless communication technology; Agriculture; Remote Sensing Technology; Soil; Wireless Technology; Agriculture; Catchments; Moisture control; Remote sensing; Runoff; Soil moisture; Soil surveys; Catchment scale; Cyberinfrastructure; Field scale; Hydrological models; Remote-sensing; Sensor network measurement; Sensor network technology; Sensor validation; Soil moisture sensing; Wireless communication technology; agriculture; chemistry; procedures; remote sensing; soil; wireless communication; Wireless sensor networks
+AB  - In recent years, wireless sensor network (WSN) technology has emerged as an important technique for wireless sensing of soil moisture from the field to the catchment scale. This review paper presents the current status of wireless sensor network (WSN) technology for distributed, near real-time sensing of soil moisture to investigate seasonal and event dynamics of soil moisture patterns. It is also discussed how WSN measurements of soil measurements contribute to the validation and downscaling of satellite data and non-invasive geophysical instruments as well as the validation of distributed hydrological models. Finally, future perspectives for WSN measurements of soil moisture are highlighted, which includes the improved integration of real-time WSN measurements with other information sources using the latest wireless communication techniques and cyberinfrastructures. © 2022 by the authors.
+PY  - 2022
+VL  - 22
+IS  - 24
+C7  - 9792
+DO  - 10.3390/s22249792
+N1  - Export Date: 29 April 2026; Cited By: 35
+UR  - https://www.scopus.com/pages/publications/85144517975?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Oyebode, O.J.; Iyanda, O.J.; Apeh, S.; Afolalu, S.A.; Ajibade, S.-S.M.; Oyebode, K.O.; Oyebode, F.A.; Olowe, K.O.; Folorunso, O.P.
+TI  - Innovative Technologies and Implementation Strategies for Sustainable Irrigation Infrastructure in Nigeria: A Civil Engineering Perspective
+T2  - IEEE International Conference on Emerging and Sustainable Technologies for Power and ICT in a Developing Society, NIGERCON
+LA  - English
+KW  - Civil engineers; Implementation strategies; Innovative technologies; Policy and Governance; Sustainable irrigation infrastructure; Case-studies; Civil engineer; Engineering perspective; Implementation strategies; Innovative strategies; Innovative technology; Nigeria; Policy and governance; Sustainable irrigation infrastructure; Technology strategies; Subirrigation
+AB  - Innovative technologies with adequate implementation strategies are essential in Nigeria as Irrigation agriculture accounts for 70% of water use worldwide and irrigation farming in most nations of the World. This paper explores the crucial role of civil engineers in the deployment of innovative strategies and implementation of sustainable irrigation infrastructure in Nigeria. Irrigation systems are currently facing serious challenges due to growing scarcity and competition for water. The methodology includes literature reviews and case studies. Various innovative technologies and implementation strategies were highlighted for sustainable irrigation infrastructure in Nigeria. Remote sensing encompasses satellite imagery, aerial photography, and unmanned aerial vehicles (UAVs) to collect data on crop conditions, soil moisture, and water availability. It was discovered that the implementation of sustainable irrigation infrastructure is of paramount importance for Nigeria's agricultural development, food security, and overall economic growth. The significance of sustainable irrigation infrastructure, innovative technologies and strategies can be employed by civil engineers and other professionals to address these challenges. Civil engineers possess the expertise, knowledge, and skills to design, implement, and manage sustainable irrigation infrastructure projects. Technological innovations, policy and governance, financing and investment, case studies, and community engagement can be used to achieve sustainable irrigation infrastructure. © 2024 IEEE.
+PY  - 2024
+IS  - 2024
+DO  - 10.1109/NIGERCON62786.2024.10927083
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105005955828?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Naveen Kumar, K.; Raj Kumar, G.V.S.; Sekharamantry, P.K.; Sekhar, M.C.J.; Kumar, V.R.; Adarsh Kumar, K.
+TI  - IoT Implementation and Impacts in Agricultural Sector
+T2  - Proceedings - International Conference on Applied Artificial Intelligence and Computing, ICAAIC 2022
+LA  - English
+KW  - Farming Drones; Harvest; IoT; Remote Sensors; Smart Greenhouses; Soil Moisture sensor; Soil Quality; Temperature and humidity sensor; Water level sensor; Agricultural technology; Data acquisition; Internet of things; Moisture control; Remote sensing; Soil moisture; Sustainable development; Water levels; Agricultural industries; Farming drone; Harvest; IoT; Remote sensors; Smart greenhouse; Soil moisture sensors; Soils qualities; Temperature and humidity sensor; Water level sensors; Drones
+AB  - In this contemporary era, agriculture industry has grown the tendency of using advanced technological applications in the agricultural activities to enhance sustainability and growth of the industry. IoT is one of the advanced technological applications, which is specifically used by the players of the agriculture industry to attain growth and sustainability. Most importantly, IoT in the agricultural industry is implemented to help farmers in monitoring valuable information like humidity, soil quality, and air temperature with remote sensors. Most importantly, utilisation of IoT in the agricultural industry helps the farmers to improve the level of yields. Apart from these, IoT also helps the farmers to ensure effective planning on efficient irrigation. Overall, implementation of IoT is helpful in making potential harvest forecasts. These aspects are necessary in improving the sustainability and growth of the agricultural industry. Relevant objectives for this research work are developed, which are perfectly aligned with the selected research article. Help of different theories are taken to construct the literature review section of this research article. The researcher of this study has decided to adopt qualitative research methodology in order to achieve the goal of the research. Most importantly, secondary data collection approach has been considered to collect authentic data for this investigative study. In the data analysis and finding's part, different tools of IoT used in agricultural industry have been identified. Different associated challenges also have been found out. At last, some potential strategies are recommended to overcome the identified challenges in the findings section of the research. © 2022 IEEE.
+PY  - 2022
+DO  - 10.1109/ICAAIC53929.2022.9793076
+N1  - Export Date: 29 April 2026; Cited By: 2
+SP  - 1505
+EP  - 1509
+UR  - https://www.scopus.com/pages/publications/85133478278?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Amarasingam, N.; Ashan Salgadoe, A.S.; Powell, K.; Gonzalez, L.F.; Natarajan, S.
+TI  - A review of UAV platforms, sensors, and applications for monitoring of sugarcane crops
+T2  - Remote Sensing Applications: Society and Environment
+LA  - English
+KW  - Artificial intelligence; Precision agriculture; Sugarcane; Unmanned aerial system; Unmanned aerial vehicle
+AB  - Recent advancements in the application of unmanned aerial vehicles (UAVs) based remote sensing (RS) in precision agricultural practices have been critical in enhancing crop health and management. UAV-based RS and advanced computational algorithms including Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), are progressively being applied to make predictions, solve decisions to optimize the production and operation processes in many farming industries such as sugarcane. UAVs with various advanced sensors, including RGB, multispectral, hyperspectral, LIDAR, and thermal cameras, have been used for crop RS applications as they can provide new approaches and research opportunities in precision sugarcane production. This review focuses on the use of UAVs in the sugarcane industry for pest and disease management, yield estimation, phenotypic measurement, soil moisture assessment, and nutritional status evaluation to improve the productivity and environmental sustainability. The goals of this review were to: (1) assemble information on the application of UAVs in the sugarcane industry; and (2) discuss their benefits and limitations in a variety of applications in UAV-based sugarcane cultivation. A literature review was conducted utilizing three bibliographic databases, including Google Scholar, Scopus, Web of Science, and 179 research articles that are relevant to UAV applications in sugarcane and other general information about UAV and sensors collected from the databases mentioned earlier. The study concluded that UAV-based crop RS can be an effective method for sugarcane monitoring and management to improve yield and quality and significantly benefits on social, economic, and environmental aspects. However, UAV-based RS should also consider some of the challenges in sugar industries include technological adaptations, high initial cost, inclement weather, communication failures, policy, and regulations. © 2022 Elsevier B.V.
+PY  - 2022
+VL  - 26
+C7  - 100712
+DO  - 10.1016/j.rsase.2022.100712
+N1  - Export Date: 29 April 2026; Cited By: 134
+UR  - https://www.scopus.com/pages/publications/85125535376?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Galvis-Ortega, L.D.; Claro-Prado, D.E.; Swaminathan, J.; Rico-Bautista, D.
+TI  - Drones in sustainable agricultural systems: A literature review
+T2  - Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology
+LA  - English
+KW  - 5G technology; agricultural systems; drones; efficient agriculture; sustainability
+AB  - The article focuses on the application of 5G technology in drones to improve sustainable agriculture. It highlights the use of drones equipped with cameras, taking advantage of 5G networks to cover large areas and access remote areas, enabling more effective monitoring of fields and crops. Extensive research was conducted in eight digital libraries, where 186 relevant studies were initially found. After detailed analysis, 25 studies were selected that met the research criteria. It was observed that precision agriculture presents a wide variety of techniques and tools, with a diversity of cameras and sensors currently in use. These tools have practical applications ranging from assessing evaporation and soil moisture to monitoring crop nutrients and crop yields. The study identifies several challenges that need to be addressed, such as integrating data from different sources and optimizing algorithms for more accurate analysis. However, precision agriculture presents itself as a valuable tool with the potential to positively transform agricultural practices, fostering sustainability and efficiency in the sector. © 2024 Latin American and Caribbean Consortium of Engineering Institutions. All rights reserved.
+PY  - 2024
+DO  - 10.18687/LACCEI2024.1.1.1970
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/85203823036?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Peng, J.; Albergel, C.; Balenzano, A.; Brocca, L.; Cartus, O.; Cosh, M.H.; Crow, W.T.; Dabrowska-Zielinska, K.; Dadson, S.; Davidson, M.W.J.; de Rosnay, P.; Dorigo, W.; Gruber, A.; Hagemann, S.; Hirschi, M.; Kerr, Y.H.; Lovergine, F.; Mahecha, M.D.; Marzahn, P.; Mattia, F.; Musial, J.P.; Preuschmann, S.; Reichle, R.H.; Satalino, G.; Silgram, M.; van Bodegom, P.M.; Verhoest, N.E.C.; Wagner, W.; Walker, J.P.; Wegmüller, U.; Loew, A.
+TI  - A roadmap for high-resolution satellite soil moisture applications – confronting product characteristics with user requirements
+T2  - Remote Sensing of Environment
+LA  - English
+KW  - Agriculture; Coarse resolution; Ecosystem; Geography; High resolution; Hydrology; Meteorology; Remote sensing; Soil moisture; Satellites; Soil surveys; Space-based radar; Synthetic aperture radar; Application requirements; C-band backscatters; High resolution; High resolution satellites; Product characteristics; Satellite based Earth observation; Scientific community; User requirements; backscatter; downscaling; estimation method; microwave imagery; satellite data; Sentinel; soil moisture; synthetic aperture radar; Soil moisture
+AB  - Soil moisture observations are of broad scientific interest and practical value for a wide range of applications. The scientific community has made significant progress in estimating soil moisture from satellite-based Earth observation data, particularly in operationalizing coarse-resolution (25-50 km) soil moisture products. This review summarizes existing applications of satellite-derived soil moisture products and identifies gaps between the characteristics of currently available soil moisture products and the application requirements from various disciplines. We discuss the efforts devoted to the generation of high-resolution soil moisture products from satellite Synthetic Aperture Radar (SAR) data such as Sentinel-1 C-band backscatter observations and/or through downscaling of existing coarse-resolution microwave soil moisture products. Open issues and future opportunities of satellite-derived soil moisture are discussed, providing guidance for further development of operational soil moisture products and bridging the gap between the soil moisture user and supplier communities. © 2020
+PY  - 2021
+VL  - 252
+C7  - 112162
+DO  - 10.1016/j.rse.2020.112162
+N1  - Export Date: 29 April 2026; Cited By: 296
+UR  - https://www.scopus.com/pages/publications/85096405972?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Wadod, M.M.; Mohammed, F.G.
+TI  - Review on Drone application methodologies in agriculture precision
+T2  - IOP Conference Series: Earth and Environmental Science
+LA  - English
+KW  - Drone; high precision areal; Precision Agriculture; satellite image interpretation
+AB  - In recent times, Drone use has increased significantly in the field of precise agriculture. These aircraft, which are equipped with thermal and multi-spectrum cameras, allow us to increase agricultural production in proportion to the increasing demand of the population and monitor crops grown in large areas, which is a very difficult task given the large areas of fields and the standards required for the successful cultivation of the crop in terms of soil moisture and fertility, proximity to water sources, and the possibility of its delivery In a way that reduces the waste of this water. Fields are at risk of crop damage due to diseases to crops caused by insects and pests, as drones can be used to spray pesticides and fertilizers in a way that reduces the health risks to people when spreading them manually. In this research paper, we will address several previous research related to the use of sensor and drone techniques in the field of precision agriculture and their efficiency in helping to sustain production and increase crop yields.  © Published under licence by IOP Publishing Ltd.
+PY  - 2023
+VL  - 1202
+IS  - 1
+C7  - 012001
+DO  - 10.1088/1755-1315/1202/1/012001
+N1  - Export Date: 29 April 2026; Cited By: 12
+UR  - https://www.scopus.com/pages/publications/85178057723?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Talaviya, T.; Shah, D.; Patel, N.; Yagnik, H.; Shah, M.
+TI  - Implementation of artificial intelligence in agriculture for optimisation of irrigation and application of pesticides and herbicides
+T2  - Artificial Intelligence in Agriculture
+LA  - English
+KW  - Artificial intelligence; Automation; Herbicide; Irrigation; Pesticide; Agricultural robots; Climate change; Crops; Drones; Employment; Food supply; Herbicides; Population statistics; Soil moisture; Weed control; Automated methods; Crop yield; Economic sectors; Employment opportunities; Food security; Optimisations; Paper surveys; Population growth; Power; Security problems; Irrigation
+AB  - Agriculture plays a significant role in the economic sector. The automation in agriculture is the main concern and the emerging subject across the world. The population is increasing tremendously and with this increase the demand of food and employment is also increasing. The traditional methods which were used by the farmers, were not sufficient enough to fulfill these requirements. Thus, new automated methods were introduced. These new methods satisfied the food requirements and also provided employment opportunities to billions of people. Artificial Intelligence in agriculture has brought an agriculture revolution. This technology has protected the crop yield from various factors like the climate changes, population growth, employment issues and the food security problems. This main concern of this paper is to audit the various applications of Artificial intelligence in agriculture such as for irrigation, weeding, spraying with the help of sensors and other means embedded in robots and drones. These technologies saves the excess use of water, pesticides, herbicides, maintains the fertility of the soil, also helps in the efficient use of man power and elevate the productivity and improve the quality. This paper surveys the work of many researchers to get a brief overview about the current implementation of automation in agriculture, the weeding systems through the robots and drones. The various soil water sensing methods are discussed along with two automated weeding techniques. The implementation of drones is discussed, the various methods used by drones for spraying and crop-monitoring is also discussed in this paper. © 2020 Elsevier B.V.
+PY  - 2020
+VL  - 4
+DO  - 10.1016/j.aiia.2020.04.002
+N1  - Export Date: 29 April 2026; Cited By: 886
+SP  - 58
+EP  - 73
+UR  - https://www.scopus.com/pages/publications/85085765826?origin=resultslist
+M3  - Review
+DB  - Scopus
+ER  - 
+

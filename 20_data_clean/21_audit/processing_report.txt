@@ -1,0 +1,45 @@
+=== DATA PROCESSING REPORT ===
+
+Date: 2026-11-21 11:10:01.243365
+
+INPUT (only these files in 12_final):
+  WoS
+    file: export_WoS.ris
+    downloaded: 2026-04-29
+    records: 633
+  Scopus
+    file: export_Scopus.ris
+    downloaded: 2026-04-29
+    records: 1003
+Merged (sum of files, before removing duplicates): 1636
+
+CLASSIFICATION:
+correct_record: 1154
+duplicate_doi: 473
+duplicate_title: 6
+non_article_type: 3
+
+DOI:
+missing among merged: 22
+missing among retained: 21
+  missing retained type | conference paper: 11
+  missing retained type | book chapter: 5
+  missing retained type | journal article: 4
+  missing retained type | conference review: 1
+policy: records without DOI are retained and cannot be excluded for missing DOI
+
+KEPT PUBLICATION TYPES (conference papers and book chapters stay; books removed):
+  journal article: 824
+  conference paper: 248
+  book chapter: 81
+  conference review: 1
+
+REMOVED BY REASON:
+duplicate_doi | Duplicate DOI: 473
+duplicate_title | Duplicate title and year: 6
+non_article_type | Book (systematic review of primary research articles only): 3
+
+FINAL:
+Retained: 1154
+Removed: 482
+correct_record: 1154

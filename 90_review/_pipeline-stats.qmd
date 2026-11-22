@@ -1,0 +1,220 @@
+<!-- Shared setup: pipeline statistics loaded once from the export files in the
+     project root. Included by both review.qmd and online-resources.qmd, so the
+     appendix can be rendered on its own. Re-render after re-running the merge
+     or screening scripts. -->
+
+```{python}
+#| label: load-stats
+#| echo: false
+# Load PRISMA and screening counts from the pipeline exports so Abstract and
+# Results stay in sync. Inline expressions use: `{python} stats['key']`
+# Stdlib only (no pandas/tabulate) so render works in minimal reticulate envs.
+
+import json
+import re
+import os
+from pathlib import Path
+
+# Pipeline exports live in the review root (the parent of 90_review/). Walk up
+# from the working directory until that folder shows up, so the render works
+# from 90_review/, from the repo root, and as a Quarto project alike.
+def _find_root(start: Path) -> Path:
+    for candidate in (start, *start.parents):
+        if (candidate / "20_data_clean").is_dir():
+            return candidate
+    raise FileNotFoundError(
+        f"pipeline exports (20_data_clean/) not found above {start}"
+    )
+
+
+ROOT = _find_root(Path(os.environ.get("QUARTO_PROJECT_ROOT", Path.cwd())).resolve())
+
+# Read the reports where merge_and_classify.py and screening_and_deep_classify.py
+# actually write them. 60_prisma/ holds hand-made copies for the flow diagram
+# (see its README) -- reading those instead is how the manuscript ended up
+# quoting April numbers.
+MERGE_REPORT = ROOT / "20_data_clean" / "21_audit" / "processing_report.txt"
+PRISMA_COUNTS = ROOT / "20_data_clean" / "21_audit" / "prisma_counts.csv"
+DECISIONS = ROOT / "20_data_clean" / "21_audit" / "record_decisions.json"
+SCREEN_REPORT = ROOT / "30_screening" / "33_reports" / "screening_summary.txt"
+KEYWORDS_STAT = ROOT / "30_screening" / "33_reports" / "keyword_statistics.txt"
+SEARCH_FINAL = ROOT / "00_search" / "02_final" / "final_query.txt"
+OR_INPUTS = ROOT / "90_review" / "92_appendix" / "or-09-inputs.qmd"
+OR_UAV = ROOT / "90_review" / "92_appendix" / "or-13-uav.qmd"
+
+
+def _read_text(path: Path) -> str:
+    """File contents; a missing export is an error, not an empty string."""
+    if not path.exists():
+        raise FileNotFoundError(
+            f"pipeline export missing: {path}\n"
+            "Re-run 70_scripts/review_runner.py (steps 2 and 3) first."
+        )
+    return path.read_text(encoding="utf-8")
+
+
+def _match(text: str, pattern: str, source: Path, cast=int):
+    """First capture group of pattern. Never silently defaults to zero: a
+    changed report layout used to render the whole Results section as 0."""
+    m = re.search(pattern, text, re.MULTILINE)
+    if not m:
+        raise ValueError(f"{source.name} has no match for {pattern!r}")
+    return cast(m.group(1))
+
+
+prisma = _read_text(MERGE_REPORT)
+scr = _read_text(SCREEN_REPORT)
+key = _read_text(KEYWORDS_STAT)
+
+
+def _merge(pattern, cast=int):
+    return _match(prisma, pattern, MERGE_REPORT, cast)
+
+
+def _screen(pattern, cast=int):
+    return _match(scr, pattern, SCREEN_REPORT, cast)
+
+
+def _class_counts() -> dict:
+    """Status totals from the merge report, with prisma_counts.csv as fallback."""
+    names = (
+        "correct_record", "duplicate_doi", "missing_doi",
+        "duplicate_title", "non_article_type",
+    )
+    counts = {}
+    for name in names:
+        m = re.search(rf"^{name}: (\d+)\s*$", prisma, re.MULTILINE)
+        if m:
+            counts[name] = int(m.group(1))
+    if PRISMA_COUNTS.exists():
+        for line in PRISMA_COUNTS.read_text(encoding="utf-8").splitlines()[1:]:
+            if "," not in line:
+                continue
+            key, val = line.split(",", 1)
+            key, val = key.strip(), val.strip()
+            if key in names and key not in counts:
+                counts[key] = int(val)
+    for name in names:
+        counts.setdefault(name, 0)
+    return counts
+
+
+def _md_table_data_rows(path: Path) -> int:
+    """Data rows of the first markdown table (not the header)."""
+    text = _read_text(path)
+    lines = [ln for ln in text.splitlines() if ln.startswith("|")]
+    if len(lines) < 3:
+        raise ValueError(f"{path.name} has no markdown table")
+    data = [
+        ln for ln in lines[2:]
+        if not re.match(r"^\|\s*:?-+:?[\s\|:-]*\|$", ln)
+    ]
+    if not data:
+        raise ValueError(f"{path.name} table has no data rows")
+    return len(data)
+
+
+cls = _class_counts()
+
+
+def _db_n(name: str) -> int:
+    """Database hit count. Older reports used 'WoS: 633'; current reports
+    list each database as a block with a 'records:' line."""
+    m = re.search(rf"^{re.escape(name)}: (\d+)\s*$", prisma, re.MULTILINE)
+    if m:
+        return int(m.group(1))
+    m = re.search(
+        rf"^[ \t]+{re.escape(name)}\s*\n(?:[ \t]+.*\n)*?[ \t]+records: (\d+)",
+        prisma,
+        re.MULTILINE,
+    )
+    if not m:
+        raise ValueError(
+            f"{MERGE_REPORT.name} has no {name} record count "
+            f"(expected '{name}: N' or a '{name}' block with 'records: N')."
+        )
+    return int(m.group(1))
+
+
+# The merge report was relabelled once ("Total merged records" -> "Merged"), so
+# both spellings are accepted rather than failing on an older export.
+stats = {
+    "wos": _db_n("WoS"),
+    "scopus": _db_n("Scopus"),
+    "merged": _merge(
+        r"(?:Total merged records|Merged)(?: \([^)]+\))?: (\d+)"
+    ),
+    "script_retained": cls["correct_record"],
+    "retained": cls["correct_record"],
+    "removed": _merge(r"(?:Records removed|Removed): (\d+)"),
+    "duplicate_doi": cls["duplicate_doi"],
+    "duplicate_title": cls["duplicate_title"],
+    "missing_doi": cls["missing_doi"],
+    "books": cls["non_article_type"],
+    "non_review": _screen(r"Records \(non-review\): (\d+)"),
+    "reviews": _screen(r"Review articles: (\d+)"),
+    "uav_reviews": _screen(r"UAV-related reviews: (\d+)"),
+    "include_n": _screen(r"Include: (\d+)"),
+    "include_pct": _screen(r"Include: \d+ \(([\d.]+)%\)", cast=float),
+    "maybe_n": _screen(r"Maybe: (\d+)"),
+    "maybe_pct": _screen(r"Maybe: \d+ \(([\d.]+)%\)", cast=float),
+    "exclude_n": _screen(r"Exclude: (\d+)"),
+    "exclude_pct": _screen(r"Exclude: \d+ \(([\d.]+)%\)", cast=float),
+    "must_cite": _screen(r"^Must-cite: (\d+)"),
+    "must_cite_strict": _screen(r"Must-cite \(core\): (\d+)"),
+    "extended": _screen(r"Must-cite \(extended\): (\d+)"),
+}
+
+# After the merge stopped using status=missing_doi, the count lives in the DOI
+# block. Prefer that so a re-run does not print 0 kept no-DOI records.
+if not stats["missing_doi"]:
+    try:
+        stats["missing_doi"] = _merge(r"missing among retained: (\d+)")
+    except ValueError:
+        try:
+            stats["missing_doi"] = _merge(r"missing among merged: (\d+)")
+        except ValueError:
+            pass
+
+# Derived counts for must-cite tiers (percent of non-review records)
+stats["must_cite_pct"] = round(100 * stats["must_cite"] / stats["non_review"], 1)
+stats["core_pct"] = round(100 * stats["must_cite_strict"] / stats["non_review"], 1)
+stats["extended_pct"] = round(
+    100 * stats["extended"] / stats["non_review"], 1
+)
+stats["n_duplicates"] = stats["duplicate_doi"] + stats["duplicate_title"]
+stats["n_studies"] = _md_table_data_rows(OR_INPUTS)
+stats["n_leftover"] = stats["must_cite"] - stats["n_studies"]
+
+# After Audit, forward_records / record_decisions is the set that goes on.
+if DECISIONS.exists():
+    _dec = json.loads(DECISIONS.read_text(encoding="utf-8"))
+    n_fwd = _dec.get("n_forward")
+    if n_fwd:
+        stats["retained"] = int(n_fwd)
+        stats["removed"] = stats["merged"] - stats["retained"]
+
+stats["n_uav_campaigns"] = _md_table_data_rows(OR_UAV)
+stats["lock_extra"] = max(0, stats["script_retained"] - stats["retained"])
+stats["other_exclusions"] = stats["books"] + stats["lock_extra"]
+stats["prisma_ta_excluded"] = stats["retained"] - stats["must_cite"]
+
+# The reviews and the retained records have to add up, or the manuscript is
+# quoting two different pipeline runs against each other.
+if stats["reviews"] + stats["non_review"] != stats["retained"]:
+    raise ValueError(
+        f"inconsistent exports: {stats['reviews']} reviews + "
+        f"{stats['non_review']} non-review != {stats['retained']} retained. "
+        "Re-run the merge and the screening step so both reports match."
+    )
+if stats["must_cite_strict"] + stats["extended"] != stats["must_cite"]:
+    raise ValueError(
+        f"inconsistent must-cite tiers: {stats['must_cite_strict']} core + "
+        f"{stats['extended']} extended != {stats['must_cite']} must-cite."
+    )
+if stats["n_leftover"] < 0:
+    raise ValueError(
+        f"OR 8 has {stats['n_studies']} studies but must-cite is only "
+        f"{stats['must_cite']}. Recount the extraction table."
+    )
+```

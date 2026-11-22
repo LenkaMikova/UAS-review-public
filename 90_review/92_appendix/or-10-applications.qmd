@@ -1,0 +1,60 @@
+<!-- Online Resource 10 (`or-applications`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+<!-- Zapracováno @Guo2026 (řádek po @Guo2022; kukuřice, Fenhe). -->
+
+::: {#or-applications}
+| Study | Target Application Category | Specific Crops / Land Cover | Phenological Stages Analyzed | Key Local Challenges & Interferences | Spatial Scale |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **@BasurtoLozada2020** | Bare Soil / Arable <br>![](../80_figures/81_icons/bareSoil.png){width=52} ![](../80_figures/81_icons/arable.png){width=52} | Bare soil, Cropland | Pre-planting | Topographic variations and surface roughness. | Field |
+| **@Bhatti2020** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Maize, Soybean | Vegetative to maturity | Canopy occlusion; partitioning evaporation from transpiration. | Field |
+| **@Capolupo2026** \* ‡ | Orchards & Vineyards <br>![](../80_figures/81_icons/vineyards.png){width=52} | Vineyards | Full season | Complex canopy geometry and varying row orientations. | Regional |
+| **@Chakhar2021** | Arable Crops / Bare <br>![](../80_figures/81_icons/arableCrops.png){width=52} ![](../80_figures/81_icons/bare.png){width=52} | Bare soil, Cereal, Peas, Onion | Multi-stage (variable by crop) | Diverse crop architectures and changing surface roughness over time. | Field |
+| **@Chandel2021** | Orchards & Vineyards <br>![](../80_figures/81_icons/orchards.png){width=52} ![](../80_figures/81_icons/vineyards.png){width=52} | Apple orchard, Vineyard | Mid-season (August) | Sub-field heterogeneity and inter-row shadowing effects. | Sub-field to field |
+| **@Chaparro2024** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Pineapple | Vegetative growth | Dense, overlapping rosette canopy structure masking the soil. | Field |
+| **@Chavez2020** ‡ | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Irrigated Agriculture | Multi-stage | Spatial scaling across diverse, heterogeneous crop types. | Field to regional |
+| **@Chen2024** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Summer maize | V6, V10, V12, R1 stages | High and dynamic canopy coverage severely limiting soil visibility. | Field |
+| **@Choudhari2024** \* | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | General Precision Agriculture | NR | Real-time monitoring across variable field conditions. | Field |
+| **@Chu2026** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Winter wheat | Jointing, heading, grain-filling | Rapidly changing structural and spectral traits during maturation. | Field |
+| **@Dopper2022** | Grasslands <br>![](../80_figures/81_icons/grassland.png){width=52} | Mown, grazed, and permanent | Throughout vegetation period | Thatch layer (dead biomass) and physiological time-lags in response. | Field / site |
+| **@Du2024** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Soybean, Canola, Wheat | Full growth cycle | Distinguishing canopy water content from actual soil moisture. | Field |
+| **@Farhad2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Corn, Cotton | Planting to harvest (full cycle) | Temporal variations in biomass and severe signal attenuation by mature crops. | Field (~2.3 ha) |
+| **@Feng2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Maize | V6, VT, R4 stages | Canopy structural complexity influencing multi-angular reflectance. | Field |
+| **@GarciaRodriguez2026** | Orchards & Vineyards <br>![](../80_figures/81_icons/vineyards.png){width=52} | Vineyards (Regional scale) | Multi-year continuous (2018–2023) | Integration of multi-resolution data across vast, heterogeneous topographies. | Regional |
+| **@Guo2022** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Winter wheat | Tillering to maturity | Penetrating dense wheat canopies with microwave and optical signals. | Field |
+| **@Guo2026** | Arable Crops / deficit irrigation <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Maize (*Zea mays* L.) | Jointing (2 campaigns), tasseling–silking (3), filling–maturation (6) | Dense canopy decoupling optical reflectance from subsurface moisture; loss of spectral sensitivity under severe drought (T4/T5, 60–70% FC); sensing depth limit at 45 cm | Plot/field (10 concrete-isolated plots 3 m × 2 m × 2 m, rainout shelters; Fenhe irrigation area, Shanxi, China) |
+| **@He2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Cotton | Pre-sowing, seedling, squaring, flower-bolling | Co-occurrence of soil salinization and moisture stress. | Field |
+| **@He2026** | Orchards / Arable <br>![](../80_figures/81_icons/orchards.png){width=52} ![](../80_figures/81_icons/arable.png){width=52} | Kiwifruit, Cotton | Multi-temporal sequences | Non-linear temporal dynamics and environmental noise. | Canopy to field |
+| **@Heistermann2023** | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Orchards, Meadows, Field crops | 3-year continuous | Extreme spatial heterogeneity across distinct adjacent biomes. | Local / transect |
+| **@Hussain2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Peanut | Pre-harvest stages | Complex leaf architecture and dense ground cover. | Field |
+| **@Inocencio2025** \* | Bare Soil <br>![](../80_figures/81_icons/bareSoil.png){width=52} | Bare soil (ploughed) | Uncultivated | Soil texture variations and localized ponding. | Field / plot |
+| **@Keshavarz2025** | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Agricultural field | NR | Depth-dependent variability of dielectric permittivity. | Point to field |
+| **@Liu2024** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Summer maize | Jointing, tasseling, filling, ripening | Decoupling water stress signals from pigment concentration changes. | Field |
+| **@Liu2026** | Orchards & Vineyards <br>![](../80_figures/81_icons/orchards.png){width=52} | Citrus canopy | Active growth phase | 3D canopy background noise and inter-row bare soil mixing. | Canopy / orchard |
+| **@Niu2022** | Orchards & Vineyards <br>![](../80_figures/81_icons/orchards.png){width=52} | Pomegranate canopy | Full season | Tree crown shading and accurate pure-canopy pixel extraction. | Canopy / orchard |
+| **@Niu2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Maize seedlings | Early vegetative (Seedling) | Very small target size and dominant soil background interference. | Field |
+| **@PancheGil2025** | Arable / Forest <br>![](../80_figures/81_icons/arable.png){width=52} ![](../80_figures/81_icons/forest.png){width=52} | Dry beans, Forest cover | Multi-temporal | Cloud cover and rapid crop physiological changes. | Landscape |
+| **@Rafi2026** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Corn, Cotton | Weekly monitoring (full cycle) | Management practice variations and temporal data gaps. | Field |
+| **@Senyurek2022** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Corn, Cotton | Vegetative to mature | Signal scattering caused by dense vegetation volume. | Field |
+| **@Shi2025** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Winter oilseed rape | Seedling, budding, flowering | Massive spectral shift during the flowering stage (yellow petals). | Field |
+| **@Shokati2025** | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Bare soil, Cropland, Grassland | 14 field campaigns | Scaling errors across abruptly changing adjacent land covers. | Field to landscape |
+| **@Soultane2024** | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Agricultural field | Summer growth | Decoupling atmospheric demand from actual soil water deficit. | Field |
+| **@Tauro2022** | Orchards & Vineyards <br>![](../80_figures/81_icons/orchards.png){width=52} | Poplar trees (SRC) | Mid-summer (drought periods) | Disentangling tree transpiration from understory/soil evaporation. | Canopy |
+| **@Wang2024** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Winter wheat | Jointing, booting, flowering, filling | High-frequency thermal fluctuations and varying canopy closure. | Field to regional |
+| **@Wang2026** | Regional / Global <br>![](../80_figures/81_icons/regGlob.png){width=52} | Diverse (Global grid) | 5-year continuous (2019–2023) | Extreme macro-scale heterogeneity in topography and vegetation. | Regional to global |
+| **@Ye2024** | Grasslands <br>![](../80_figures/81_icons/grassland.png){width=52} | Pasture / Paddocks | Late spring / early summer | Variable surface roughness and patchy vegetation density. | Paddock / field |
+| **@Yin2024** | Arable / Forage <br>![](../80_figures/81_icons/arable.png){width=52} ![](../80_figures/81_icons/forage.png){width=52} | Alfalfa | Regrowth cycles (multi-cut) | Fast canopy regrowth leading to rapid saturation of optical indices. | Field / plot |
+| **@Young2025** \* | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Spring oats | Early emergence | Differentiating tiny emerging shoots from dry soil backgrounds. | Field |
+| **@Yu2022** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Wheat | Jointing, booting, heading, anthesis | Saturation of optical indices at late phenological stages. | Field |
+| **@Zajc2023** \* | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Agricultural field | Post-harvest / Pre-planting | Variable soil compaction and localized sub-surface anomalies. | Field / transect |
+| **@Zappa2019** | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Agricultural Catchment | Full season | Topographic shading and variable contributing drainage areas. | Catchment |
+| **@Zhang2023** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Maize | Vegetative, reproductive, maturation | Canopy thermal inertia masking underlying soil temperature. | Field |
+| **@Zhang2025** | Bare Soil <br>![](../80_figures/81_icons/bareSoil.png){width=52} | Bare soil (Lab & Field) | Uncultivated | Background noise from variable mineralogy and organic matter. | Point / plot |
+| **@Zhang2026b** | Arable Crops <br>![](../80_figures/81_icons/arableCrops.png){width=52} | Cotton | Pre-sowing, squaring, flowering-bolling, boll-opening | Soil salinization effects mimicking drought stress symptoms. | Field |
+| **@Zhuang2023** ‡ | Mixed Agriculture <br>![](../80_figures/81_icons/mixAgriculture.png){width=52} | Cropland / Grassland | Multi-stage | Complexity of physical radiative transfer inversion. | Field to landscape |
+
+Application environments, crop and land-cover types, phenological stages, local interferences, and spatial scales across the reviewed studies.
+:::
+
+\* Conference paper &nbsp;&nbsp; ‡ Review / meta-analysis &nbsp;&nbsp; NR – not reported.
+
+
+------------------------------------------------------------------------

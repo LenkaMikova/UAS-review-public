@@ -1,0 +1,1853 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "%moisture",
+				"x": -0.4632,
+				"y": -0.6917,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 54.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2025.2857
+				}
+			},
+			{
+				"id": 9,
+				"label": "aerial vehicle",
+				"x": -0.6308,
+				"y": 0.1811,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 77.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.5714
+				}
+			},
+			{
+				"id": 16,
+				"label": "agricultural robots",
+				"x": 1.1004,
+				"y": -0.2824,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "agriculture",
+				"x": 1.9338,
+				"y": 0.6480,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4000
+				}
+			},
+			{
+				"id": 33,
+				"label": "antennas",
+				"x": 0.1735,
+				"y": 0.1420,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 120.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5385
+				}
+			},
+			{
+				"id": 90,
+				"label": "crops",
+				"x": 0.3513,
+				"y": -0.1000,
+				"cluster": 1,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 92.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6364
+				}
+			},
+			{
+				"id": 142,
+				"label": "evapotranspiration",
+				"x": 1.1860,
+				"y": -0.8818,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000
+				}
+			},
+			{
+				"id": 227,
+				"label": "irrigation",
+				"x": 0.2042,
+				"y": -0.3306,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 87.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.1111
+				}
+			},
+			{
+				"id": 249,
+				"label": "learning systems",
+				"x": -0.6349,
+				"y": -0.4034,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 62.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.6667
+				}
+			},
+			{
+				"id": 265,
+				"label": "machine learning",
+				"x": -0.3646,
+				"y": -0.1716,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 98.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.9333
+				}
+			},
+			{
+				"id": 269,
+				"label": "machine-learning",
+				"x": -0.2165,
+				"y": -0.8055,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 52.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.6667
+				}
+			},
+			{
+				"id": 289,
+				"label": "moisture content",
+				"x": -0.4826,
+				"y": 0.5560,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 66.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0000
+				}
+			},
+			{
+				"id": 291,
+				"label": "moisture determination",
+				"x": -0.1652,
+				"y": 0.7227,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 59.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.4000
+				}
+			},
+			{
+				"id": 316,
+				"label": "ndvi",
+				"x": 0.5560,
+				"y": 0.6675,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 41.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.8000
+				}
+			},
+			{
+				"id": 359,
+				"label": "precision agriculture",
+				"x": -0.1937,
+				"y": -0.3028,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 124.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.4444
+				}
+			},
+			{
+				"id": 395,
+				"label": "remote sensing",
+				"x": 0.0911,
+				"y": -0.0341,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 175.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.3043
+				}
+			},
+			{
+				"id": 401,
+				"label": "remote-sensing",
+				"x": -0.9707,
+				"y": 0.0604,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 50.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0000
+				}
+			},
+			{
+				"id": 420,
+				"label": "satellite data",
+				"x": 0.0562,
+				"y": 0.5112,
+				"cluster": 1,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 68.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0000
+				}
+			},
+			{
+				"id": 421,
+				"label": "satellite imagery",
+				"x": 0.1737,
+				"y": -0.6306,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 64.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.8750
+				}
+			},
+			{
+				"id": 461,
+				"label": "soil moisture",
+				"x": -0.0763,
+				"y": -0.0170,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 221.0000,
+					"Occurrences": 35.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.6286
+				}
+			},
+			{
+				"id": 464,
+				"label": "soil moisture content",
+				"x": -0.2800,
+				"y": 0.3904,
+				"cluster": 1,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 80.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.4444
+				}
+			},
+			{
+				"id": 477,
+				"label": "soil surveys",
+				"x": -0.0276,
+				"y": -0.1874,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 150.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.9412
+				}
+			},
+			{
+				"id": 555,
+				"label": "uav",
+				"x": -0.9042,
+				"y": 0.6525,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.1429
+				}
+			},
+			{
+				"id": 567,
+				"label": "unmanned aerial vehicle",
+				"x": -0.7833,
+				"y": -0.1399,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 62.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.3333
+				}
+			},
+			{
+				"id": 571,
+				"label": "unmanned aerial vehicles (uav)",
+				"x": -0.0476,
+				"y": 0.1307,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 150.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.3529
+				}
+			},
+			{
+				"id": 576,
+				"label": "unmanned vehicle",
+				"x": -0.4133,
+				"y": 0.0725,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 96.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.5556
+				}
+			},
+			{
+				"id": 583,
+				"label": "vegetation",
+				"x": 0.8284,
+				"y": 0.2438,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 45.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5714
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 9,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 33,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 227,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 249,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 265,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 269,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 289,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 291,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 359,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 395,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 461,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 464,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 477,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 576,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 33,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 90,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 227,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 249,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 265,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 289,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 291,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 359,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 395,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 401,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 420,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 461,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 464,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 477,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 567,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 571,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 576,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 33,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 90,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 227,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 359,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 395,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 461,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 477,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 571,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 583,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 461,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 583,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 90,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 227,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 249,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 265,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 289,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 291,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 316,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 359,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 395,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 401,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 420,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 421,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 461,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 464,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 477,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 567,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 571,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 576,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 583,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 142,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 227,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 249,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 265,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 289,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 291,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 316,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 359,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 395,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 401,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 420,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 421,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 461,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 464,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 477,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 571,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 576,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 583,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 227,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 359,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 395,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 461,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 477,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 571,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 249,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 265,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 289,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 291,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 359,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 395,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 401,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 420,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 421,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 461,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 464,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 477,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 571,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 227,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 265,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 289,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 291,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 359,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 395,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 401,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 420,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 461,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 464,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 477,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 269,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 289,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 291,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 359,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 395,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 401,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 420,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 421,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 461,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 464,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 477,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 567,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 576,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 289,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 291,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 359,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 395,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 461,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 464,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 477,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 571,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 576,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 291,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 316,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 359,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 395,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 401,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 420,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 461,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 464,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 477,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 571,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 316,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 359,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 395,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 401,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 420,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 461,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 464,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 477,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 576,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 359,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 395,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 420,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 461,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 464,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 477,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 571,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 576,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 583,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 395,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 401,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 420,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 421,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 461,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 464,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 477,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 567,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 571,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 576,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 583,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 401,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 420,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 421,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 461,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 464,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 477,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 555,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 567,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 571,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 576,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 583,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 420,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 461,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 464,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 477,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 401,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 461,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 464,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 477,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 567,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 576,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 461,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 464,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 477,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 571,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 576,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 421,
+				"target_id": 583,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 464,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 477,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 555,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 567,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 571,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 576,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 461,
+				"target_id": 583,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 477,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 555,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 567,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 464,
+				"target_id": 583,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 477,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 477,
+				"target_id": 567,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 477,
+				"target_id": 571,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 477,
+				"target_id": 576,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 477,
+				"target_id": 583,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 567,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 571,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 576,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 567,
+				"target_id": 571,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 567,
+				"target_id": 576,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 576,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 571,
+				"target_id": 583,
+				"strength": 3.0000
+			}
+		]
+	}
+}

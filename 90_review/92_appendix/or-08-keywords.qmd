@@ -1,0 +1,14 @@
+<!-- Online Resource 8 (`or-keywords`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+
+::: {#or-keywords}
+```{python}
+#| echo: false
+# 30_screening/33_reports/keyword_statistics.txt
+print(key)
+```
+
+Keyword frequency statistics derived from titles, abstracts, and author
+keywords of the screened records.
+:::
+
+------------------------------------------------------------------------

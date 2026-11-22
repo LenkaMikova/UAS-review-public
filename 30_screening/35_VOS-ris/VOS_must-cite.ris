@@ -1,0 +1,986 @@
+TY  - JOUR
+AU  - Shokati, H; Mashal, M; Noroozi, A; Mirzaei, S; Mohammadi-Doqozloo, Z; Nabiollahi, K; Taghizadeh-Mehrjardi, R; Khosravani, P; Adhikari, R; Hu, L; Scholten, T
+TI  - Comparing UAV-Based Hyperspectral and Satellite-Based Multispectral Data for Soil Moisture Estimation Using Machine Learning
+T2  - WATER
+LA  - English
+KW  - machine learning; precision agriculture; soil moisture; spectroscopy; UAV; VEGETATION WATER-CONTENT; SURFACE; RETRIEVAL; PATTERNS; MODEL; INDEX
+AB  - Accurate estimation of soil moisture content (SMC) is crucial for effective water management, enabling improved monitoring of water stress and a deeper understanding of hydrological processes. While satellite remote sensing provides broad coverage, its spatial resolution often limits its ability to capture small-scale variations in SMC, especially in landscapes with diverse land-cover types. Unmanned aerial vehicles (UAVs) equipped with hyperspectral sensors offer a promising solution to overcome this limitation. This study compares the effectiveness of Sentinel-2, Landsat-8/9 multispectral data and UAV hyperspectral data (from 339.6 nm to 1028.8 nm with spectral bands) in estimating SMC in a research farm consisting of bare soil, cropland and grassland. A DJI Matrice 100 UAV equipped with a hyperspectral spectrometer collected data on 14 field campaigns, synchronized with satellite overflights. Five machine-learning algorithms including extreme learning machines (ELMs), Gaussian process regression (GPR), partial least squares regression (PLSR), support vector regression (SVR) and artificial neural network (ANN) were used to estimate SMC, focusing on the influence of land cover on the accuracy of SMC estimation. The findings indicated that GPR outperformed the other models when using Landsat-8/9 and hyperspectral photography data, demonstrating a tight correlation with the observed SMC (R2 = 0.64 and 0.89, respectively). For Sentinel-2 data, ELM showed the highest correlation, with an R2 value of 0.46. In addition, a comparative analysis showed that the UAV hyperspectral data outperformed both satellite sources due to better spatial and spectral resolution. In addition, the Landsat-8/9 data outperformed the Sentinel-2 data in terms of SMC estimation accuracy. For the different land-cover types, all types of remote-sensing data showed the highest accuracy for bare soil compared to cropland and grassland. This research highlights the potential of integrating UAV-based spectroscopy and machine-learning techniques as complementary tools to satellite platforms for precise SMC monitoring. The findings contribute to the further development of remote-sensing methods and improve the understanding of SMC dynamics in heterogeneous landscapes, with significant implications for precision agriculture. By enhancing the SMC estimation accuracy at high spatial resolution, this approach can optimize irrigation practices, improve cropping strategies and contribute to sustainable agricultural practices, ultimately enabling better decision-making for farmers and land managers. However, its broader applicability depends on factors such as scalability and performance under different conditions.
+AD  - Univ Tehran, Dept Water Engn, Tehran 3391653755, Iran; Univ Tubingen, Dept Geosci Soil Sci & Geomorphol, D-72076 Tubingen, Germany; Agr Res Educ & Extens Org AREEO, Soil Conservat & Watershed Management Res Inst, Tehran 1985713133, Iran; Italian Natl Res Council CNR, Inst Methodol Environm Anal IMAA, I-85050 Tito, Italy; Univ Tehran, Dept Agr Machinery Engn, Tehran 3158777871, Iran; Univ Kurdistan, Dept Soil Sci & Engn, Sanandaj 1517566177, Iran; Ardakan Univ, Fac Agr & Nat Resources, Ardakan 9549189518, Iran; Tribhuvan Univ, Inst Forestry, Pokhara Campus, Pokhara 33700, Nepal; Univ Tubingen, Dept Geosci, Geoinformat Grp, D-72076 Tubingen, Germany; Univ Tubingen, Cluster Excellence Machine Learning New Perspect S, D-72076 Tubingen, Germany
+C3  - University of Tehran; Eberhard Karls University of Tubingen; Consiglio Nazionale delle Ricerche (CNR); Istituto di Metodologie per l'Analisi Ambientale (IMAA-CNR); University of Tehran; University of Kurdistan; Tribhuvan University; Institute of Forestry (IOF) - Nepal; Eberhard Karls University of Tubingen; Eberhard Karls University of Tubingen
+SN  - 2073-4441
+DA  - JUN 5
+PY  - 2025
+VL  - 17
+IS  - 11
+C7  - 1715
+DO  - 10.3390/w17111715
+AN  - WOS:001507531100001
+N1  - Times Cited in Web of Science Core Collection:  2
+UR  - https://www.scopus.com/pages/publications/105007820133?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Ye, N; Walker, JP; Gao, Y; PopStefanija, I; Hills, J
+TI  - Comparison Between Thermal-Optical and L-Band Passive Microwave Soil Moisture Remote Sensing at Farm Scales: Towards UAV-Based Near-Surface Soil Moisture Mapping
+T2  - IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
+LA  - English
+KW  - Soil moisture; Microwave theory and techniques; Microwave radiometry; L-band; Optical sensors; Remote sensing; Moisture; Airborne field experiments; microwave; optical; remote sensing; soil moisture; thermal; unmanned aerial vehicle (UAV); WATER CONTENT ESTIMATION; L-MEB MODEL; RETRIEVAL; SMOS; EVAPOTRANSPIRATION; REFLECTANCE; CALIBRATION; PARAMETERS; RADIOMETER; EMISSION
+AB  - The unmanned aerial vehicle (UAV) based remote sensing has drawn increased attention in precision agriculture. Lightweight optical and thermal sensors have been used widely on UAVs for a range of applications, and have been proposed by some as the best approach to map soil moisture at farm scales. However, passive microwave remote sensing has been widely acknowledged as the most accurate soil moisture mapping technology, and adopted by the soil moisture and ocean salinity and soil moisture active and passive satellite missions. Accordingly, it is postulated that this will also be the best technique for UAV-based near-surface soil moisture remote sensing, overcoming the spatial resolution limitation from low earth orbit altitude. Being so far limited by sensor availability, only a small number of studies have illustrated the potential of UAV-based near-surface soil moisture mapping using L-band microwave radiometers, and there has been no direct comparison with the thermal-optical alternative. To guide the design of future UAV-based soil moisture mapping systems, airborne optical, thermal infrared, and passive microwave observations collected from a scientific aircraft at low altitude over a center-pivot irrigation farm in Tasmania, Australia were used in this study to simulate UAV-based observations, and the performances of the thermal-optical and microwave techniques when compared at 75 m scale. The L-band microwave emission showed a superior sensitivity to near-surface soil moisture, and a higher and more consistent soil moisture retrieval accuracy than thermal-optical, with a root-mean-squared error of 0.05-0.06 m(3)/m(3) and 0.05-0.09 m(3)/m(3), respectively.
+AD  - Monash Univ, Dept Civil Engn, Clayton, Vic 3800, Australia; ProSensing Inc, Amherst, MA 01002 USA; Univ Tasmania, Tasmanian Inst Agr, Cradle Coast Campus, Burnie, Tas 7320, Australia
+C3  - Monash University; University of Tasmania
+SN  - 1939-1404; 2151-1535
+PY  - 2024
+VL  - 17
+DO  - 10.1109/JSTARS.2023.3329015
+AN  - WOS:001123281300023
+N1  - Times Cited in Web of Science Core Collection:  21
+SP  - 633
+EP  - 642
+UR  - https://www.scopus.com/pages/publications/85178654654?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Guo, J; Bai, QY; Guo, WC; Bu, ZD; Zhang, WT
+TI  - Soil moisture content estimation in winter wheat planting area for multi-source sensing data using CNNR
+T2  - COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA  - English
+KW  - Soil moisture content; Ultra wideband radar; Multispectral; Convolutional neural network regression; RETRIEVAL; SAR
+AB  - Rapid and accurate estimation of soil moisture content (SMC) is an important part of precision agriculture, and it is also one of the key problems to be solved in field real-time monitoring and precision irrigation. Most of the existing studies are limited to SMC monitoring of bare soil, which can be obtained by optical remote sensing (e.g., multispectral, hyperspectral) or Synthetic Aperture Radar (SAR). However, for the soil covered by vegetation, such as farmland, there are some theoretical defects with only one of the measuring methods. Meanwhile, in order to break through the limitations of low spatial and temporal resolutions of satellite remote sensing, it is of great significance to study SMC retrieval based on multi-source remote sensing data for the near earth UAV remote sensing systems. Based on this, this paper, taking the winter wheat planting area in Guanzhong plain of China as the research area, combines the advantages of ultra-wideband (UWB) radar, and multispectral remote sensing data, to reduce the influences of vegetation coverage on the estimation accuracy. A one-dimensional regression convolution neural network model is constructed to realize the quantitative prediction and estimation of SMC in farmland. The carried out experiments show that the proposed CNNR model has a better performance than traditional SVR and GRNN models and the R-2, RMSE and RPD are 0.7453, 0.0140 cm(3)/cm(3) and 1.9246, respectively. After introducing NDVI, MSAVI and DVI vegetation indices generated from multispectral images, the accuracy of the three models increased significantly. Among the three models, the constructed CNNR model has the best performance, and its R-2, RMSE and RPD reach 0.9168, 0.0089 cm(3)/cm(3), and 3.0201. Furthermore, after adding different levels of Gaussian noise to the original radar echoes, the CNNR model constructed in this paper still has the highest prediction accuracy and the strongest noise robustness.
+AD  - Northwest A&F Univ, Coll Mech & Elect Engn, Yangling 712100, Shaanxi, Peoples R China; Shaanxi Key Lab Agr Informat Percept & Intelligen, Yangling 712100, Shaanxi, Peoples R China; Engn Univ PAP, Xian 710086, Peoples R China; Xidian Univ, Res Inst Adv Remote Sensing Technol, Xian 710071, Peoples R China
+C3  - Northwest A&F University - China; Engineering University of PAP; Xidian University
+SN  - 0168-1699; 1872-7107
+DA  - FEB
+PY  - 2022
+VL  - 193
+C7  - 106670
+DO  - 10.1016/j.compag.2021.106670
+AN  - WOS:000754290500002
+N1  - Times Cited in Web of Science Core Collection:  55
+UR  - https://www.scopus.com/pages/publications/85123050568?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Farhad, MM; Senyurek, V; Rafi, MAS; Baray, SB; McCraine, C; Hathcock, LA; Adeli, A; Huang, YB; Gurbuz, AC; Kurum, M
+TI  - Integrating UAS-Based GNSS-R, LiDAR, and Multispectral Data for Soil Moisture Estimation: Summary of Results From a Three-Year-Long Field Campaign
+T2  - IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
+LA  - English
+KW  - Global navigation satellite system; Receivers; Soil measurements; Receiving antennas; Surface roughness; Rough surfaces; Land surface; Satellites; Laser radar; Vegetation mapping; Global navigation satellite system reflectometry (GNSS-R); L-band; light detection and ranging (LiDAR); multispectral; precision agriculture (PA); reflectometry; soil moisture; uncrewed aircraft system (UAS); MODEL; REFLECTIVITY; PERFORMANCE; WATER
+AB  - Accurate and high-resolution soil moisture (SM) measurement is a critical component for site-specific precision agriculture (PA) management. Efficiently observing SM at high resolution on a subfield scale can enhance irrigation planning and management, leading to improved yields and product quality while also conserving environmental resources. However, obtaining such detailed SM measurements across large fields remains a significant challenge. Uncrewed aircraft systems (UASs) offer a promising solution in this regard. While microwave remote sensing via satellites has gained popularity for retrieving spatially distributed SM on regional and global scales, it falls short in delivering the high-resolution measurements needed for subfield applications. In response, this study has developed a UAS-based passive global navigation satellite system reflectometry (GNSS-R) technique to retrieve a high-resolution SM map at the subfield scale, designed for PA. This approach employs custom-made UASs equipped with a low-cost GNSS receiver and ancillary sensor systems. The experiment spans three years of data collection over 2.31 hectares of corn and cotton fields, incorporating GNSS-R, multispectral imaging, light detection and ranging, and in situ SM measurements. This article examines the impact of receiver antenna characteristics, surface factors, and GNSS constellations on GNSS-R measurements. It also identifies relevant features and normalization techniques that contribute to reliable SM estimation. The results highlight both the potential and the challenges of using UAS-based GNSS-R for accurate and reliable SM measurement in PA.
+AD  - Univ Georgia, Sch Elect & Comp Engn, Athens, GA 30602 USA; Mississippi State Univ, Mississippi State, MS 39672 USA; ARS, USDA, Genet & Sustainable Agr Res Unit, Mississippi State, MS 39762 USA; North Carolina State Univ, Dept Elect & Comp Engn, Raleigh, NC 27695 USA
+C3  - University System of Georgia; University of Georgia; Mississippi State University; Mississippi State University; United States Department of Agriculture (USDA); North Carolina State University
+SN  - 1939-1404; 2151-1535
+PY  - 2025
+VL  - 18
+DO  - 10.1109/JSTARS.2025.3580114
+AN  - WOS:001530270500025
+N1  - Times Cited in Web of Science Core Collection:  4
+SP  - 16896
+EP  - 16915
+UR  - https://www.scopus.com/pages/publications/105008656687?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Chu, CY; Ma, ZH; Li, ZM; Hu, YQ; Li, T; Zhao, JL; Li, JY; Li, XK; Wang, ZH; Wu, WY
+TI  - Enhancing multi-stage and multi-depth soil moisture estimation in winter wheat fields with UAV remote sensing fusion and ensemble learning strategy
+T2  - ECOLOGICAL INDICATORS
+LA  - English
+KW  - Winter wheat fields; UAV remote sensing; Soil moisture content; Data fusion; Ensemble learning; VEGETATION INDEXES; SURFACE MOISTURE; NITROGEN STATUS; AUTOMATED CROP; WATER-CONTENT; GRAIN-YIELD; IRRIGATION; MODEL; AREA
+AB  - Accurate estimation of soil moisture content (SMC) serves as a crucial foundation for smart irrigation implementation and precision agriculture management. However, traditional methods relying on single data sources or individual machine learning models often suffer from limited generalization ability and insufficient accuracy. To address these challenges, this study utilized Unmanned Aerial Vehicle (UAV) remote sensing to acquire multi-source data (RGB, Multispectral, and Thermal Infrared) across three critical growth stages of winter wheat. We systematically evaluated the perfor-mance of six machine learning algorithms and Stacking ensemble learning strategy for estimating SMC at different soil depths (0-60 cm). The results demonstrated that fusing multi-source data consistently enhanced SMC estimation accuracy compared to single-source data across all growth stages. Temporally, the milk-ripe stage exhibited the strongest correlation with SMC, making it the optimal phenological phase for surface moisture retrieval. During the key filling stage, the XGBoost model combined with fused data (MS + RGB + TIR) achieved the best performance for surface soil (0-20 cm) with an R2 of 0.73 and RRMSE of 0.06. In contrast, the GPR model exhibited poor performance in most cases. Although estimation accuracy decreased with soil depth, the fusion approach maintained acceptable results in deeper layers (0-40 cm and 0-60 cm). Furthermore, the Stacking ensemble strategy effectively overcame the limitations of single models, the performance of combinations of different base models and secondary models varied. Specifically, the ensemble model employing Support Vector Regression (SVR) as the secondary learner yielded the highest overall accuracy (R2 = 0.76, RRMSE = 0.06). These findings provide a theoretical basis and a robust technical reference for optimizing data fusion and model selection in the precision irrigation management of dryland winter wheat fields.
+AD  - Shihezi Univ, Coll Water Resources & Architectural Engn, Shihezi 832000, Xinjiang, Peoples R China; China Inst Water Resources & Hydropower Res, Dept Irrigat & Drainage, State Key Lab Water Cycle & Water Secur, Beijing, Peoples R China
+C3  - Shihezi University; China Institute of Water Resources & Hydropower Research
+SN  - 1470-160X; 1872-7034
+DA  - FEB
+PY  - 2026
+VL  - 183
+C7  - 114651
+DO  - 10.1016/j.ecolind.2026.114651
+AN  - WOS:001677701500003
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105028378226?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Du, RQ; Xiang, YZ; Zhang, FC; Chen, JY; Shi, HZ; Liu, H; Yang, XF; Yang, N; Yang, XZ; Wang, TY; Wu, YX
+TI  - Combing transfer learning with the OPtical TRApezoid Model (OPTRAM) to diagnosis small-scale field soil moisture from hyperspectral data
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Remote sensing; UAV; Soybean; Canola; Wheat; Irrigation management; CANOPY WATER-CONTENT; VEGETATION INDEXES; NITROGEN; SENTINEL-2; RETRIEVAL; WHEAT; LEAF; CHLOROPHYLL; ABSORPTION; STRESS
+AB  - Accurate, timely, and continuous soil moisture information is helpful for crop stress diagnosis and irrigation management decision. OPtical TRApezoid Model (OPTRAM) based on optical satellite data has been proven to be an effective method for assessing soil moisture status. However, the applicability of OPTRAM to small-scale field soil moisture assessment remains to be explored. In this study, we propose a strategy for the genetically parameterized OPTRAM and evaluate its applicability on Unmanned Aerial Vehicle (UAV) high-resolution hyspectral data. The results showed that: (1) When OPTRAM was used to genetically parameterized with PROSAIL generated dataset, 46 characteristic narrowband bands (|R|= 0.52-0.78) were determined in the spectral region of near infrared (NIR) (750-850 nm) and SWIR (1060-1080 and 1450-1500 nm); (2) By finetuned soil moisture estimation model using transfer learning strategy, the reliable soil moisture estimation was achieved in three crops (R-2=0.57-0.64; RMSE=0.008-0.022 m(3)m(- 3));(3) Compared to soil moisture estimation model using a single spectral region (NIR or SWIR), the DSWC model that combine NIR and SWIR was more effective for tracking soil moisture; (4) The scale effect was observed when the fine-tuned soil moisture estimation model was applied on the high-resolution UAV images. The model performance was stable in pixel size of 1-7 cm and began to drop at pixel size of 11 cm. The above results advance the application of OPTRAM on small farmland soil moisture assessment and demonstrate the application potential of OPTRAM on narrow-band hyperspectral data. This study provides a new candidate for the use of hyperspectral data to estimate soil moisture, and scientific support for precision agriculture and irrigation scheduling.
+AD  - Northwest A&F Univ, Coll Water Resources & Architectural Engn, Yangling 712100, Shanxi, Peoples R China; Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid & Semiarid Area, Minist Educ, Yangling 712100, Peoples R China
+C3  - Northwest A&F University - China; Northwest A&F University - China
+SN  - 0378-3774; 1873-2283
+DA  - JUN 1
+PY  - 2024
+VL  - 298
+C7  - 108856
+DO  - 10.1016/j.agwat.2024.108856
+AN  - WOS:001241549000001
+N1  - Times Cited in Web of Science Core Collection:  18
+UR  - https://www.scopus.com/pages/publications/85192234507?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Hussain, S; Arshad, M; Cheema, MJM; Qamar, MU; Wajid, SA; Daccache, A
+TI  - Advancing Soil Moisture Prediction Using Satellite and UAV-based Imagery Using Moisture Indices with Machine Learning Models
+T2  - EARTH SYSTEMS AND ENVIRONMENT
+LA  - English
+KW  - Surveillance; Hot spot; Random forest; NDWI; Water supply; Water stress; AGRICULTURE; SYSTEM
+AB  - Crop yields in Pakistan are significantly lower than their potential, primarily due to limited water availability and the reliance on rotation water delivery instead of demand-based water supply. The absence of spatially explicit information on water stress at the farm level further constrains overall crop productivity. Therefore, it is essential to map soil moisture availability and monitor moisture stress to enhance the efficiency of water delivery at the district level and promote precision in on-farm irrigation application. To continuously monitor soil moisture availability and identify moisture stress hotspots, peanut crops were cultivated during the 2021 and 2022 growing seasons at PMAS-Arid Agriculture University Research Center, Koont Farm, Rawalpindi. Experimental trials were conducted in both irrigated (drip irrigation) and rainfed fields to address soil moisture variability in the context of precision irrigation management. Soil moisture monitoring was performed using a combination of proximal soil moisture sensors, satellite data (Landsat 8/9 and Sentinel-2), and Unmanned Aerial Vehicles (UAVs) equipped with multispectral sensors. Satellite data and UAV imagery were processed to calculate soil moisture indices, including the Normalized Difference Water Index (NDWI), Moisture Vegetation Index (MVI), Water Stress Index (WSI), and Drought Stress Water Index (DSWI-4). Ground-truth data, including in situ soil moisture measurements at 15 cm depth and crop yield observations, were recorded for validation. A machine learning (ML) model, Random Forest (RF), was employed to accurately predict soil moisture content at 15 cm depth. The spatial maps were generated using satellite data and UAV-based imagery to identify the specific areas experiencing moisture stress. Among the moisture stress indices, WSI demonstrated a strong positive correlation with soil moisture (R-2 = 0.95 in 2022 and 0.85 in 2021) in the drip irrigated field. The RF model predicted soil moisture with a high accuracy (R-2 = 0.97 to 0.99 and RMSE = 0.00) using UAV-based moisture indices as input parameters. Furthermore, the improved surveillance of moisture stress enabled the identification of hotspot areas, allowing for the targeted implementation of protective measures for precision irrigation at the farm level.Graphical AbstractThis study presents a significant advancement in precision agriculture through the integration of satellite data, unmanned aerial vehicle (UAV)-based remote sensing, and machine learning (ML) models for high-resolution soil moisture estimation in water-scarce agricultural systems. Conventional soil moisture monitoring methods often fall short in spatial and temporal resolution, limiting their applicability for site-specific irrigation management. In this research, multispectral UAV imagery and moisture indices, including the Water Stress Index (WSI), Moisture Vegetation Index (MVI), Normalized Difference Water Index (NDWI), and Drought Stress Water Index (DSWI-4) were derived and correlated with ground-truth measurements, yielding highly promising results. These indices, extracted from remote sensing platforms of varying spatial resolutions (Landsat as low, Sentinel-2 as medium, and UAV as very high), were subsequently used as input variables in a Random Forest (RF) machine learning model for soil moisture prediction. The RF model significantly enhanced prediction accuracy by capturing nonlinear relationships between spectral indices and in situ soil moisture observations, achieving R-2 values as high as 0.
+AD  - Univ Agr Faisalabad, Dept Irrigat & Drainage, Faisalabad 38000, Pakistan; Int Water Management Inst, 12km Multan Rd,Chowk Thokar Niaz Baig Rd, Lahore 53700, Pakistan; PMAS Arid Agr Univ, Fac Agr Engn & Technol, Dept Land & Water Conservat Engn, Rawalpindi 46000, Pakistan; Univ Agr Faisalabad, Dept Agron, Faisalabad 38000, Pakistan; Univ Calif Davis, Dept Biol & Agr Engn, Davis, CA 95616 USA
+C3  - University of Agriculture Faisalabad; PCSIR Laboratories Complex; CGIAR; International Water Management Institute (IWMI); Arid Agriculture University; University of Agriculture Faisalabad; University of California System; University of California Davis
+SN  - 2509-9426; 2509-9434
+DA  - 2025 AUG 18
+PY  - 2025
+DO  - 10.1007/s41748-025-00761-5
+AN  - WOS:001551761600001
+N1  - Times Cited in Web of Science Core Collection:  4
+UR  - https://www.scopus.com/pages/publications/105013540892?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - He, JY; Zhao, LS; Li, WF; Wang, ZM; Liu, YL; Liu, QY; Pan, SJ; Yan, FX; Niu, ZJ; Zhang, DY; Roussos, PA
+TI  - Soil Moisture Estimation in Kiwifruit Root Zones Using ATT-LSTM Based on UAV and Meteorological Data
+T2  - HORTICULTURAE
+LA  - English
+KW  - attention mechanism; long short-term memory (LSTM); meteorological data; remote sensing inversion; soil moisture
+AB  - Accurate and real-time monitoring of root soil water content (RSWC) is key in optimizing field irrigation decisions and enhancing crop water productivity. However, relying only on the vegetation index as the input to the inversion model may result in lower inversion accuracy due to the canopy spectral saturation effect. To break through the limitation of a single data source, this study constructed an integrated network model (ATT-LSTM) incorporating the attention mechanism based on the long and short-term memory network (LSTM) to enhance the inversion performance by integrating heterogeneous data from multiple sources. The experiment used canopy spectral data based on UAV remote sensing and weather station monitoring data as input features. A control group was set up for cross-validation to realize the accurate inversion of RSWC in kiwifruit plants. The results show that the coefficient of determination (R2) of the ATT-LSTM model on the test set reaches 0.868. This study confirms that the multi-source data fusion framework effectively overcomes vegetation index saturation, improves rhizosphere moisture monitoring accuracy, supports precision irrigation decisions in kiwifruit orchards, and provides a reference for smart agriculture water management optimization.
+AD  - Northwest A&F Univ, Coll Mech & Elect Engn, Yangling 712100, Peoples R China; Natl Ctr Pratacultural Technol Innovat Under Prepa, Hohhot 010000, Peoples R China; Agr Univ Athens, Lab Pomol, Athens 11855, Greece
+C3  - Northwest A&F University - China; Agricultural University of Athens
+SN  - 2311-7524
+DA  - FEB 28
+PY  - 2026
+VL  - 12
+IS  - 3
+C7  - 291
+DO  - 10.3390/horticulturae12030291
+AN  - WOS:001725555600001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105033992433?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Yin, LB; Yan, SC; Li, M; Liu, WZ; Zhang, S; Xie, XY; Wang, XX; Wang, WT; Chang, SH; Hou, FJ
+TI  - Enhancing soil moisture estimation in alfalfa root-zone using UAV-based multimodal remote sensing and deep learning
+T2  - EUROPEAN JOURNAL OF AGRONOMY
+LA  - English
+KW  - UAV; Soil moisture content; Data fusion; Deep learning; Alfalfa; WATER-STRESS INDEX; NEURAL-NETWORKS; IRRIGATION; VEGETATION; WHEAT; RETRIEVAL; PARAMETER; BIOMASS; FUSION; IMAGES
+AB  - Accurate estimation of soil moisture content (SMC) is essential for optimizing irrigation schedules and identifying drought-tolerant varieties. The integration of unmanned aerial vehicles (UAVs) with advanced sensors provides a novel method for monitoring SMC with high flexibility, resolution, and performance. This study utilized UAVs to capture RGB, multispectral, and thermal imagery of alfalfa ( Medicago sativa L.) at the Linze Grassland Agricultural Experiment Station, Lanzhou University, and to evaluate the potential of fusing multi- modal UAV data for SMC estimation in the root zone of densely and uniformly distributed leafy plants, using alfalfa as a case study, within a deep learning framework. Results showed that combining multimodal data- -encompassing canopy spectral, structural, thermal, and textural information-significantly improved SMC estimation accuracy. Among the four regression models evaluated-partial least squares (PLSR), support vector machine (SVM), random forest (RF), and deep neural network (DNN)-the DNN model achieved the highest accuracy in overall multimodal data fusion, with a coefficient of determination (R-2) of 0.72 and a root mean square error (RMSE) of 4.98%. It demonstrated good predictive performance for both full and deficit irrigation scenarios, with R-2 values of 0.74 and 0.75, respectively. The DNN model also provided reliable SMC estimates across the three alfalfa canopy types, with R-2 values of 0.72, 0.74, and 0.58, respectively. Moreover, it exhibited superior accuracy under both irrigation regimes and demonstrated strong spatial adaptability, characterized by low spatial dependence and autocorrelation. In conclusion, the DNN model based on UAV-derived multimodal data fusion offers a reliable and robust approach for SMC estimation, providing valuable insights for irrigation management at farmland-scale.
+AD  - Lanzhou Univ, Coll Pastoral Agr Sci & Technol, State Key Lab Herbage Improvement & Grassland Agro, Key Lab Grassland Livestock Ind Innovat,Minist Agr, Lanzhou 730020, Peoples R China
+C3  - Lanzhou University
+SN  - 1161-0301; 1873-7331
+DA  - NOV
+PY  - 2024
+VL  - 161
+C7  - 127366
+DO  - 10.1016/j.eja.2024.127366
+AN  - WOS:001322158900001
+N1  - Times Cited in Web of Science Core Collection:  22
+UR  - https://www.scopus.com/pages/publications/85204501284?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Y; Han, WT; Zhang, HH; Niu, XT; Shao, GM
+TI  - Evaluating soil moisture content under maize coverage using UAV multimodal data by machine learning algorithms
+T2  - JOURNAL OF HYDROLOGY
+LA  - English
+KW  - Unmanned aerial vehicle (UAV); Soil moisture content (SMC); Machine learning; Maize; Growth stages; Deficit irrigation; WATER-CONTENT ESTIMATION; DEFICIT IRRIGATION; VEGETATION INDEXES; SURFACE; YIELD; LEAF; REFLECTANCE; PREDICTION; PRECISION; FUSION
+AB  - Timely and accurate estimation of soil moisture content (SMC) is essential for precise irrigation management at the farm scale. Unmanned aerial vehicle (UAV) remote sensing with a high spatiotemporal resolution has become a promising method for SMC monitoring. Many existing SMC models have only been tested at a specific crop growth stage using a single type of sensor, and the effects of growth stage and irrigation variation on SMC estimation accuracy remain unclear. To address these limitations, this study used UAV-based multimodal data to quantify SMC in a maize field under various levels of irrigation over two years using three machine learning algorithms (MLA): partial least squares regression (PLSR), K nearest neighbor (KNN), and random forest regression (RFR). The results demonstrated that multimodal data fusion improves the SMC estimation accuracy regardless of the MLA, especially the joint use of thermal and multispectral data. Among three SMC regression models, the RFR model produced the most accurate SMC estimation for the two growing seasons regardless of sensor combinations. The RFR model using all three types of data generated the most accurate and robust SMC estimation at the vegetative stage with R2 of 0.68 and 0.78, and rRMSE of 20.82% and 19.36% for 10- and 20-cm soil depths, respectively; it also produced the best SMC estimation accuracy under well-watered and mild to modest deficit irrigation treatments for both soil depths. The study shows that the high spatial-temporal maps of SMC using UAV-based multimodal data has promising potential for supporting decision-making in irrigation scheduling at the farmland scale.
+AD  - Chinese Acad Sci & Minist Educ, Res Ctr Soil & Water Conservat & Ecol Environm, Yangling 712100, Shaanxi, Peoples R China; Chinese Acad Sci & Minist Water Resources, Inst Soil & Water Conservat, Yangling 712100, Shaanxi, Peoples R China; Univ Chinese Acad Sci, Beijing 100049, Peoples R China; Minist Agr, Key Lab Agr Internet Things, Yangling 712100, Shaanxi, Peoples R China; Northwest A&F Univ, Inst Soil & Water Conservat, Yangling 712100, Shaanxi, Peoples R China; USDA ARS, Water Management & Syst Res Unit, 2150 Ctr Ave, Bldg D, Ft Collins, CO 80526 USA; Northwest A&F Univ, Coll Mech & Elect Engn, Yangling 712100, Shaanxi, Peoples R China
+C3  - Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; Ministry of Water Resources; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS; Northwest A&F University - China; Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; United States Department of Agriculture (USDA); Northwest A&F University - China
+SN  - 0022-1694; 1879-2707
+DA  - FEB
+PY  - 2023
+VL  - 617
+C7  - 129086
+DO  - 10.1016/j.jhydrol.2023.129086
+AN  - WOS:000921284700001
+N1  - Times Cited in Web of Science Core Collection:  79
+UR  - https://www.scopus.com/pages/publications/85146151357?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Keshavarz, R; Okudaira, T; Shariati, N
+TI  - Dynamic Soil Moisture Estimation Using BLE RSSI Signals: A Machine Learning-Based Framework for Real-Time Monitoring and Flood Detection
+T2  - IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA  - English
+KW  - Soil moisture; Sensors; Moisture; Floods; Real-time systems; Estimation; Remote sensing; Received signal strength indicator; Permittivity; Accuracy; Bluetooth low energy (BLE); dynamic moisture estimation; flood detection; machine learning (ML); precision agriculture; received signal strength indication (RSSI)-based sensing; soil moisture monitoring
+AB  - Accurate soil moisture monitoring is vital for precision agriculture, flood prediction, geoscience, and environmental management, but existing in-ground sensor systems (IGSS) are limited by high cost, complexity, power consumption, and scalability issues. This article presents a novel, low-cost, and nonintrusive hybrid solution that estimates real-time soil moisture and detects floods using Bluetooth low-energy (BLE) RSSI signals. The approach combines in situ sensing for deep soil layers with remote sensing for shallow layers, overcoming key limitations of traditional IGSS. In this approach, the BLE communication infrastructure serves a dual purpose: transmitting deep soil sensor data while simultaneously enabling soil moisture estimation through variations in the received signal strength indicator (RSSI), and implementing the concept of joint communication and sensing (JCAS). Without deploying additional sensors, both shallow soil moisture and surface water levels can be inferred from the RSSI fluctuations. A secondary BLE module (SBM) is strategically positioned at the boundary between the shallow and deep soil layers, transmitting data to a main BLE module (MBM) located above ground. Machine learning (ML) algorithms are applied for data fusion and signal interpretation, enabling dynamic soil moisture estimation and real-time flood detection. The MBM can be mounted on drones for large-scale farms or fixed on stands for greenhouses, offering a cost-effective, low-power, and scalable solution. This JCAS framework provides continuous, real-time monitoring, significantly improving the efficiency and accuracy of soil moisture estimation and flood prediction compared to traditional methods.
+AD  - Univ Technol Sydney UTS, RF & Commun Technol Res Lab RFCT, Ultimo, NSW 2007, Australia; NTT Commun Corp, Tokyo 1008019, Japan
+C3  - University of Technology Sydney
+SN  - 0196-2892; 1558-0644
+PY  - 2025
+VL  - 63
+C7  - 1001613
+DO  - 10.1109/TGRS.2025.3612100
+AN  - WOS:001594874000005
+N1  - Times Cited in Web of Science Core Collection:  2
+UR  - https://www.scopus.com/pages/publications/105016859424?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Chen, ZQ; Chen, H; Dai, Q; Wang, YK; Hu, XT
+TI  - Estimation of Soil Moisture during Different Growth Stages of Summer Maize under Various Water Conditions Using UAV Multispectral Data and Machine Learning
+T2  - AGRONOMY-BASEL
+LA  - English
+KW  - UAV; soil moisture content; machine learning; multispectral; summer maize; CHLOROPHYLL CONTENT; VEGETATION INDEXES; LEAF; MODEL; RETRIEVAL; LAI
+AB  - Accurate estimation of soil moisture content (SMC) is vital for effective farmland water management and informed irrigation decision-making. The utilization of unmanned aerial vehicle (UAV)-based remote sensing technology to monitor SMC offers advantages such as mobility, high timeliness, and high spatial resolution, thereby compensating for the limitations of in-situ observations and satellite remote sensing. However, previous research has primarily focused on SMC diagnostics for the entire crop growth period, often neglecting the development of targeted soil moisture modeling paradigms that account for the specific characteristics of the canopy and root zone at different growth stages. Furthermore, the variations in soil moisture status between fields, resulting from the hysteresis of water flow in irrigation channels at different levels, may influence the development of soil moisture modeling schemes, an area that has been seldom explored. In this study, SMC models based on UAV spectral information were constructed using Random Forest (RF) and Particle Swarm Optimization-Support Vector Machine (PSO-SVM) algorithms. The soil moisture modeling paradigms (i.e., input-output mapping) under different growth stages and soil moisture conditions of summer maize were systematically compared and discussed, along with the corresponding physical interpretability. Our results showed that (1) the SMC modeling schemes differ significantly across the various growth stages, with distinct input-output mappings recommended for the early (i.e., jointing, tasselling, and silking stages), middle (i.e., blister and milk stages), and late (i.e., maturing stage) periods. (2) these machine learning-based models performed best at the jointing stage, while subsequently, their accuracy generally exhibited a downward trend as the maize grew. (3) the RF model demonstrates superior robustness in estimating soil moisture status across different fields (moisture conditions), achieving optimal estimation accuracy in fields with overall higher SMC in line with the PSO-SVM model. (4) unlike the RF model's robustness in spatial SMC diagnostics, the PSO-SVM model more reliably captured the temporal dynamics of SMC across different growth stages of summer maize. This study offers technical references for future modelers in UAV-based SMC modeling across various spatial and temporal conditions, addressing both the types of models as well as their input features.
+AD  - Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid & Semiarid Area, Minist Educ, Xianyang 712100, Peoples R China
+C3  - Northwest A&F University - China
+SN  - 2073-4395
+DA  - SEP
+PY  - 2024
+VL  - 14
+IS  - 9
+C7  - 2008
+DO  - 10.3390/agronomy14092008
+AN  - WOS:001323503800001
+N1  - Times Cited in Web of Science Core Collection:  8
+UR  - https://www.scopus.com/pages/publications/85205034340?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - CPAPER
+AU  - Inocencio, LC; dos Reis, BS; Tognoli, FMW; Moreira, CA; Diniz, JL
+TI  - Soil Moisture Acquisition Through Multispectral Sensors Coupled to Unmanned Aerial Vehicle (UAV)
+T2  - 2025 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS)
+LA  - English
+KW  - Soil Moisture; Unmanned Aerial Vehicle; Spectrometry; Multispectral Sensor; Precision Agriculture
+AB  - This study aims to evaluate the use of remote sensing technologies in the determination of soil moisture content in an exposed soil area prepared for irrigated rice cultivation, as the knowledge of this soil property is crucial for control and productivity. These values are usually determined in a conventional way, which requires a large amount of time and allows only a few points of information in the area. With the technological advances in remote sensing, several studies are in development to determine these properties through satellite imagery, which allows mapping in large scale, but with a low spatial resolution. Therefore, the possibility of using sensors coupled in an unmanned aerial vehicle (UAV) presents a lower cost and adds a gain of time in the collection of samples. In order to generate a product representing the soil moisture from the reflectance data, aerial images were obtained using the Sequoia multispectral sensor from Parrot, which was developed for use in precision agriculture, and also were collected 85 soil samples which moisture was determined by the conventional method, serving as the basis for the study. From the samples collected in the same study area, a controlled experiment was reproduced in the laboratory using 16 samples with different moisture contents. Their spectral response was measured with a spectroradiometer to generate mathematical models that could be applied in the data collected by the Sequoia sensor and define the moisture from reflectance data. It was verified that the data from the Sequoia can be influenced by external factors, which may compromise its direct application in the models generated in the controlled experiment. In addition, there is the limitation of spectral bands of the Sequoia when compared to the spectroradiometer.
+AD  - UERJ Rio de Janeiro State Univ, Cartog Engn Dept, Rio De Janeiro, Brazil; Unisinos Univ, Survey Engn Undergrad Prog, Sao Leopoldo, Brazil; UFRJ Rio de Janeiro Fed Univ, Dept Geol, Rio De Janeiro, Brazil; UNESP Sao Paulo State Univ, Grad Program Geosci & Environm, Rio Claro, Brazil; Univ Western Australia, Sch Earth Sci, Perth, WA, Australia
+C3  - Universidade do Estado do Rio de Janeiro; Universidade do Vale do Rio dos Sinos (Unisinos); Universidade Estadual Paulista; University of Western Australia
+SN  - 2153-6996; 979-8-3315-0811-1; 979-8-3315-0810-4
+PY  - 2025
+DO  - 10.1109/IGARSS55030.2025.11242585
+AN  - WOS:001704609200165
+N1  - Times Cited in Web of Science Core Collection:  0
+SP  - 3984
+EP  - 3987
+A1  - IEEE
+CP  - 2025 International Geoscience and Remote Sensing Symposium-IGARSS-Annual
+UR  - https://www.scopus.com/pages/publications/105033602446?origin=resultslist
+M3  - Conference paper
+ER  - 
+
+TY  - JOUR
+AU  - Guo, F; Li, N; Jin, H
+TI  - Research on soil moisture inversion in maize root zone of fenhe irrigation area based on UAV multispectral remote sensing
+T2  - GEOCARTO INTERNATIONAL
+LA  - English
+KW  - Unmanned aerial vehicle multispectral; machine learning algorithm; soil moisture; vegetation index; moisture gradient; DIFFERENCE VEGETATION INDEX; CHLOROPHYLL CONTENT; RATIO; WATER; REFLECTANCE; ALGORITHMS; GREENNESS; BIOMASS; MODIS
+AB  - Timely and accurate acquisition of root-zone soil moisture (SM) is critical for agricultural precision irrigation. This study combined UAV multispectral data with three machine learning algorithms (MLAs)-back-propagation neural network (BP), random forest (RF), and extreme random tree (ET)-to invert maize root-zone SM across different growth stages and water stresses. Results indicated that sensitive vegetation indices (VIs) at various growth stages were mainly related to NIR and R bands. For different growth stages, the optimal inversion depth for all three models was 0-45 cm, and the RF model performed best, especially during the grain filling-maturation stage (R & sup2; = 0.794, RMSE = 2.043%). Under different water stresses, the RF model achieved the optimal performance under the mild stress irrigation treatment, especially for T2 (the irrigation upper limit of 90%), with an R2 of 0.827 and an RMSE of 2.593%. UAV multispectral data combined with MLAs can accurately estimate maize root-zone SM, supporting scientific farmland irrigation.
+AD  - China Water Exchange, Beijing, Peoples R China; Taiyuan Univ Technol, Coll Water Conservancy Sci & Engn, Taiyuan, Peoples R China
+C3  - Taiyuan University of Technology
+SN  - 1010-6049; 1752-0762
+DA  - DEC 31
+PY  - 2026
+VL  - 41
+IS  - 1
+C7  - 2651610
+DO  - 10.1080/10106049.2026.2651610
+AN  - WOS:001731227000001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105034683180?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Liu, H; Chen, JY; Xiang, YZ; Geng, HS; Yang, XZ; Yang, N; Du, RQ; Wang, Y; Zhang, ZT; Shi, LS; Zhang, FC
+TI  - Improving UAV hyperspectral monitoring accuracy of summer maize soil moisture content with an ensemble learning model fusing crop physiological spectral responses
+T2  - EUROPEAN JOURNAL OF AGRONOMY
+LA  - English
+KW  - Soil moisture content (SMC); Hyperspectral remote sensing; Data fusion; Bayesian optimization (BO); Stacked ensemble learning model (SELM); WATER-CONTENT; PREDICTION; STRESS; REFLECTANCE; BIOMASS
+AB  - Soil moisture content (SMC) acquisition is vital for crop stress diagnosis and precision irrigation. However, UAV remote sensing-based SMC monitoring usually suffers from low accuracy and spatio-temporal applicability. To address these issues, this study integrated crop physiological spectral response features into an ensemble learning model. A two-year field experiment (2022-2023) was conducted. First, fractional-order differentiation (FOD) and continuous wavelet transform (CWT) were used to enhance the responsiveness of summer maize canopy spectra to SMC and leaf physiological parameters (LPPs), including leaf area index (LAI), leaf chlorophyll content (LCC) and leaf water content (LWC). Afterwards, variable importance in projection (VIP) was adopted to characterize the spectral response properties of each parameter. Finally, a stacked ensemble learning model (SELM) based on Bayesian optimization (BO) was used to construct a SMC monitoring model, and the feasibility of fusing LPP spectral response features for SMC monitoring was evaluated. The results indicated that: (1) Changes in SMC had significant effect on LCC and LAI of summer maize, which in T4 (with field water-holding capacity of 80 %-95 %) were 14.07% and 34.41 % higher than that in T1 (40 %-50 %), respectively. (2) Spectral transformation could significantly enhance the correlation between SMC and LPPs with canopy spectra (the average increase of R reached 0.23). (3) Consideration of the crop physiology spectral response could improve the SMC monitoring accuracy, the LCC-FOD-BO-SELM had excellent monitoring performance (R2= 0.78; RMSE = 0.019). The monitoring model fusing LPPs spectral response features had the highest accuracy (R2= 0.81; RMSE = 0.016). (4) BO could significantly reduce the overfitting problem of the monitoring model, with the maximum difference between the R2 of the training and test set after BO being only 0.01), thus improving the model's generalizability. This new approach to SMC monitoring using UAV hyperspectral data provide scientific support for precision agriculture and irrigation.
+AD  - Northwest A&F Univ, Key Lab Agr Soil & Water Engn Arid Semiarid Areas, Minist Educ, Yangling 712100, Peoples R China; Northwest A&F Univ, Coll Water Resources & Architectural Engn, Yangling 712100, Peoples R China; Wuhan Univ, State Key Lab Water Resources & Hydropower Engn Sc, Wuhan 430072, Hubei, Peoples R China
+C3  - Northwest A&F University - China; Northwest A&F University - China; Wuhan University
+SN  - 1161-0301; 1873-7331
+DA  - OCT
+PY  - 2024
+VL  - 160
+C7  - 127299
+DO  - 10.1016/j.eja.2024.127299
+AN  - WOS:001291770900001
+N1  - Times Cited in Web of Science Core Collection:  16
+UR  - https://www.scopus.com/pages/publications/85200552663?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Niu, SW; Nie, ZG; Li, G; Zhu, WY; Liu, JY
+TI  - Quantitative Analysis of the Relationship Between Maize Seedling Phenotypes and Soil Moisture Monitored by UAV RGB Imagery
+T2  - IEEE SENSORS JOURNAL
+LA  - English
+KW  - Droughts; Feature extraction; Soil moisture; Whales; Image edge detection; Autonomous aerial vehicles; Phenotypes; Water resources; Crops; Computational modeling; Deep learning; multi-scale fusion regression analysis; plant phenotype; soil moisture; uncrewed aerial vehicle (UAV)
+AB  - Traditional plant phenotyping methods are typically constrained by several key limitations: insufficient segmentation accuracy, high computational costs, lack of multi-scale analysis capabilities, and ineffective modeling of complex nonlinear relationships. This study utilizes RGB imagery captured by uncrewed aerial vehicles (UAVs), integrating plant phenotypic traits with soil moisture data, to quantitatively analyze the relationship between maize seedling phenotypes and soil moisture. Key morphological features of maize leaves-including connectivity, length, area, and shape characteristics-were transformed into matrix data using image segmentation, edge detection, and the whale optimization algorithm (WOA). A quantitative relationship model between maize seedling phenotypes and soil moisture was established via regression analysis. To enhance segmentation accuracy further, we introduced the large selective kernel network (LSKNet) module into YOLOv8, which optimizes leaf segmentation performance significantly under varying moisture stress conditions through multi-scale feature fusion and selective kernel convolution. The regression analysis results indicate high predictive accuracy under optimal moisture conditions (moisture content between 0.647 and 0.813), with an R-2 of 0.869 and an RMSE of 0.0256. However, under drought conditions (moisture content between 0.246 and 0.354), prediction accuracy declines, with R(2)decreasing to 0.851 and RMSE increasing to 0.0272. This study generates drought severity heatmaps using imagery from UAV, providing an efficient visualization tool for assessing maize plant health status. These heatmaps offer valuable references for early drought detection and precision irrigation decision-making, significantly advancing crop health management and the development of precision agriculture.
+AD  - Gansu Agr Univ, Coll Informat Sci & Technol, Lanzhou 730070, Peoples R China; Gansu Agr Univ, State Key Lab Aridland Crop Sci, Lanzhou 730070, Peoples R China; China Univ Petr East China, Sch Mech & Elect Engn, Qingdao 266580, Peoples R China; Shandong Inst Petr & Chem Technol, Shandong Prov Engn Res Ctr Green Mfg & Intelligent, Dongying 257061, Peoples R China
+C3  - Gansu Agricultural University; Gansu Agricultural University; China University of Petroleum; Shandong Institute of Petroleum & Chemical Technology
+SN  - 1530-437X; 1558-1748
+DA  - JUL 1
+PY  - 2025
+VL  - 25
+IS  - 13
+DO  - 10.1109/JSEN.2025.3569297
+AN  - WOS:001522959400007
+N1  - Times Cited in Web of Science Core Collection:  0
+SP  - 24387
+EP  - 24395
+UR  - https://www.scopus.com/pages/publications/105007322477?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Chakhar, A; Hernandez-Lopez, D; Ballesteros, R; Moreno, MA
+TI  - Improvement of the Soil Moisture Retrieval Procedure Based on the Integration of UAV Photogrammetry and Satellite Remote Sensing Information
+T2  - REMOTE SENSING
+LA  - English
+KW  - soil moisture; Sentinel 1; Sentinel 2; IEM; WCM; roughness parameters; photogrammetric acquisition; UAV; SURFACE-ROUGHNESS; C-BAND; RADAR BACKSCATTERING; BARE SOIL; SAR DATA; SCATTERING; MODEL; TILLAGE; PARAMETERIZATION; SENSITIVITY
+AB  - In countries characterized by arid and semi-arid climates, a precise determination of soil moisture conditions on the field scale is critically important, especially in the first crop growth stages, to schedule irrigation and to avoid wasting water. The objective of this study was to apply the operative methodology that allowed surface soil moisture (SSM) content in a semi-arid environment to be estimated. SSM retrieval was carried out by combining two scattering models (IEM and WCM), supplied by backscattering coefficients at the VV polarization obtained from the C-band Synthetic Aperture Radar (SAR), a vegetation descriptor NDVI obtained from the optical sensor, among other essential parameters. The inversion of these models was performed by Neural Networks (NN). The combined models were calibrated by the Sentinel 1 and Sentinel 2 data collected on bare soil, and in cereal, pea and onion crop fields. To retrieve SSM, these scattering models need accurate measurements of the roughness surface parameters, standard deviation of the surface height (hrms) and correlation length (L). This work used a photogrammetric acquisition system carried on Unmanned Aerial Vehicles (UAV) to reconstruct digital surface models (DSM), which allowed these soil roughness parameters to be acquired in a large portion of the studied fields. The obtained results showed that the applied improved methodology effectively estimated SSM on bare and cultivated soils in the principal early growth stages. The bare soil experimentation yielded an R-2 = 0.74 between the estimated and observed SSMs. For the cereal field, the relation between the estimated and measured SSMs yielded R-2 = 0.71. In the experimental pea fields, the relation between the estimated and measured SSMs revealed R-2 = 0.72 and 0.78, respectively, for peas 1 and peas 2. For the onion experimentation, the highest R-2 equaled 0.5 in the principal growth stage (leaf development), but the crop R-2 drastically decreased to 0.08 in the completed growth phase. The acquired results showed that the applied improved methodology proves to be an effective tool for estimating the SSM on bare and cultivated soils in the principal early growth stages.
+AD  - Univ Castilla La Mancha, Inst Reg Dev, Albacete 02071, Spain
+C3  - Universidad de Castilla-La Mancha
+SN  - 2072-4292
+DA  - DEC
+PY  - 2021
+VL  - 13
+IS  - 24
+C7  - 4968
+DO  - 10.3390/rs13244968
+AN  - WOS:000743168500001
+N1  - Times Cited in Web of Science Core Collection:  7
+UR  - https://www.scopus.com/pages/publications/85120980045?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Tauro, F; Maltese, A; Giannini, R; Harfouche, A
+TI  - Latent heat flux variability and response to drought stress of black poplar: A multi-platform multi-sensor remote and proximal sensing approach to relieve the data scarcity bottleneck
+T2  - REMOTE SENSING OF ENVIRONMENT
+LA  - English
+KW  - Evapotranspiration; Multi-platform; multi-resolution; Priestley-Taylor equation; satellite remote sensing; UAV remote sensing; FRACTIONAL VEGETATION COVER; SURFACE-ENERGY BALANCE; TRIANGLE METHOD; SOIL-MOISTURE; WATER-STRESS; EVAPOTRANSPIRATION ASSESSMENT; BARE SOIL; EVAPORATION; TEMPERATURE; RESILIENCE
+AB  - High-throughput mapping of latent heat flux (MET) is critical to efforts to optimize water resources management and to accelerate forest tree breeding for improved drought tolerance. Ideally, investigation of the energy response at the tree level may promote tailored irrigation strategies and, thus, maximize crop biomass productivity. However, data availability is limited and planning experimental campaigns in the field can be highly operationally complex. To this end, a multi-platform multi-sensor observational approach is herein developed to dissect the MET signature of a black poplar (Populus nigra) breeding population ("POP6") at the canopy level. POP6 comprised more than 4600 trees representing 503 replicated genotypes, whose parents were derived from contrasting environmental conditions. Trees were trialed in two adjacent plots where different irrigation treatments (moderate drought [mDr] and well-watered [WW]) were applied. Data collected from satellite and unmanned aerial vehicles (UAVs) remote sensing as well as from ground-based proximal sensors were integrated at consistent spatial aggregation and combined to compute the surface energy balance of the trees through a modified Priestley-Taylor method. Here, we demonstrated that MET response was significantly different between WW and mDr trees, whereby genotypes in mDr conditions exhibited larger standard deviations. Importantly, genotypes classified as drought tolerant based on the stress susceptibility index (SSI) presented MET values significantly higher than the rest of the population. This study confirmed that water limitation in mDr settings led to reduced soil moisture in the tree root zone and, thus, to lower MET. These results pave the way to breeding poplar and other bioenergy crops with this underexploited trait for higher MET. Most notably, the illustrated work demonstrates a multi-platform multi-sensor data fusion approach to tackle the global challenge of monitoring landscape-scale ecosystem processes at fine resolution.
+AD  - Univ Tuscia, Dept Innovat Biol Agrofood & Forest Syst, I-01100 Viterbo, Italy; Univ Palermo, Dept Engn, I-90128 Palermo, Italy; Univ Tuscia, Dept Econ Engn Soc & Business Org, I-01100 Viterbo, Italy
+C3  - Tuscia University; University of Palermo; Tuscia University
+SN  - 0034-4257; 1879-0704
+DA  - JAN
+PY  - 2022
+VL  - 268
+C7  - 112771
+DO  - 10.1016/j.rse.2021.112771
+AN  - WOS:000722575800003
+N1  - Times Cited in Web of Science Core Collection:  13
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, XM; Ram, B; Vullaganti, N; Aderholdt, W; Overby, P; Sun, X
+TI  - Soil moisture classification using hyperspectral imaging and deep learning models on ground robot vehicles
+T2  - SMART AGRICULTURAL TECHNOLOGY
+LA  - English
+KW  - Soil moisture; Unmanned ground vehicles; Hyperspectral imaging; Convolutional neural networks; Random forest; Partial least squares regression
+AB  - Soil moisture monitoring is increasingly critical in precision agriculture due to growing concerns over food security and sustainable water use. While technologies like UAVs, satellite remote sensing, IoT, and wireless sensor networks have advanced single-depth soil moisture assessment, a major gap remains in leveraging on-the-go sensing systems, particularly unmanned ground vehicles (UGVs) with hyperspectral cameras. UGV-based hyperspectral systems offer real-time, high-resolution, and cost-effective monitoring potential across multiple soil depths. Although machine learning and deep learning (DL) models have shown strong performance in predicting soil properties like soil organic matter using hyperspectral imagery, their application to soil moisture classification remains limited. This study addresses that gap by developing one-dimensional convolutional neural network (1D-CNN) to classify real-time soil moisture at 6-24 inches (15.2-61.0 cm) depth using UGV-acquired hyperspectral data. Ground truth was determined using gravimetric water content, and hyperspectral data were captured at 6, 12, 18, and 24 inches (15.2, 30.5, 45.7, and 61.0 cm). The best results were achieved using full spectral datasets enhanced with spectral augmentation methods, standard normal variation, and first/second derivative Savitzky-Golay filtering, along with balanced class weighting. The 1D-CNN models achieved testing accuracies up to 0.67 and AUC values of 0.85, outperforming models using only the top spectral bands selected by random forest and partial least squares regression. Green visible (500-565 nm) and near-infrared (750-1000 nm) regions were consistently critical for classification. This research demonstrates the potential of integrating hyperspectral imaging and DL for timely and accurate soil moisture classification, supporting precision irrigation and offering valuable tools for researchers and policymakers in agricultural water management.
+AD  - North Dakota State Univ, Dept Agr & Biosyst Engn, Fargo, ND 58108 USA; North Dakota State Univ, Sch Nat Resource Sci, Nat Resources Management, Fargo, ND 58108 USA; Grand Farm Innovat Campus, 3729 153rd Ave SE, Wheatland, ND 58079 USA; Lee Farms, Wolford, ND 58385 USA
+C3  - North Dakota State University Fargo; North Dakota State University Fargo
+SN  - 2772-3755
+DA  - DEC
+PY  - 2025
+VL  - 12
+C7  - 101413
+DO  - 10.1016/j.atech.2025.101413
+AN  - WOS:001584762100001
+N1  - Times Cited in Web of Science Core Collection:  2
+UR  - https://www.scopus.com/pages/publications/105015065278?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, JM; Ding, JL; Li, JT; Zhang, ZH; Wang, JJ; Ge, XY
+TI  - Daily estimation of Water-Salt-Carbon coordination in high-standard cotton fields using uav and PlanetScope satellite image fusion
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Soil salinity; Soil moisture; Soil organic carbon; Spatiotemporal data fusion; Machine learning; Spectral feature selection; SUCCESSIVE PROJECTIONS ALGORITHM; SOFT SHRINKAGE APPROACH; VARIABLE SELECTION; SOIL-SALINITY; SPECTRAL INDEX; VEGETATION; MODEL; POTENTIALS; RESOLUTION; LANDSAT
+AB  - In arid-region oasis agriculture, the interactions among water, salinity, and organic carbon crucially influence farmland quality and sustainability. However, conventional remote sensing inversion faces a trade-off between temporal and spatial resolution, limiting continuous monitoring of Water-Salt-Carbon (WSC) dynamics. To address this, a daily-scale inversion system for the Water-Salt-Carbon Coordination Index (WSC-CI) was developed using fused Unmanned Aerial Vehicle (UAV) multispectral and PlanetScope imagery in a high-standard cotton field in Wujiaqu City, Xinjiang. The Bootstrap Soft Shrinkage (BOSS) algorithm identified key spectral features of soil salinity (SS), soil water content (SWC), soil organic carbon (SOC), and WSC-CI at different growth stages. A Genetic Algorithm (GA)-optimized Random Forest (RF) model was then constructed for multistage inversion. The optimal spatiotemporal fusion algorithm was selected and combined with a spatiotemporal adaptive result fusion strategy to achieve daily-scale monitoring. Results showed that: (1) BOSS exhibited robust feature selection in high-dimensional spectral spaces, effectively identifying key indices and reducing redundancy, enhancing model generalization. (2) The GA-RF model achieved R2 values above 0.5 in all stages, confirming strong adaptability and stability in capturing nonlinear relationships. (3) The optimal fusion with adaptive integration improved spatiotemporal continuity and revealed spatial heterogeneity compared with raw data. (4) WSC-CI was low during the Pre-sowing stage, increased during Squaring, fluctuated during Flowering-bolling, and peaked at Boll-opening. This multi-source fusion and model integration framework enables dynamic, high-precision monitoring of water-salt transformation processes in cotton fields, providing a scientific basis for precision management, water-salt regulation, and optimized irrigation scheduling in high-standard farmland in arid areas, thereby supporting sustainable agricultural water resource management and improving water-use efficiency.
+AD  - Xinjiang Univ, Coll Geog & Remote Sensing Sci, Urumqi, Peoples R China; Xinjiang Inst Technol, Aksu, Peoples R China; Xinjiang Inst Technol, 1 Xuefu Rd, Aksu 843000, Xinjiang, Peoples R China
+C3  - Xinjiang University; Xinjiang Institute of Technology; Xinjiang Institute of Technology
+SN  - 0378-3774; 1873-2283
+DA  - APR 30
+PY  - 2026
+VL  - 327
+C7  - 110282
+DO  - 10.1016/j.agwat.2026.110282
+AN  - WOS:001725085900001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105032648349?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Rafi, MAS; Senyurek, V; Adeli, A; Yanbo, H; Ball, JE; Gurbuz, AC
+TI  - Investigation of machine learning based techniques for crop yield estimation of corn and cotton using multi-sensor data fusion
+T2  - JOURNAL OF AGRICULTURE AND FOOD RESEARCH
+LA  - English
+KW  - Yield estimation; Lidar; Multispectral; FNN; LSTM; UAS; ML; Precision agriculture; UAV-BASED RGB; VEGETATION; INDEXES
+AB  - Accurate crop yield estimation is crucial for decision-making and planning in modern agriculture with increasing challenges with food security. Yield predictions provide farmers with insights into expected production, facilitating optimized resource allocation, improved agricultural management strategies, and enhanced profitability. This study investigates the application of machine learning (ML) techniques, including Feedforward Neural Networks (FNN), Long Short-Term Memory (LSTM), and Random Forest (RF) models, for predicting crop yields using multi-sensory time-series data that has been collected on two fields over a four-year timeframe. The focus is on corn (Zea mays) and cotton (Gossypium hirsutum) yield, two of the top critical crops in Mississippi region. A multi-sensory dataset was collected using multispectral cameras and LiDAR sensors mounted on unmanned aircraft systems (UAS), along with soil moisture and temperature data from volumetric probes and environmental data from a nearby weather station. Over four years, more than 30 features were extracted weekly from five major categories, with 235 ground truth yield records from plots in the field. The study outlines the methodology for feature selection and examines its impact on yield prediction accuracy. Using percentile root mean square error (RRMSE) and mean absolute percentage error (MAPE) as performance metrics, the study found that the proposed LSTM model produced lower field-wise errors (9 - 21 % MAPE) compared to other models and validation, indicating superior performance in predicting yields across selected weeks. The proposed ML-based approach, validated through year-based and field-wise cross-validation methods, demonstrates the effectiveness of using UAS-collected multi-sensor data for accurate yield estimation in corn and cotton.
+AD  - Mississippi State Univ, James Worth Bagley Coll Engn, Dept Elect & Comp Engn, Mississippi State, MS 39762 USA; Mississippi State Univ, Geosyst Res Inst, Mississippi State, MS 39762 USA; USDA ARS, Genet & Sustainable Agr Res Unit, Mississippi State, MS 39762 USA; North Carolina State Univ, Dept Elect & Comp Engn, Raleigh, NC 27606 USA
+C3  - Mississippi State University; Mississippi State University; Mississippi State University; United States Department of Agriculture (USDA); North Carolina State University
+SN  - 2666-1543
+DA  - MAR
+PY  - 2026
+VL  - 26
+C7  - 102676
+DO  - 10.1016/j.jafr.2026.102676
+AN  - WOS:001680234000001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105028916068?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Gil, HAP; Marcillo, CMD; Alcivar, RAD; Zambrano, LFF; Suc, NEC; Castro, EJJ
+TI  - Remote sensing applied for the estimation of crop coefficient and detection of forest cover changes
+T2  - REVISTA DE LA FACULTAD DE AGRONOMIA DE LA UNIVERSIDAD DEL ZULIA
+LA  - English
+KW  - Spectral indices; Kc; Change detection; UAV; GEE
+AB  - With the objective of applying remote sensing techniques for crop coefficient estimation and detection of changes in forest cover, in order to generate information that contributes to the sustainable management of agricultural and forestry resources, a study was conducted based on the theoretical foundations of agriculture 4.0, through the implementation of advanced technologies and intelligent data integration to optimize the entire agricultural production cycle. The methodology adopted includes the capture and processing of multispectral images from satellite platforms and unmanned aerial vehicles (UAVs), in order to obtain geometric and spectral information on various crops. Calculations of spectral indices (NDVI, NDMI, NDWI, Kc) and analysis of forest stand losses were performed using advanced software tools in GIS environment and the Google Earth Engine platform. The drone images made it possible to calculate the NDWI to classify soil moisture in high, moderate and low levels. Satellite images facilitated the identification of relationships between crop evaporation coefficient (Kc) and climatic parameters, as well as the detection of areas with forest losses in the Carrizal river basin. The results suggest strategies for the development of precision agriculture activities, promoting the substitution of conventional practices for sustainable development mechanisms based on geospatial technologies. This study contributes to the literature by demonstrating the application of advanced geospatial technologies to optimize agricultural production and sustainability.
+AD  - Univ Tecn Manabi, Fac Ingn Agr, Grp Invest Geomat & Agr 4 0, Portoviejo, Provincia De Ma, Ecuador; Univ San Carlos, Estrategias Desarrollo Rural & Terr, Grp Invest Geomat & Agr 4 0, Coban, Alta Verapaz, Guatemala; Univ Tecn Manabi, Fac Ingn Agr, Ingn Ambiental, Grp Invest Funcionamiento Agroecosistemas Implicac, Portoviejo, Provincia De Ma, Ecuador
+C3  - Universidad Tecnica de Manabi; Universidad de San Carlos de Guatemala; Universidad Tecnica de Manabi
+SN  - 0378-7818; 2477-9407
+DA  - JAN-MAR
+PY  - 2025
+VL  - 42
+IS  - 1
+C7  - e254211
+DO  - 10.47280/RevFacAgron(LUZ).v42.n1.XI
+AN  - WOS:001422667400001
+N1  - Times Cited in Web of Science Core Collection:  1
+UR  - https://www.scopus.com/pages/publications/85217868470?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Basurto-Lozada, D; Hillier, A; Medina, D; Pulido, D; Karaman, S; Salas, J
+TI  - Dynamics of soil surface temperature with unmanned aerial systems
+T2  - PATTERN RECOGNITION LETTERS
+LA  - English
+KW  - Thermographic imaging; Unmanned aerial systems; Soil surface temperature; Remote sensing; EMISSIVITY; NDVI
+AB  - Thermographies are a source of rich information, valuable in precision agriculture tasks such as crop stress assessment, plant disease analysis, and soil moisture evaluation. Traditionally, practitioners obtain soil temperature from the ground or using satellites and other airborne methods, which are costly and offer limited spatial and temporal resolution. In this paper, we introduce a method to measure soil surface temperature dynamics with the use of an unmanned aerial system (UAS). In our approach, we fuse information from thermal and multispectral cameras with ambient variables to generate estimates for soil temperature using computational intelligence models. Using the images, we produce a spatial reconstruction using structure from motion (SfM). After the multimodal registration of the resulting geo-referenced orthomosaics, we characterize the dynamics of the soil surface temperature using the differences between consecutively captured temperature orthomosaics. In our results, we are capable of estimating soil surface temperature from a UAS flying at 30 m AGL with a RMSE of 3.24 degrees C +/- 0.3 and 1.77 degrees C +/- 0.2, at one standard deviation, for two test fields with average ground sampling distances below 6.0 cm/pixel, using a Random Forest regressor. (C) 2020 Elsevier B.V. All rights reserved.
+AD  - MIT, 77 Massachusetts Ave, Cambridge, MA 02139 USA; Inst Politecn Nacl, CICATA Queretaro, Cerro Blanco 141, Colinas Del Cimatario 76090, Queretaro, Mexico
+C3  - Massachusetts Institute of Technology (MIT); Instituto Politecnico Nacional - Mexico
+SN  - 0167-8655; 1872-7344
+DA  - OCT
+PY  - 2020
+VL  - 138
+DO  - 10.1016/j.patrec.2020.07.003
+AN  - WOS:000579804900010
+N1  - Times Cited in Web of Science Core Collection:  8
+SP  - 68
+EP  - 74
+UR  - https://www.scopus.com/pages/publications/85087646636?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Senyurek, V; Farhad, MM; Gurbuz, AC; Kurum, M; Adeli, A
+TI  - Fusion of Reflected GPS Signals With Multispectral Imagery to Estimate Soil Moisture at Subfield Scale From Small UAS Platforms
+T2  - IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
+LA  - English
+KW  - Cyclone global navigation satellite system (CYGNSS); global navigation satellite system reflectometry (GNSS-R); precision agriculture (PA); reflectometry; soil moisture (SM); unmanned aircraft system (UAS); GNSS; REFLECTOMETRY; SMARTPHONES; PERFORMANCE; RETRIEVAL; ALGORITHM; SMOS
+AB  - This study proposes a low-cost and "proof-of-concept" methodology to obtain high spatial resolution soil moisture (SM) via processing reflected global positioning system (GPS) and a multispectral camera data acquired by small unmanned aircraft system (UAS) platforms. An SM estimation model is developed using a random forest (RF) machine-learning (ML) algorithm by combining features obtained from reflected GPS signals (collected by smartphones and commercial off-the-shelf receivers) in conjunction with ancillary vegetation indices from the multispectral camera data. The proposed ML algorithm uses in situ SM measurements acquired via SM probes as labels. A preliminary field experiment was conducted on 210 by 110 m (2.31 ha) crop fields (corn and cotton) in 2020 (from January to November, including crop planting through senescence time period) at Mississippi State University (MSU)'s the heavily instrumented North Farm to acquire data needed for the ML model to train and test. Our results showed that both fields could be covered by GPS reflectometry measurements with about 13 min of flight time at a 15-m altitude, and SM can be mapped with 5 x 5 m spatial resolution (corresponding to the elongated first Fresnel zone). The model is trained with and validated against eight in situ SM station datasets via tenfold and leave-one-probe-out cross-validation techniques. Overall, root-mean-square errors (RMSE) of 0.013 m(3) m(-3) volumetric SM and R-value of 0.95 [-] are obtained for tenfold cross validation. The proposed model reached an RMSE of 0.033 m(3) m(-3) and an R-value of 0.5 [-] in leave-one-probe-out cross validation. While having limited data, the results indicate that high-resolution SM measurement can he achieved with a low-cost CPS reflectometry system onboard a small UAS platform for use in precision agriculture applications.
+AD  - Mississippi State Univ, Geosyst Res Inst, Mississippi State, MS 39759 USA; Mississippi State Univ, Dept Elect & Comp Engn, Informat Proc & Sensing Lab, Starkville, MS 39672 USA; Genet & Sustainable Agr Res Unit, Starkville, MS 39762 USA
+C3  - Mississippi State University; Mississippi State University
+SN  - 1939-1404; 2151-1535
+PY  - 2022
+VL  - 15
+DO  - 10.1109/JSTARS.2022.3197794
+AN  - WOS:000848245900002
+N1  - Times Cited in Web of Science Core Collection:  19
+SP  - 6843
+EP  - 6855
+UR  - https://www.scopus.com/pages/publications/85136120245?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Doepper, V; Rocha, AD; Berger, K; Graenzig, T; Verrelst, J; Kleinschmit, B; Foerster, M
+TI  - Estimating soil moisture content under grassland with hyperspectral data using radiative transfer modelling and machine learning
+T2  - INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+LA  - English
+KW  - PROSAIL; Gaussian Processes; Unmanned Aerial Systems; Anthropogenic Influence; Time Lag; Leaf Area Index; LAI; Irrigation; Grazing; Mowing; OPTICAL TRAPEZOID MODEL; BIOPHYSICAL PARAMETERS; WATER-CONTENT; SURFACE; SENTINEL-2; RETRIEVAL; INVERSION; LEAF; REFLECTANCE; CHLOROPHYLL
+AB  - The monitoring of soil moisture content (SMC) at very high spatial resolution (< 10 m) using unmanned aerial systems (UAS) is of high interest for precision agriculture and the validation of large scale SMC products. Data -driven approaches are the most common method to retrieve SMC with UAS-borne data at water limited sites over non-disturbed agricultural crops. A major disadvantage of data-driven algorithms is the limited transferability in space and time and the need of a high number of ground reference samples. Physically-based approaches are less dependent on the amount of samples and are transferable in space and time. This study explores the potential of (1) a hybrid method targeting the soil brightness factor of the PROSAIL model using a variational heteroscedastic Gaussian Processes regression (VHGPR) algorithm, and (2) a data-driven method employing VHGPR for the retrieval of SMC over three grassland sites based on UAS-borne VIS-NIR (399-1001 nm) hyperspectral data. The sites were managed by mowing (Fendt), grazing (Grosses Bruch) and irrigation (Marquardt). With these distinct local pre-conditions we aimed to identify factors that favor and limit the retrieval of SMC. The hybrid approach presented encouraging results in Marquardt (RMSE = 1.5 Vol_%, R-2 = 0.2). At the permanent grassland sites (Fendt, Grosses Bruch) the thatch layer jeopardized the application of the hybrid model. We identified the complex canopy structure of grassland as the main factor impacting the hybrid SMC retrieval. The data-driven approach showed high accuracy for Fendt (R-2 = 0.84, RMSE = 8.66) and Marquardt (R-2 = 0.4, RMSE = 10.52). All data-driven models build on the LAI-SMC relationship. However, this relationship was hampered by mowing (Fendt), leading to a lack of transferability in time. The alteration of plant traits by grazing prevents finding a relationship with SMC in Grosses Bruch. In Marquardt, we identified the timelag between changes in SMC and plant response as the main reason of decrease in model accuracy. Yet, the model performance is accurate in undisturbed and water-limited areas (Marquardt). The analysis points to challenges that need to be tackled in future research and opens the discussion for the development of robust models to retrieve high resolution SMC from UAS-borne remote sensing observations.
+AD  - Tech Univ Berlin, Geoinformat Environm Planning Lab, Berlin, Germany; Ludwig Maximilians Univ Munchen LMU, Dept Geog, Munich, Germany; Univ Valencia, Image Proc Lab, Valencia, Spain; Tech Univ Berlin, Str 17 Juni 145,Off EB 5, D-10623 Berlin, Germany
+C3  - Technical University of Berlin; University of Munich; University of Valencia; Technical University of Berlin
+SN  - 1569-8432; 1872-826X
+DA  - JUN
+PY  - 2022
+VL  - 110
+C7  - 102817
+DO  - 10.1016/j.jag.2022.102817
+AN  - WOS:000806517900003
+N1  - Times Cited in Web of Science Core Collection:  42
+UR  - https://www.scopus.com/pages/publications/85140926210?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Yu, JDY; Wang, JF; Leblon, B; Song, Y
+TI  - Nitrogen Estimation for Wheat Using UAV-Based and Satellite Multispectral Imagery, Topographic Metrics, Leaf Area Index, Plant Height, Soil Moisture, and Machine Learning Methods
+T2  - NITROGEN
+LA  - English
+KW  - Unmanned Aerial Vehicle (UAV); PlanetScope imagery; precision agriculture; nitrogen management; machine learning; Random Forests; Support Vector Regression (SVR); wheat; VEGETATION INDEXES; SPECTRAL REFLECTANCE; REMOTE ESTIMATION; CORN; YIELD; PREDICTION; EFFICIENCY; INDICATOR; ACCURACY; BIOMASS
+AB  - To improve productivity, reduce production costs, and minimize the environmental impacts of agriculture, the advancement of nitrogen (N) fertilizer management methods is needed. The objective of this study is to compare the use of Unmanned Aerial Vehicle (UAV) multispectral imagery and PlanetScope satellite imagery, together with plant height, leaf area index (LAI), soil moisture, and field topographic metrics to predict the canopy nitrogen weight (g/m2) of wheat fields in southwestern Ontario, Canada. Random Forests (RF) and support vector regression (SVR) models, applied to either UAV imagery or satellite imagery, were evaluated for canopy nitrogen weight prediction. The top-performing UAV imagery-based validation model used SVR with seven selected variables (plant height, LAI, four VIs, and the NIR band) with an R2 of 0.80 and an RMSE of 2.62 g/m2. The best satellite imagery-based validation model was RF, which used 17 variables including plant height, LAI, the four PlanetScope bands, and 11 VIs, resulting in an R2 of 0.92 and an RMSE of 1.75 g/m2. The model information can be used to improve field nitrogen predictions for the effective management of N fertilizer.
+AD  - Univ Western Ontario, Dept Geog & Environm, London, ON N6G 3K7, Canada; Univ Western Ontario, Inst Earth & Space Explorat, London, ON N6A 3K7, Canada; Univ New Brunswick, Fac Forestry & Environm Management, Fredericton, NB E3B 5A3, Canada
+C3  - Western University (University of Western Ontario); Western University (University of Western Ontario); University of New Brunswick
+SN  - 2504-3129
+DA  - MAR
+PY  - 2022
+VL  - 3
+IS  - 1
+DO  - 10.3390/nitrogen3010001
+AN  - WOS:001116724900001
+N1  - Times Cited in Web of Science Core Collection:  24
+SP  - 1
+EP  - 25
+UR  - https://www.scopus.com/pages/publications/85140473892?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Chandel, AK; Khot, LR; Molaei, B; Peters, RT; Stöckle, CO; Jacoby, PW
+TI  - High-Resolution Spatiotemporal Water Use Mapping of Surface and Direct-Root-Zone Drip-Irrigated Grapevines Using UAS-Based Thermal and Multispectral Remote Sensing
+T2  - REMOTE SENSING
+LA  - English
+KW  - grapevines; direct root zone irrigation; evapotranspiration; high-resolution aerial imagery; METRIC energy balance model; site-specific irrigation management; REGULATED DEFICIT IRRIGATION; ENERGY-BALANCE; CROP COEFFICIENTS; SOIL-MOISTURE; EVAPOTRANSPIRATION; VINEYARD; COMPONENTS; MODEL; PARAMETERIZATION; AGRICULTURE
+AB  - Site-specific irrigation management for perennial crops such as grape requires water use assessments at high spatiotemporal resolution. In this study, small unmanned-aerial-system (UAS)-based imaging was used with a modified mapping evapotranspiration at high resolution with internalized calibration (METRIC) energy balance model to map water use (UASM-ET approach) of a commercial, surface, and direct-root-zone (DRZ) drip-irrigated vineyard. Four irrigation treatments, 100%, 80%, 60%, and 40%, of commercial rate (CR) were also applied, with the CR estimated using soil moisture data and a non-stressed average crop coefficient of 0.5. Fourteen campaigns were conducted in the 2018 and 2019 seasons to collect multispectral (ground sampling distance (GSD): 7 cm/pixel) and thermal imaging (GSD: 13 cm/pixel) data. Six of those campaigns were near Landsat 7/8 satellite overpass of the field site. Weather inputs were obtained from a nearby WSU-AgWeatherNet station (1 km). First, UASM-ET estimates were compared to those derived from soil water balance (SWB) and conventional Landsat-METRIC (LM) approaches. Overall, UASM-ET (2.70 +/- 1.03 mm day(-1) [mean +/- std. dev.]) was higher than SWB-ET (1.80 +/- 0.98 mm day(-1)). However, both estimates had a significant linear correlation (r = 0.64-0.81, p < 0.01). For the days of satellite overpass, UASM-ET was statistically similar to LM-ET, with mean absolute normalized ET departures (ETd,MAN) of 4.30% and a mean r of 0.83 (p < 0.01). The study also extracted spatial canopy transpiration (UASM-T) maps by segmenting the soil background from the UASM-ET, which had strong correlation with the estimates derived by the standard basal crop coefficient approach (T-d,T-MAN = 14%, r = 0.95, p < 0.01). The UASM-T maps were then used to quantify water use differences in the DRZ-irrigated grapevines. Canopy transpiration (T) was statistically significant among the irrigation treatments and was highest for grapevines irrigated at 100% or 80% of the CR, followed by 60% and 40% of the CR (p < 0.01). Reference T fraction (TrF) curves established from the UASM-T maps showed a notable effect of irrigation treatment rates. The total water use of grapevines estimated using interpolated TrF curves was highest for treatments of 100% (425 and 320 mm for the 2018 and 2019 seasons, respectively), followed by 80% (420 and 317 mm), 60% (391 and 318 mm), and 40% (370 and 304 mm) of the CR. Such estimates were within 5% to 11% of the SWB-based water use calculations. The UASM-T-estimated water use was not the same as the actual amount of water applied in the two seasons, probably because DRZ-irrigated vines might have developed deeper or lateral roots to fulfill water requirements outside the irrigated soil volume. Overall, results highlight the usefulness of high-resolution imagery toward site-specific water use management of grapevines.
+AD  - Washington State Univ, Dept Biol Syst Engn, Pullman, WA 99164 USA; Washington State Univ, Dept Crop & Soil Sci, Pullman, WA 99164 USA
+C3  - Washington State University; Washington State University
+SN  - 2072-4292
+DA  - MAR
+PY  - 2021
+VL  - 13
+IS  - 5
+C7  - 954
+DO  - 10.3390/rs13050954
+AN  - WOS:000628512900001
+N1  - Times Cited in Web of Science Core Collection:  27
+ER  - 
+
+TY  - JOUR
+AU  - He, JQ; Jia, YL; Li, Y; Biswas, A; Feng, H; Yu, Q; Wu, SF; Yang, G; Siddique, KHM
+TI  - Regional-scale precision mapping of cotton suitability using UAV and satellite data in arid environments
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Arid environment; Regional-scale; Soil water content; Soil salt content; Suitability index; Cotton; WATER-USE EFFICIENCY; SPECTRAL REFLECTANCE; VEGETATION INDEXES; LEAF; IRRIGATION; SALINITY; MACHINE; STRESS; TUNDRA; MAIZE
+AB  - This study addresses the critical issues of water scarcity and soil salinization impacting cotton production in South Xinjiang, China. It introduces an innovative framework for assessing regional cotton crop suitability by integrating ground-measured soil water and salt data with UAV multispectral and Sentinel-2A satellite imagery from the 2022 cotton growing season. An optimized set of vegetation indices was identified through multicollinearity analysis and full subset selection. Six advanced machine learning methods, including Random Forest (RF), were used alongside the ratio mean method to effectively upscale soil water and salt content models from the field to the regional level. A newly developed cotton suitability index was created to categorize soil water and salt conditions, resulting in detailed suitability maps for 2022 and 2023. Key findings include: (1) Model Performance: The RF model outperformed others in predicting soil water and salt content, with R2 values ranging from 0.763 to 0.846 for soil moisture and 0.703-0.843 for soil salinity. It showed greater accuracy at 0-10 cm depth than 10-20 cm depth. (2) Imagery Correlation: A significant correlation was observed between UAV and Sentinel-2A imagery (R2 = 0.498-0.745). Reflectivity corrections in Sentinel-2A data notably improved RF model inversion accuracy (R2 gains of 0.114-0.384). (3) Suitability Analysis: The cotton suitability index maps for 2022 and 2023 indicated that most fields in Tumushuke (TMSK) were moderately suitable for cotton growth, although some areas were unsuitable. This highlights the need for additional irrigation and targeted soil water and salt management to meet cotton requirements and reduce salinity risks. Overall, this study enhances precision agriculture techniques for arid environments and provides valuable insights for managing soil salinity, supporting sustainable cotton production in challenging climates.
+AD  - Northwest A&F Univ, Coll Water Resources & Architectural Engn, Key Lab Agr Soil & Water Engn Arid & Semiarid Area, Minist Educ, Yangling 712100, Shaanxi, Peoples R China; Xinjiang Acad Agr Sci, Inst Soil Fertilizer & Agr Water Saving, Urumqi 830091, Peoples R China; Shihezi Univ, Coll Water Conservancy & Architectural Engn, Shihezi 832003, Xinjiang, Peoples R China; Univ Guelph, Sch Environm Sci, Guelph, ON N1G 2W1, Canada; Northwest A&F Univ, Inst Soil & Water Conservat, Key Lab Soil Eros & Dryland Farming Loess Plateau, Yangling 712100, Shaanxi, Peoples R China; Univ Western Australia, UWA Inst Agr, Perth, WA 6001, Australia
+C3  - Northwest A&F University - China; Xinjiang Academy of Agricultural Sciences; Shihezi University; University of Guelph; Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; Northwest A&F University - China; University of Western Australia
+SN  - 0378-3774; 1873-2283
+DA  - FEB 1
+PY  - 2025
+VL  - 307
+C7  - 109215
+DO  - 10.1016/j.agwat.2024.109215
+AN  - WOS:001383569200001
+N1  - Times Cited in Web of Science Core Collection:  7
+UR  - https://www.scopus.com/pages/publications/85211337899?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - CPAPER
+AU  - Capolupo, A; Gioia, A; Agnusdei, GP; Miglietta, PP; Iannone, R; Tarantino, E
+TI  - Earth Observation Big Data for Soil Moisture Estimation Techniques in Precision Viticulture
+T2  - COMPUTATIONAL SCIENCE AND ITS APPLICATIONS-ICCSA 2025 WORKSHOPS, PT VI
+LA  - English
+KW  - Precision Viticulture; Geomatics Techniques; Geospatial Big Data; WATER STATUS; MANAGEMENT; UAV; AGRICULTURE; VARIABILITY; SENTINEL-1; ALGORITHMS; PRODUCTS; IMAGERY; INDEX
+AB  - Grapevine cultivation is one of the most relevant economic drivers of the Mediterranean basin, benefiting from favorable climate conditions, characterized by dry summers and wet winters. However, climate change poses new challenges that must be addressed and, thus, traditional farming expertise is no longer sufficient to ensure optimal wine productivity and quality. Among the key factors influencing grapevines, soil moisture plays a crucial role since it affects plant health, grape composition, and overall wine quality. Optimizing water management through advanced monitoring techniques is therefore essential for enhancing vineyard sustainability. The geomatic techniques, leveraging geospatial big data and information and communications technology, have emerged as powerful tools for monitoring vineyard health and optimizing wine productivity, quality, and sustainability. This paper presents the latest technological advancements in vineyard monitoring for soil moisture assessment, providing a comprehensive analysis of their strengths and weaknesses. The research methodology is structured into two key sections: the former focuses on monitoring technologies, while the latter describes the effectiveness and efficiency of these approaches, with particulat emphasis on machine learning applications and data fusion strategies to improve accuracy and decision-making in vineyard management. Up to now, most approaches have prioritized data acquisition and dissemination, leaving their full potential underexplored. This study outlines that integrating advanced earth observation techniques can lead to more data-driven, efficient, and sustainable viticulture.
+AD  - Politecn Bari, Dept Civil Environm Land Construct & Chem DICATEC, Via Orabona 4, I-70125 Bari, Italy; Pegaso Univ, Dept Dept Psychol & Hlth Sci, Ctr Direz Isola F2, I-80143 Naples, Italy; Univ Salento, Dept Biol & Environm Sci & Technol, Complesso Ecotekne Via Monteroni, I-73100 Lecce, Italy; Univ Salerno, Dept Ind Engn, Via Giovanni Paolo II 132, I-84084 Fisciano, SA, Italy
+C3  - Politecnico di Bari; Pegaso Online University; University of Salento; University of Salerno
+SN  - 0302-9743; 1611-3349; 978-3-031-97616-2; 978-3-031-97617-9
+PY  - 2026
+VL  - 15891
+DO  - 10.1007/978-3-031-97617-9_15
+AN  - WOS:001563959500015
+N1  - Times Cited in Web of Science Core Collection:  0
+SP  - 222
+EP  - 237
+CP  - 25th International Conference on Computational Science and Applications-ICCSA-Annual
+ED  - Gervasi, O; Murgante, B; Garau, C; Karaca, Y; Lago, MNF; Scorza, F; Braga, AC
+ER  - 
+
+TY  - CPAPER
+AU  - Choudhari, A; Bhoyar, D; Badole, WP
+TI  - Design of an IoT based Monitoring System Utilizing Deep Reinforcement Learning and Ensemble Learning for Precision Agriculture
+T2  - 2ND INTERNATIONAL CONFERENCE ON SUSTAINABLE COMPUTING AND SMART SYSTEMS, ICSCSS 2024
+LA  - English
+KW  - Precision Agriculture; Deep Reinforcement Learning; IoT; Ensemble Learning; Smart Farming; FRAMEWORK; INTERNET; THINGS
+AB  - This research work proposes a novel IoT-based framework for smart farming in precision agriculture, incorporating state-of-the-art technologies such as Deep Reinforcement Learning, IoT-enabled nano-sensors with edge computing, and ensemble learning with multimodal data fusion. Despite the advancements in smart farming, current systems face several challenges, including inefficient resource allocation, delayed real-time monitoring, inaccurate predictive analytics, and data integration issues. Recent techniques, such as traditional machine learning models and basic sensor networks, have attempted to address these challenges but fall short in adapting to dynamic agricultural environments and handling heterogeneous data sources effectively. The primary challenges include high latency in data processing, poor accuracy in resource prediction, inability to provide timely alerts, and difficulties in integrating diverse data types from various sensors and imaging technologies. To overcome these limitations, our strategy uses DRL to learn from the dynamic agricultural environment and optimize a resource allocation strategy. The inputs include sensor data on soil moisture, temperature, humidity, NPK levels, historical yield data, and weather forecasts. A DRL model starts with naive policies and uses a state-action paradigm to update policies using algorithms such as Deep Q-Networks and Proximal Policy Optimization. This has resulted in an increase in yield by 12%, the efficiency of resource allocation by 15%, and a reduction in waste by 10%. For real-time, high-resolution monitoring, we deploy IoT-enabled nano-sensors with edge computing capabilities. These sensors collect detailed soil and environmental data, processed locally to reduce latency and bandwidth usage, achieving a 20% reduction in data latency, 25% bandwidth savings, and 18% improvement in real-time alert accuracy. Multimodal data fusion with ensemble learning enhances the accuracy and robustness of the prediction. This approach fuses heterogeneous data, including sensor data, satellite and drone imagery, for which different machine learning models-like Random Forest, Gradient Boosting, and Neural Networks-are trained with different subsets of data, and their outputs are fused using various techniques like Voting and Stacking. This enhanced the accuracy of prediction by 9%, resource optimization efficiency by 14%, and reduced anomalies by 8%.
+AD  - Yeshwantrao Chavan Coll Engn, Elect Dept, Nagpur, Maharashtra, India; Yeshwantrao Chavan Coll Engn, Elect & Telecommun Dept, Nagpur, Maharashtra, India; Dr Punjabrao Deshmukh Krishi Vidyapeeth, Soil Sci & Agr Chem Sect, Nagpur, Maharashtra, India
+C3  - Yeshwantrao Chavan College of Engineering; Yeshwantrao Chavan College of Engineering
+SN  - 979-8-3503-9155-8; 979-8-3503-7999-0
+PY  - 2024
+DO  - 10.1109/ICSCSS60660.2024.10625266
+AN  - WOS:001327659000143
+N1  - Times Cited in Web of Science Core Collection:  2
+SP  - 845
+EP  - 852
+A1  - IEEE
+CP  - 2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+UR  - https://www.scopus.com/pages/publications/85203104705?origin=resultslist
+M3  - Conference paper
+ER  - 
+
+TY  - JOUR
+AU  - Niu, HY; Zhao, TB; Wang, D; Chen, YQ
+TI  - Estimating Evapotranspiration of Pomegranate Trees Using Stochastic Configuration Networks (SCN) and UAV Multispectral Imagery
+T2  - JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+LA  - English
+KW  - Evapotranspiration; Unmanned aerial vehicles; NDVI; SCNs; CROP COEFFICIENTS; REMOTE; EVAPORATION; INDEX; WHEAT
+AB  - Evapotranspiration (ET) estimation is important in precision agriculture water management, such as evaluating soil moisture, drought monitoring, and assessing crop water stress. As a traditional method, evapotranspiration estimation using crop coefficient (K-c) has been commonly used. Since there are strong similarities between the K-c curve and the vegetation index curve, the crop coefficient K-c is usually estimated as a function of the vegetation index. Researchers have developed linear regression models for the K-c and the normalized difference vegetation index (NDVI), usually derived from satellite imagery. However, the spatial resolution of the satellite image is often insufficient for crops with clumped canopy structures, such as vines and trees. Therefore, in this article, the authors used Unmanned Aerial Vehicles (UAVs) to collect high-resolution multispectral imagery in a pomegranate orchard located at the USDA-ARS, San Joaquin Valley Agricultural Sciences Center, Parlier, CA. The K-c values were measured from a weighing lysimeter and the NDVI values were derived from UAV imagery. Then, the authors established a relationship between the NDVI and K-c by using a linear regression model and a stochastic configuration networks (SCN) model, respectively. Based on the research results, the linear regression model has an R-2 of 0.975 and RMSE of 0.05. The SCN regression model has an R-2 and RMSE value of 0.995 and 0.046, respectively. Compared with the linear regression model, the SCN model improved performance in predicting K-c from NDVI. Then, actual evapotranspiration was estimated and compared with lysimeter data in an experimental pomegranate orchard. The UAV imagery provided a spatial and tree-by-tree view of ET distribution.
+AD  - Univ Calif Merced, 5200 Lake Rd, Merced, CA 95340 USA; USDA ARS, Water Management Res Unit, San Joaquin Valley Agr Sci Ctr, Parlier, CA 93648 USA
+C3  - University of California System; University of California Merced; United States Department of Agriculture (USDA)
+SN  - 0921-0296; 1573-0409
+DA  - APR
+PY  - 2022
+VL  - 104
+IS  - 4
+C7  - 66
+DO  - 10.1007/s10846-022-01588-2
+AN  - WOS:000776235700002
+N1  - Times Cited in Web of Science Core Collection:  5
+UR  - https://www.scopus.com/pages/publications/85127451397?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Garcia-Rodriguez, D; Samper-Zapater, JJ; Gutiérrez-Moret, J; Catret-Ruber, P; Martínez, B; Pérez-Hoyos, A; López-Baeza, E; Martínez-Durá, JJ
+TI  - Data Semantics for Earth Observation: A technical guide to ontology-based integration for environmental data monitoring
+T2  - IEEE GEOSCIENCE AND REMOTE SENSING MAGAZINE
+LA  - English
+KW  - MODIS; Earth Observing System; Payloads; Landsat; Sentinel-3; Sentinel-1; Sentinel-2; Military aircraft; Space technology; Feeds; WEB
+AB  - The integration of semantic technologies and geospatial information, especially when introducing information from Earth observation (EO) satellites, is significantly transforming methods for monitoring and diagnosing the environment and its most critical processes. This integration provides robust, cutting-edge analytical methods, thanks to the availability of more abundant and affordable data, which improves decision-making processes. This research proposes a technical tutorial guide for the application of an ontology system architecture built on semantic ontologies for remote sensing (RS) parameters, ground-based reference measurements, and observations acquired from uncrewed aerial vehicles (UAVs), enabling their joint use by scientists in the field. Although the work was originally developed using the Valencia Anchor Station (VAS) database, the system architecture ensures high adaptability and scalability, making it suitable for deployment across diverse station types and for application in other study areas. Through the application of linked open data (LOD) principles, the VAS ontology model integrates 1) EO-based data from Copernicus Sentinel-1, -2, and -3 satellites and other missions such as SMOS (Soil Moisture and Ocean Salinity), SMAP (Soil Moisture Active Passive), Landsat-8, -9, Terra and Aqua MODIS (Moderate Resolution Imaging Spectroradiometer), and so on; 2) observations from UAVs; 3) in situ data from sensors networks; and 4) auxiliary information from land cover classes, administrative units, and other features of interest to enhance environmental monitoring. The ontology is designed to represent the relationships between these elements, enabling systematic organization and retrieval of environmental data. The methodology is highly adaptable and can be extended to a wide range of applications, including validation of satellite RS products, precision agriculture, urban planning or disaster management. The potential of this approach to unify diverse data sources and streamline complex analytical processes is highly significant. Given the large number of ontologies capable of handling large volumes of data, the VAS ontology is presented as an illustrative example of their potential. Among the large number of parameters of all kinds involved, as an example application, this article refers specifically to the analysis of changes in the fraction of absorbed photosynthetically active radiation (FAPAR) and related vegetation characteristics at the VAS for the period 2018-2023. The proposed ontology has been tested in the Utiel-Requena region (Valencia, Spain), serving as a pilot area to validate the effectiveness and applicability of the architecture of the proposed approach. Fusion analytical data layers use a centralized data architecture, which supports real-time visualization and the capability of analyzing temporal trends and environmental variability. Validation tests assess the correctness and strength of the model, providing simple access to structured environmental data via an REST (Representational State Transfer) application programming interface (API) built using Spring Boot. The findings demonstrate the effectiveness of field, UAV, and satellite data fusion for multiscale analysis (spatial, temporal, and spectral), offering a potential and versatile tool for the integration of diverse data sources in a wide range of applications within the EO community.
+AD  - Univ Valencia, Dept Informat, Paterna 46980, Spain; Univ Valencia, Comp Sci Dept, Paterna 46980, Spain; Univ Valencia, Inst Robot & Informat & Commun Technol IRTIC, Paterna 46980, Spain; Univ Valencia, Dept Earth Phys & Thermodynam, Paterna 46980, Spain; Albavalor, Valencia, Spain; Univ Valencia, Environm Remote Sensing Grp, Burjassot 46100, Spain; Univ Valencia, Sch Engn, Dept Comp Sci, Paterna 46980, Spain
+C3  - University of Valencia; University of Valencia; University of Valencia; University of Valencia; University of Valencia; University of Valencia
+SN  - 2473-2397; 2168-6831
+DA  - 2026 APR 3
+PY  - 2026
+DO  - 10.1109/MGRS.2026.3667059
+AN  - WOS:001732737600001
+N1  - Times Cited in Web of Science Core Collection:  0
+UR  - https://www.scopus.com/pages/publications/105034846461?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - CPAPER
+AU  - Young, CJC; Williams, HJ; Ferro, CF; Wardour, EF; Pask, EN; Lee, SJ
+TI  - Advanced Crop Management and Health Assessment using Multispectral UAVs for Precision Agriculture
+T2  - AIAA AVIATION FORUM AND ASCEND 2025
+LA  - English
+KW  - Data Acquisition System; Data Processing; Drone; Machine Learning; Maximum Takeoff Weight; Multispectral Sensors; Normalized Difference Vegetation Index; Satellite Imagery; Structural Analysis; Thermal Imaging; Agricultural machinery; Crops; Data acquisition; Image processing; Information management; Learning systems; Precision agriculture; Quality control; Soil moisture; Soil quality; Soil surveys; Crop managements; Data acquisition system; Health assessments; Machine-learning; Management assessment; Maximum takeoff weights; Multispectral sensors; Normalized difference vegetation index; Sensor packages; Thermal-imaging; Data handling
+AB  - Agricultural analysis is crucial for the effective and efficient management of crops. However, the current crop monitoring processes are imprecise and slow. In this report, UAVs equipped with a full soil and crop sensor packages are used to analyze the crop health, soil quality, and moisture level of a field. The UAVs are able to collect precise data and decrease the amount of time required for the plots to be analyzed and field management plan developed. It was determined that the time required for data collection drastically decreased in comparison to typical analysis methods while also gathering more precise data and sampling more field area. Specifically, the use of UAVs with advanced sensor packages, when paired with a drone mapping tool with data processing capabilities, allows for high-resolution monitoring of soil moisture, nutrient levels, and crop health, enabling farmers to make datadriven decisions in real time.
+AD  - Alfred Univ, Inamori Sch Engn, Alfred, NY 14802 USA; Alfred Univ, Dept Mech Engn, Inamori Sch Engn, Alfred, NY 14802 USA
+C3  - State University of New York (SUNY) System; Alfred University; State University of New York (SUNY) System; Alfred University
+SN  - 978-1-62410-738-2
+PY  - 2025
+C7  - AIAA 2025-3271
+DO  - 10.2514/6.2025-3271
+AN  - WOS:001544686700269
+N1  - Times Cited in Web of Science Core Collection:  0
+A1  - AIAA
+CP  - 2025 AIAA AVIATION FORUM AND ASCEND
+UR  - https://www.scopus.com/pages/publications/105018110032?origin=resultslist
+M3  - Conference paper
+ER  - 
+
+TY  - JOUR
+AU  - Feng, ZH; Yang, ZQ; Suo, LA; Wu, K; Ma, ZY; Zhang, HY; Duan, JZ; Feng, W
+TI  - Enhancing maize above-ground biomass estimation through multispectral, digital and LiDAR fusion on UAV platforms
+T2  - AGRICULTURAL WATER MANAGEMENT
+LA  - English
+KW  - Maize above-ground biomass; Unmanned aerial vehicle; Vegetation index; Planting structure; Slope; CROP SURFACE MODELS; VEGETATION INDEXES; SOIL; IMAGES; SLOPE
+AB  - Accurate estimation of maize Above-Ground Biomass (AGB) is critical for precision field management and accelerated programs. Existing vegetation index (VI)-based maize AGB estimation methods using unmanned aerial platforms show limited generalizability due to insufficient integration of environmental and management factors. To address this limitation, plant density (PD) and spacing between two plants (STP) were extracted from digital imagery, while slope (SL) was calculated using LiDAR data. A plant structure factor (PS) was developed using PD and STP to quantify planting characteristics. The influence of SL on soil water dynamics, nutrient transport, and dry matter accumulation patterns was systematically analyzed. Finally, a machine learning (ML) model for maize AGB estimation with multimodal data fusion was constructed using Partial Least Squares (PLSR), Support Vector Machine (SVM), and Random Forest (RF). Results indicated that SL significantly affected soil moisture distribution and nutrient transport across all growth stages (V6, VT, R4). Areas with gentler slopes showed nutrient-moisture accumulation, resulting in strong negative correlations between slope and AGB (V6: -0.62; VT: -0.69; R4: -0.69, p < 0.001). PS exhibited a significant positive correlation with maize AGB in the three growth stages (V6: 0.58; VT: 0.59; R4: 0.63, p < 0.001). Among all validated models, RF achieved superior performance in both VI-based and multimodal (VI+PS, VI+SL, VI+PS+SL) configurations, outperforming SVM and PLSR. Incorporating either PS or SL as additional input features improved AGB estimation accuracy compared to VI-only models. No significant accuracy difference was observed between the best-performing VI+PS-RF and VI+SL-RF models, confirming the validity of both PS and SL as input features. Fusion of the three-modal data enabled the VI+PS+SL-RF model to achieve the highest estimation accuracies for V6, VT, and R4 stages, with validated R-2 values of 0.93, 0.90, and 0.92, and RMSE values of 84.37, 615.05 and 1326.82 kg/ha, respectively. Spatial validation across three regions revealed that model robustness is influenced by environmental uniformity; the model achieved higher accuracy in a stable environment (FQ: R-2= 0.85, RMSE=3687.54 kg/ha) than in a heterogeneous one (YZ: R-2= 0.56, RMSE= 4325.16 kg/ha). This study underscores the importance of multimodal data fusion in maize AGB estimation via remote sensing inversion. We pioneer the validation of a "phenotypic feedback (VI) + management (PS) + environment (SL)" triadic integration framework, addressing the critical gap in existing models that neglect ecological interactions between planting structure and terrain. The synergistic integration of PS and SL improved model robustness by 15.8 % (R-2) and 10.9 % (RMSE) compared to VI-only models, demonstrating their unique ecological value in regulating soil moisture distribution (SL: correlation up to -0.69) and optimizing light competition (PS: correlation up to 0.63). The results offer technical support and opportunities for enhanced field management and growth monitoring in smart agriculture.
+AD  - Henan Agr Univ, State Key Lab High Efficiency Prod Wheat Maize Dou, Agron Coll, Zhengzhou 450046, Henan, Peoples R China; Henan Agr Univ, CIMMYT China Wheat & Maize Joint Res Ctr, Natl Engn Res Ctr Wheat, Zhengzhou 450046, Henan, Peoples R China; Cailanzi Dev Ctr, Puyang 457000, Henan, Peoples R China
+C3  - Henan Agricultural University; Henan Agricultural University
+SN  - 0378-3774; 1873-2283
+DA  - JUN 30
+PY  - 2025
+VL  - 315
+C7  - 109551
+DO  - 10.1016/j.agwat.2025.109551
+AN  - WOS:001491761500002
+N1  - Times Cited in Web of Science Core Collection:  7
+UR  - https://www.scopus.com/pages/publications/105004698060?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Heistermann, M; Francke, T; Scheiffele, L; Petrova, KD; Budach, C; Schrön, M; Trost, B; Rasche, D; Güntner, A; Döpper, V; Förster, M; Köhli, M; Angermann, L; Antonoglou, N; Zude-Sasse, M; Oswald, SE
+TI  - Three years of soil moisture observations by a dense cosmic-ray neutron sensing cluster at an agricultural research site in north-east Germany
+T2  - EARTH SYSTEM SCIENCE DATA
+LA  - English
+KW  - WATER CONTENT; EVAPORATION METHOD; SENSOR; FEASIBILITY; CALIBRATION; NETWORK
+AB  - Cosmic-ray neutron sensing (CRNS) allows for the estimation of root-zone soil water content (SWC) at the scale of several hectares. In this paper, we present the data recorded by a dense CRNS network operated from 2019 to 2022 at an agricultural research site in Marquardt, Germany - the first multi-year CRNS cluster. Consisting, at its core, of eight permanently installed CRNS sensors, the cluster was supplemented by a wealth of complementary measurements: data from seven additional temporary CRNS sensors, partly co-located with the permanent ones; 27 SWC profiles (mostly permanent); two groundwater observation wells; meteorological records; and Global Navigation Satellite System reflectometry (GNSS-R). Complementary to these continuous measurements, numerous campaign-based activities provided data by mobile CRNS roving, hyperspectral im-agery via UASs, intensive manual sampling of soil properties (SWC, bulk density, organic matter, texture, soil hydraulic properties), and observations of biomass and snow (cover, depth, and density). The unique temporal coverage of 3 years entails a broad spectrum of hydro-meteorological conditions, including exceptional drought periods and extreme rainfall but also episodes of snow coverage, as well as a dedicated irrigation experiment. Apart from serving to advance CRNS-related retrieval methods, this data set is expected to be useful for vari-ous disciplines, for example, soil and groundwater hydrology, agriculture, or remote sensing. Hence, we show exemplary features of the data set in order to highlight the potential for such subsequent studies. The data are available at doi.org/10.23728/b2share.551095325d74431881185fba1eb09c95 (Heistermann et al., 2022b).
+AD  - Univ Potsdam, Inst Environm Sci & Geog, Karl Liebknecht Str 24-25, D-14476 Potsdam, Germany; UFZ Helmholtz Ctr Environm Res GmbH, Dep Monitoring & Explorat Technol, Permoserstr 15, D-04318 Leipzig, Germany; Leibniz Inst Agrartech & Biookon ATB, Max Eyth Allee 100, D-14469 Potsdam, Germany; GFZ German Res Ctr Geosci, Sect Hydrol, D-14473 Potsdam, Germany; Tech Univ Berlin, Geoinformat Environm Planning Lab, Str 17 Juni 135, D-10623 Berlin, Germany; Heidelberg Univ, Phys Inst, Neuenheimer Feld 226, D-69120 Heidelberg, Germany; Univ Bonn, Phys Inst, Nussallee 12, D-53115 Bonn, Germany; GFZ German Res Ctr Geosci, Sect Space Geodet Tech, D-14473 Potsdam, Germany; Univ Potsdam, Inst Geosci, Karl Liebknecht Str 24-25, D-14476 Potsdam, Germany; Alfred Wegener Inst AWI, Helmholtz Ctr Polar & Marine Res, Res Unit Potsdam, Telegrafenberg A43, D-14773 Potsdam, Germany
+C3  - University of Potsdam; Helmholtz Association; Helmholtz Center for Environmental Research (UFZ); Leibniz Association; Leibniz Institut fur Agrartechnik und Biookonomie (ATB); Helmholtz Association; GFZ Helmholtz Centre for Geosciences; Technical University of Berlin; Ruprecht Karls University Heidelberg; University of Bonn; Helmholtz Association; GFZ Helmholtz Centre for Geosciences; University of Potsdam; Helmholtz Association; Alfred Wegener Institute, Helmholtz Centre for Polar & Marine Research
+SN  - 1866-3508; 1866-3516
+DA  - JUL 27
+PY  - 2023
+VL  - 15
+IS  - 7
+DO  - 10.5194/essd-15-3243-2023
+AN  - WOS:001037776600001
+N1  - Times Cited in Web of Science Core Collection:  12
+SP  - 3243
+EP  - 3262
+UR  - https://www.scopus.com/pages/publications/85170840099?origin=resultslist
+M3  - Data paper
+ER  - 
+
+TY  - JOUR
+AU  - Chaparro, JE; Aedo, JE; Ruiz, FL
+TI  - Machine Learning for the estimation of foliar nitrogen content in pineapple crops using multispectral images and Internet of Things (IoT) platforms
+T2  - JOURNAL OF AGRICULTURE AND FOOD RESEARCH
+LA  - English
+KW  - Multispectral imaging; Unmanned aerial vehicle (UAV); Internet of Things IoT; Predictive models; Sensors in the crop; Image processing
+AB  - Nitrogen is the most important nutritional element during the vegetative growth phase of the pineapple crop; however, its presence in the soil is insufficient to meet plant demands. In this study, nine machine learning techniques were validated to estimate the total nitrogen (TN) content in MD2 pineapple crops from data from multiple sources. These sources included multispectral images captured by an unmanned aerial vehicle (UAV); in situ sensors, which collected information on ecological factors such as pH, temperature, solar radiation, relative humidity, soil moisture, wind speed and direction, as well as SPAD values indicating leaf chlorophyll content. Total nitrogen (TN) values were taken from leaf tissue samples, which were then analyzed in a laboratory. To introduce nitrogen variability, a complete randomized block experimental design was implemented, applying five different treatments in five blocks, each with 12 replications, during a 6-month period in a pineapple crop located in Tauramena, Colombia. To address the inherent variability in the agricultural and environmental data, dimensionality was reduced using Principal Component Analysis (PCA). In addition, regularization techniques were applied, including cross-validation, feature selection, boost methods, L1 (Lasso) and L2 (Ridge) regularization, as well as hyperparameter optimization. These strategies generated more robust and accurate models, with the multilayer perceptron regressor (MLP regressor) and extreme gradient boosting (XGBoost) algorithms standing out. On the first sampling date, XGBoost achieved an R2 of 86.98 %, being the highest. On the following dates, MLP achieved a R2 of 59.11 % on the second date; XGBoost achieved a R2 of 68.00 % on the third date, and on the last date, MLP achieved a R2 of 69.4 %. These results indicate that the integration of data from multiple sources and the use of machine learning models could greatly improve the precision of nitro-gen (N) diagnostics in pineapple crops, especially in real-time applications. These findings highlight the promising potential of developing machine learning models that integrate multisensor data fusion for various applications in agriculture.
+AD  - Univ Antioquia, Fac Engn, Res Grp Embedded Syst & Computat Intelligence, SISTEMIC, Medellin 050023, Antioquia, Colombia; Univ Autonoma Barcelona, Comp Vis Ctr, Comp Sci Dept, Edifici O,Campus UAB, Bellaterra 08193, Spain; NetworkTIC, Ctr Technol Dev & Innovat TIC, Yopal 850001, Casanare, Colombia; Unitropico, Int Univ Amer Trop, Yopal 850001, Casanare, Colombia
+C3  - Universidad de Antioquia; Autonomous University of Barcelona; Centre de Visio per Computador (CVC)
+SN  - 2666-1543
+DA  - DEC
+PY  - 2024
+VL  - 18
+C7  - 101208
+DO  - 10.1016/j.jafr.2024.101208
+AN  - WOS:001267841900001
+N1  - Times Cited in Web of Science Core Collection:  5
+UR  - https://www.scopus.com/pages/publications/85197562842?origin=resultslist
+M3  - Article
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Q.; Wang, M.; Cui, N.; Zheng, S.; Wu, Z.; Jiang, S.; Wang, Z.; Gong, D.; Zhao, L.; Xing, L.; Zhu, G.
+TI  - Cross-regional estimation of leaf chlorophyll and soil moisture content in drip-irrigated citrus orchards using UAV data and transfer learning
+T2  - Agricultural Water Management
+LA  - English
+KW  - Cross-regional; Deep learning; Precision drip irrigation; SHAP analysis; Site-specific management; Chlorophyll; Forestry; Learning systems; Long short-term memory; Moisture determination; Orchards; Soil surveys; Subirrigation; Transfer learning; Tuning; Unmanned aerial vehicles (UAV); Unsupervised learning; Citrus orchards; Cross-regional; Deep learning; Drip irrigation; Leaf chlorophyll content; Precision drip irrigation; SHAP analyze; Site specific management; Soil moisture content; Transfer learning; canopy architecture; chlorophyll; drip irrigation; estimation method; leaf; machine learning; moisture content; NDVI; orchard; precision agriculture; satellite data; soil moisture; soil water; unmanned vehicle; Soil moisture
+AB  - Optimizing precision drip irrigation hinges on the synergistic management of water and fertilizer, which requires simultaneous monitoring of soil moisture content (SMC) and plant nitrogen status. However, the spatial generalization of estimation models for these key parameters remains a major challenge due to environmental heterogeneity. This study developed a transfer learning framework to achieve cross-regional estimation of both leaf chlorophyll content (LCC) and SMC in drip-irrigated citrus orchards using UAV multispectral data. Three attention mechanism-based deep learning models (CNN-LSTM-Attention (CLA), CNN-LSTM-Attention-Adaboost (CLA-A), and CNN-LSTM-Attention-XGBoost (CLA-X)) were constructed and compared. To enhance cross-regional generalization, we evaluated unsupervised (DANN, TCA) and semi-supervised (Fine-tuning, Multi-task Learning) transfer learning strategies. When directly transferred to the target domain, the models trained on the source domain exhibited performance degradation for both LCC (R2 ranging from 0.158 to 0.308) and SMC (SMC10, SMC20, and SMC40), with R2 generally below 0.20 across all depths, underscoring the limitation of direct model transfer. Notably, Fine-tuning strategies significantly enhanced the estimation accuracy in the target domain. The Fine-tuned CLA-X model achieved the best performance, yielding high accuracy for LCC (R2=0.751) and clear improvements for SMC (SMC10, SMC20, and SMC40). In contrast, unsupervised strategies (DANN, TCA) showed limited improvement (ΔR2<0.10). SHAP interpretation revealed region-specific changes in dominant predictors: REVI, GNDVI, and NDYI governed LCC estimation in the source domain, whereas NOG became more influential after transfer, suggesting stronger effects of canopy structure and background reflectance. For SMC, CERR, NDVI, and RVI2 consistently contributed most across domains, highlighting the coupling between canopy architecture and soil water status. This research proposed a viable and efficient framework that can provide crucial decision-making basis for citrus water and fertilizer management, enabling precise irrigation and nitrogen application in drip irrigation systems. © 2026 The Authors.
+PY  - 2026
+VL  - 328
+C7  - 110317
+DO  - 10.1016/j.agwat.2026.110317
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105034314219?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Wang, J.; Yang, T.; Zhu, W.; Li, S.; Tang, Z.; Wan, W.; Sun, Z.
+TI  - A novel approach for Quasi-Global daily continuous surface soil moisture downscaling at 500-m resolution using CYGNSS observations
+T2  - International Journal of Applied Earth Observation and Geoinformation
+LA  - English
+KW  - Bayesian algorithm; Cyclone Global Navigation Satellite System (CYGNSS); OPtical TRApezoid Model (OPTRAM); Previously-Observed Behavior Interpolation (POBI) algorithm; Surface SoilMoisture (SSM) downscaling; agriculture; algorithm; cyclone; GNSS; satellite data; soil moisture; spatial resolution; surface reflectance
+AB  - Accurate Surface Soil Moisture (SSM) with high spatiotemporal resolution is essential for hydrological modeling and agricultural applications. The Cyclone Global Navigation Satellite System (CYGNSS) provides quasi-global SSM with relatively high temporal resolution, while its coarse spatial resolution limits regional usability. This study proposed a novel approach to generate daily continuous quasi-global SSM at 500-m resolution by integrating CYGNSS observations with optical imagery, without relying on in-situ SSM inputs. The method includes: (1) reconstruction of daily Surface Reflectivity (SR) using the Previously-Observed Behavior Interpolation (POBI) algorithm and retrieval of 9-km SSM via a modified Reflectivity-Vegetation-Roughness (R-V-R) model; (2) constructing a direct relationship between SSM and optical reflectance using the enhanced OPtical TRApezoid Model (OPTRAM) as the foundational basis for subsequent downscaling process; (3) downscale coarse-resolution CYGNSS SSM using the Bayesian algorithm without requiring any in-situ SSM observations as inputs. The framework is applied over August 2019–2022 and validated against in-situ SSM from 194 International Soil Moisture Network (ISMN) sites across diverse climate and land cover conditions. Results show improved spatial detail while maintaining accuracy, with a mean unbiased root-mean-square error (ubRMSE) of 0.061 cm3/cm3 and a positive GDOWN value of 0.017, indicating effective SSM downscaling. In addition, the proposed method outperforms both Linear and Random Forest models while maintaining robust performance. Overall, it offers a scalable solution for generating high-resolution, daily SSM products directly from satellite data. © 2026
+PY  - 2026
+VL  - 146
+C7  - 105137
+DO  - 10.1016/j.jag.2026.105137
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105028976095?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Shi, H.; Xiang, Y.; Tang, Z.; Du, R.; Sun, T.; Liu, X.; Huang, X.; Li, Z.; Zhang, F.
+TI  - Improving surface soil moisture content estimation of winter oilseed rape by integrating multimodal remote sensing information and structural characteristics
+T2  - Computers and Electronics in Agriculture
+LA  - English
+KW  - Information fusion; Multimodal; Soil moisture content; Structural characteristics; Winter oilseed rape; Backpropagation; Classification (of information); Forestry; Image enhancement; Image texture; Information fusion; Infrared devices; Infrared radiation; Neural networks; Oilseeds; Remote sensing; Sensor data fusion; Soil surveys; Textures; Uncertainty analysis; Vegetation; Growth stages; Multi-modal; Oil seed rape; Remote sensing information; Soil moisture content; Spectral information; Structural characteristics; Thermal-infrared; Vegetation index; Winter oilseed rape; canola; complementarity; crop plant; crop production; growth rate; NDVI; remote sensing; soil moisture; winter; Soil moisture
+AB  - Multimodal remote sensing information fusion, as a significant branch of modern remote sensing technology, offers the advantage of integrating spectral information from various sensors, thereby providing more comprehensive and precise data interpretation. This not only enhances data complementarity but also improves the accuracy and reliability of target detection and classification. This study employed multispectral and thermal infrared cameras mounted on drones to acquire remote sensing images and to measure soil moisture content (SMC) on the surface of winter oilseed rape canopies at various growth stages from 2022 to 2023. Structural characteristics (SC) were extracted from RGB images, and texture feature indices (TFIs) and thermal infrared indices (TIs) were constructed using texture features (TFs) and thermal infrared features (T), respectively. Additionally, a novel stacked vegetation index (SVIs) was created based on vegetation indices (VIs). By employing multimodal remote sensing information fusion techniques, these indices were categorized into different fusion combinations to develop predictive models for SMC at various growth stages of winter oilseed rape. The study found that the novel stacked vegetation index exhibited a strong correlation with SMC (correlation coefficient R > 0.8 during the budding stage). Compared to models without structural characteristics integration, the performance of multispectral, thermal infrared, and multimodal remote sensing models improved to varying degrees after incorporating structural characteristics. By integrating multimodal remote sensing information (multispectral indices including vegetation and texture indices, thermal infrared indices, and structural characteristics) with a Backpropagation Neural Network (BPNN), the predictive model for SMC at various growth stages of winter oilseed rape achieved optimal performance (seedling stage: R2 = 0.732, RMSE = 0.0117, RPD = 1.905; budding stage: R2 = 0.826, RMSE = 0.009, RPD = 2.777; flowering stage: R2 = 0.793, RMSE = 0.0102, RPD = 2.221). The results of this study enhance the scientific understanding and accurate modeling of the spectral information of winter oilseed rape canopies. They provide a theoretical foundation for the inversion of crop growth and SMC management through multimodal remote sensing information fusion techniques. This advancement supports applications in agriculture, forestry, and geological exploration by offering more precise data support in these fields. © 2025 Elsevier B.V.
+PY  - 2025
+VL  - 237
+C7  - 110779
+DO  - 10.1016/j.compag.2025.110779
+N1  - Export Date: 29 April 2026; Cited By: 2
+UR  - https://www.scopus.com/pages/publications/105011174899?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Hussain, S.; Arshad, M.; Cheema, M.J.M.; Qamar, M.U.; Wajid, S.A.; Daccache, A.
+TI  - Correction: Advancing Soil Moisture Prediction Using Satellite and UAV-based Imagery Using Moisture Indices with Machine Learning Models (Earth Systems and Environment, (2025), 10.1007/s41748-025-00761-5)
+T2  - Earth Systems and Environment
+LA  - English
+AB  - In this paper, author would like to make changes in the article title, replace revised Figure 2 and changes in the acknowledgement section as given below: Published title: Advancing Soil Moisture Prediction Using Satellite and UAV-based Imagery Using Moisture Indices with Machine Learning Models Revised title: Advancing Soil Moisture Prediction Using Satellite and UAV-based Imagery with Machine Learning Models Published Figure 2 (Figure presented.) Revised Figure 2 (Figure presented.) DJI Matrices 300 UAV (a), multispectral RedEdge-MX sensor (b), GCPs (c), and calibration panel (d) Published Acknowledgement: The authors gratefully acknowledge PSDP-funded project DDSDP staff and Center for Precision Agriculture (C4PA) staff at PMAS-Arid Agriculture University Rawalpindi (UAAR), for their continuous support throughout the execution of this research. Additionally, authors would also like to thank Dr. Muhammad Naveed Tahir, Dr. Shoaib Rashid Saleem, and Dr. Muhammad Amin for their valuable guidance and support during the project. Special thanks are also extended to Basit Shahzad and Zainab Haroon for their assistance in data collection. Revised Acknowledgement: The authors gratefully acknowledge PSDP-funded project DDSDP staff and Center for Precision Agriculture (C4PA) staff at PMAS-Arid Agriculture University Rawalpindi (UAAR), for their continuous support throughout the execution of this research. Additionally, authors would also like to thank Dr. Muhammad Naveed Tahir, Dr. Shoaib Rashid Saleem, and Dr. Muhammad Amin for their valuable guidance and support during the project. Special thanks are also extended to Basit Shahzad and Zainab Haroon for their assistance in data collection. Authors are also thankful to Dr. Fitsum T. Teshome, Dr. Haimanote K. Bayabil, and the staff of Water Resources Research Group at the University of Florida, USA, for the capacity building of Saddam Hussain. © King Abdulaziz University and Springer Nature Switzerland AG 2025.
+PY  - 2025
+DO  - 10.1007/s41748-025-00890-x
+N1  - Export Date: 29 April 2026; Cited By: 0
+UR  - https://www.scopus.com/pages/publications/105021626495?origin=resultslist
+M3  - Erratum
+DB  - Scopus
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Surendran, U.; Nagakumar, K.C.V.; Samuel, M.P.
+TI  - Remote Sensing in Precision Agriculture
+T2  - Digital Agriculture: A Solution for Sustainable Food and Nutritional Security
+LA  - English
+KW  - Agricultural productivity; Drones; GIS; Precision agriculture; Remote sensing; Resource efficiency; Satellite imagery; Sensors; Sustainability; Explosives detection; Fertilizers; Fumigation; Landsat; Weed control; Agricultural productivity; Arable land; Decisions makings; Geographic information; Ground based sensors; Precision Agriculture; Remote sensing applications; Remote-sensing; Resource efficiencies; Water scarcity; Insect control
+AB  - Agriculture plays a vital role in feeding the world’s growing population despite facing challenges such as dwindling arable land, water scarcity, changing climatic conditions, and the need for sustainable resource management. To address these challenges and to optimize agricultural productivity, the integration of remote sensing technologies has emerged as a transformative approach within the realm of precision agriculture. Remote sensing, encompassing satellite imagery, drones, and ground-based sensors, provides invaluable data and insights for informed decision-making, resource allocation, and yield optimization. This chapter explores the significance of remote sensing applications in modern agriculture. Satellite imagery, acquired at various spatial and temporal scales, allows farmers, agronomists, and researchers to monitor crop health, identify areas of stress, and assess the impact of environmental factors. Drones equipped with high-resolution cameras and multispectral sensors enable localized data collection, facilitating detailed field-level analysis. Ground-based sensors complement these technologies by providing real-time data on soil moisture, nutrient levels, and weather conditions. The integration of remote sensing data with geographic information systems (GIS) and data analyt-ics tools empowers stakeholders to make precise interventions, leading to reduced resource wastage and increased efficiency. Through the identification of variability within fields, growers can implement site-specific management strategies, tailoring irrigation, fertilization, and pest control practices to the unique needs of each area. This targeted approach not only maximizes crop yield but also minimizes the environmental impact of agricultural operations. Furthermore, remote sensing fosters early detection of disease outbreaks, pest infestations, and nutrient defi-ciencies. Timely interventions based on accurate and up-to-date information result in improved crop health and reduced reliance on chemical inputs. Additionally, remote sensing assists in monitoring land-use changes, assessing soil erosion, and promoting sustainable land management practices. To conclude, remote sensing applications are revolutionizing agriculture by enabling precise and data-driven decision-making. By harnessing the power of satellite imagery, drones, and ground-based sensors, the agricultural sector can achieve enhanced productivity, resource efficiency, and environmental sustainability. © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+PY  - 2024
+DO  - 10.1007/978-3-031-43548-5_7
+N1  - Export Date: 29 April 2026; Cited By: 27
+SP  - 201
+EP  - 223
+UR  - https://www.scopus.com/pages/publications/105004116273?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - BOOK_CHAPTER
+AU  - Zhuang, R.; Manfreda, S.; Zeng, Y.; Su, Z.; Dor, E.B.; Petropoulos, G.P.
+TI  - Soil moisture monitoring using unmanned aerial system
+T2  - Unmanned Aerial Systems for Monitoring Soil, Vegetation, and Riverine Environments
+LA  - English
+KW  - (apparent) thermal inertia; Kubelka–Munk model; random forest; simplified temperature–vegetation triangle; Soil moisture
+AB  - Quantification of high-resolution soil moisture (SM) is needed in numerous applications, yet its retrieval remains challenging even today. Unmanned aerial system (UAS)-based remote sensing provides a possibility of high spatial-resolution land surface data acquisition. This chapter aims at introducing SM data monitoring approaches using images from sensors mounted on UAS and provides practical guidelines for each method. Four representative approaches [i.e., apparent thermal inertia method, Kubelka–Munk (KM) method, simplified temperature–vegetation triangle method, and random forest (RF) model] that differ in the data from different spectral regions, requirements, and applicability are introduced. The thermal inertia model builds upon the dependence of the thermal diffusion on SM, which can be inferred from thermal infrared data. The KM model is a spectral model to retrieve the surface reflectance and then the SM using the available visible and near-infrared data. The simplified temperature–vegetation triangle model can be used to map surface SM and evapotranspiration based on the root–leave connection. In addition, we also introduce an SM downscaling method using the RF regression model. Overall, the thermal inertia method is recommended in bare soil or sparsely vegetated area, while the simplified temperature–vegetation triangle model is suitable for the vegetated area. The KM model is an ideal choice to generate higher resolution SM when high-quality spectral data are also available representing the power of the reflectance data. If multiple surveys are required, the RF model can be an alternative to estimate high-resolution surface SM with the help of coarse resolution satellites-based SM data and land surface features. © 2023 Elsevier Ltd. All rights reserved.
+PY  - 2023
+DO  - 10.1016/B978-0-323-85283-8.00003-5
+N1  - Export Date: 29 April 2026; Cited By: 6
+SP  - 179
+EP  - 200
+UR  - https://www.scopus.com/pages/publications/85159438302?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Soultane, O.B.; Salih-Alj, Y.; Et-Taibi, B.
+TI  - Smart Agriculture Optimization: Integrating Edge Computing and AI for Enhanced Crop Management
+T2  - Proceedings of the 2024 10th International Conference on Applied System Innovation, ICASI 2024
+LA  - English
+KW  - edge computing; Internet of Things; Machine learning; precision agriculture; sensor fusion; Agricultural robots; Drones; Edge computing; Environmental impact; Farms; Internet of things; pH; pH sensors; Precision agriculture; Recurrent neural networks; Sensor data fusion; Soil moisture; Temperature sensors; Agriculture systems; Crop managements; Crop yield; Edge computing; Machine-learning; Optimisations; Precision Agriculture; Resources consumption; Sensor fusion; Smart agricultures; Crops
+AB  - This paper introduces an innovative smart agriculture system aimed at enhancing farming efficiency, resulting in increased crop yields, reduced resource consumption, and minimized environmental impact. The proposed system integrates Recurrent Neural Networks (RNN) and edge computing within precision agriculture, leveraging the synergy of IoT drones and sensor fusion. By combining data from various sensors mounted on drones, including multispectral cameras and LiDAR, with ground based IoT devices such as pH sensors, soil moisture sensors, and temperature and humidity sensors, a comprehensive understanding of crop health, soil conditions, and environmental factors is achieved.  © 2024 IEEE.
+PY  - 2024
+DO  - 10.1109/ICASI60819.2024.10547894
+N1  - Export Date: 29 April 2026; Cited By: 4
+SP  - 270
+EP  - 272
+UR  - https://www.scopus.com/pages/publications/85197164415?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Bhatti, S.; Heeren, D.M.; Barker, J.B.; Neale, C.M.U.; Woldt, W.E.; Maguire, M.S.; Rudnick, D.R.
+TI  - Site-specific irrigation management in a sub-humid climate using a spatial evapotranspiration model with satellite and airborne imagery
+T2  - Agricultural Water Management
+LA  - English
+KW  - Evapotranspiration; Remote sensing; Soil water content; Spatial variability; Unmanned aircraft systems; Variable rate irrigation; Nebraska; United States; Glycine max; Zea mays; Climate models; Crops; Evapotranspiration; Irrigation; Remote sensing; Satellite imagery; Soil moisture; Soil surveys; Water distribution systems; Evapotranspiration modeling; Site specific irrigation; Soil water content; Soil water measurements; Spatial variability; Surface energy balance modeling; Unmanned aircraft system; Variable rate irrigations; airborne sensing; airborne survey; energy balance; evapotranspiration; irrigation system; Landsat; maize; model; rainfed agriculture; remote sensing; satellite imagery; soil water; soil-vegetation interaction; soybean; spatial variation; spectral analysis; water budget; water content; Unmanned aerial vehicles (UAV)
+AB  - Variable Rate Irrigation (VRI) considers spatial variability in soil and plant characteristics to optimize irrigation management in agricultural fields. The advent of unmanned aircraft systems (UAS) creates an opportunity to utilize high-resolution (spatial and temporal) imagery into irrigation management due to decreasing costs, ease of operation, and reduction of regulatory constraints. This research aimed to evaluate the use of UAS data for VRI, and to quantify the potential of VRI in terms of relative crop and water response. Irrigation treatments were: (1) VRI using Landsat imagery (VRI-L), (2) VRI using UAS imagery (VRI-U), (3) uniform (U), and (4) rainfed (R). An updated remote-sensing-based evapotranspiration and water balance model, incorporating soil water measurements, was used to make prescriptions for the VRI treatments at a field site in eastern Nebraska. In 2017, the mean prescribed seasonal irrigation depth (Ip) for VRI-L was significantly greater (α = 0.05) than the Ip for U for soybean. In 2018, Ip for soybean was greatest for VRI-U treatment followed by the U and VRI-L treatments, with all being significantly different from each other. No significant differences in Ip for maize were observed in 2017 or 2018. In all crop-year combinations, the VRI and U treatments had significantly greater evapotranspiration (ET) than the R treatment. Yield differences among treatments were not significant (except for rainfed maize compared to VRI-L in 2017). For maize in 2017, IWUE for VRI-L was comparable to the U treatment. The UAS imagery was a better match for the scale of crop management than Landsat imagery, particularly for thermal data. The multispectral UAS data was successfully used in the crop coefficient ET model for real-time irrigation, but using UAS to determine accurate canopy temperatures for surface energy balance modeling remains a challenge. © 2019 Elsevier B.V.
+PY  - 2020
+VL  - 230
+C7  - 105950
+DO  - 10.1016/j.agwat.2019.105950
+N1  - Export Date: 29 April 2026; Cited By: 41
+UR  - https://www.scopus.com/pages/publications/85076364111?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Zajc, M.; Koroša, A.; Urbanc, J.; Rupar, L.; Koçyigit, B.; Krivic, A.; Pecan, U.; Glavan, M.
+TI  - GPR and UAV remote sensing for detecting changes in soil moisture across a heterogeneous agricultural field
+T2  - 29th European Meeting of Environmental and Engineering Geophysics, Held at Near Surface Geoscience Conference and Exhibition 2023, NSG 2023
+LA  - English
+KW  - Crops; Geological surveys; Geophysical prospecting; Mapping; Remote sensing; Soil moisture; Soil surveys; Unmanned aerial vehicles (UAV); Agricultural fields; Crop growth; Field conditions; Multi-spectral; Satellite images; Soil conditions; Soil property; Thermal mapping; UAV remote sensing; Vegetation growth; Ground penetrating radar systems
+AB  - We compared past satellite images with new UAV thermal mapping results and GPR measurements, carried out on a heterogeneous agricultural field with areas of poor crop growth. Combining all three methods and comparing their results made it possible to determine, which methodology is most efficient for analysing soil properties in such settings. Results from applied methodologies correlate well with each other as well as with actual field conditions in areas of poor vegetation growth. Infrared and multispectral UAV mapping provide results with the highest contrast, making the differences in the field conditions most visible. Visual mapping of the bare soil gave the least information on the soil conditions, while GPR measurements confirmed the presence of higher amounts of water and/or clay due to GPR signal attenuation. In future research, additional analyses of soil samples, pedological profiles, data from lysimeters and dielectric probes as well as periodical UAV mapping for crop growth monitoring will be carried out. The obtained results will help determine the advantages and disadvantages of different remote sensing techniques and improve the field methodology needed for implementing precision agriculture in areas with changing soil conditions. © NSG 2023.All rights reserved.
+PY  - 2023
+DO  - 10.3997/2214-4609.202320145
+N1  - Export Date: 29 April 2026; Cited By: 1
+UR  - https://www.scopus.com/pages/publications/85182944558?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - CONF
+AU  - Montzka, C.; Brogi, C.; Mengen, D.; Matveeva, M.; Baum, S.; Schuttemeyer, D.; Bayat, B.; Bogena, H.; Coccia, A.; Masalias, G.; Graf, V.; Jakobi, J.; Jonard, F.; Ma, Y.; Mattia, F.; Palmisano, D.; Rascher, U.; Satalino, G.; Jagdhuber, T.; Fluhrer, A.; Schumacher, M.; Schmidt, M.; Vereecken, H.
+TI  - Sarsense: A C- and L-Band SAR Rehearsal Campaign in Germany in Preparation for ROSE-L
+T2  - International Geoscience and Remote Sensing Symposium (IGARSS)
+LA  - English
+KW  - Airborne Campaign; L-Band; ROSE-L; SAR; Agricultural robots; Agriculture; Food supply; Geology; Ice; Moisture control; Remote sensing; Soil moisture; Vegetation; Agricultural monitoring; In-situ measurement; Irrigation management; Natural materials; Radar observations; Soil moisture retrievals; Target application; Vegetation properties; Synthetic aperture radar
+AB  - In summer 2019 the SARSense campaign was held in Jülich, Germany, to provide insights into the potentials and specifications of the ESA Copernicus candidate mission ROSE-L (Radar Observation System for Europe). ROSE-L will consist of two satellites that carry a polarimetric L-band SAR. Since the L-band signal can penetrate through many natural materials such as vegetation, dry snow and ice, the mission will provide additional information that cannot be gathered by the Copernicus Sentinel-1 C-band SAR mission. The overall objective of the SARSense 2019 campaign is to analyze the mission design concerning its potential for agricultural monitoring services including target applications such as soil moisture monitoring, irrigation management, crop type discrimination, food security and precision farming. The SARSense in situ measurements of soil moisture, soil temperature, vegetation properties, UAS-based multispectral and thermal mapping, as well as the airborne SAR observations are presented as well as strategies for soil moisture retrieval and first analysis. © 2020 IEEE.
+PY  - 2020
+C7  - 9324090
+DO  - 10.1109/IGARSS39084.2020.9324090
+N1  - Export Date: 29 April 2026; Cited By: 3
+SP  - 2137
+EP  - 2140
+UR  - https://www.scopus.com/pages/publications/85101976613?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Wang, L.; Wang, X.; Hu, D.; Sha, S.
+TI  - Multi-scale remote sensing retrieval model for land surface emissivity and its impact on land surface temperature estimation
+T2  - International Journal of Remote Sensing
+LA  - English
+KW  - Emissivity; land surface temp; observational data; retrievals; Antennas; Atmospheric temperature; Electromagnetic wave emission; Land surface temperature; Mean square error; Pixels; Remote sensing; Soil moisture; Surface measurement; Unmanned aerial vehicles (UAV); Vegetation; Emissivity; Land surface; Land surface temp; Land surface temperature; Land surface temperature retrievals; Observational data; Retrieval; Retrieval models; Surface emissivity; Time-scales; diurnal variation; emissivity; environmental conditions; NDVI; remote sensing; surface temperature; Surface properties
+AB  - As a fundamental parameter of the surface radiation process, land surface emissivity (LSE) is the most direct factor affecting the land surface temperature (LST) retrieval accuracy. Based on the measured data from 2017 to 2023, the characteristics of LSE changes were analysed, different timescale LSE retrieval models were developed, and the impact of LSE on pixel scale observational LST acquisition was evaluated by using unmanned aerial vehicle (UAV) remote sensing images. The results show that with changes in atmospheric environmental conditions, the LSE changes are relatively less pronounced at 3.99 µm and 4.02 µm in the mid-infrared band and at 10.8 µm and 11.8 µm in the thermal infrared band than in the other bands. At the timescale above day, the LSE is significant correlation with the normalized differential vegetation index (NDVI). Vegetation is the main parameter that dominates the LSE change under heterogeneous underlying surfaces. On a daily timescale, LSE exhibits typical diurnal variation characteristics, and the amplitude of diurnal variation is influenced mainly by shallow soil water and heat conditions. The developed LSE model based on Fengyun-4A (FY-4A) satellite remote-sensing data can effectively reproduce the daily variation characteristics of LST and avoid the ‘jumping’ phenomenon that may occur in the NDVI threshold method. The root-mean-square error (RMSE) between the retrieved LST and in situ data is reduced to 3.78°C, and the retrieval accuracy is better than that of the published LST product. When using UAVs to obtain pixel-scale LSTs, dry bare soil is more sensitive to LSE. When the LSE increases from 0.95 to 1.0, the average LST obtained by the UAV deviates by approximately 1.0°C. This study preliminarily provides some spatiotemporal variation patterns of LSE and lays a foundation for the later-modified LST retrieval algorithms. © 2024 Informa UK Limited, trading as Taylor & Francis Group.
+PY  - 2024
+VL  - 45
+IS  - 7
+DO  - 10.1080/01431161.2024.2326046
+N1  - Export Date: 29 April 2026; Cited By: 2
+SP  - 2137
+EP  - 2158
+UR  - https://www.scopus.com/pages/publications/85188271322?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Zappa, L.; Forkel, M.; Xaver, A.; Dorigo, W.
+TI  - Deriving field scale soil moisture from satellite observations and ground measurements in a Hilly Agricultural Region
+T2  - Remote Sensing
+LA  - English
+KW  - Advanced scatterometer (ASCAT); Downscaling; Low-cost sensor; Random forest; Soil moisture; Soil moisture active passive (SMAP); Agriculture; Catchments; Cost effectiveness; Costs; Decision trees; Learning algorithms; Machine learning; Meteorological instruments; Satellites; Textures; Topography; Vegetation; Down-scaling; Low-cost sensors; Random forests; Scatterometers; Soil moisture active passive (SMAP); Soil moisture
+AB  - Agricultural and hydrological applications could greatly benefit from soil moisture (SM) information at sub-field resolution and (sub-) daily revisit time. However, current operational satellite missions provide soil moisture information at either lower spatial or temporal resolution. Here, we downscale coarse resolution (25-36 km) satellite SM products with quasi-daily resolution to the field scale (30 m) using the random forest (RF) machine learning algorithm. RF models are trained with remotely sensed SM and ancillary variables on soil texture, topography, and vegetation cover against SM measured in the field. The approach is developed and tested in an agricultural catchment equipped with a high-density network of low-cost SM sensors. Our results show a strong consistency between the downscaled and observed SM spatio-temporal patterns. We found that topography has higher predictive power for downscaling than soil texture, due to the hilly landscape of the study area. Furthermore, including a proxy of vegetation cover results in considerable improvements of the performance. Increasing the training set size leads to significant gain in the model skill and expanding the training set is likely to further enhance the accuracy. When only limited in-situ measurements are available as training data, increasing the number of sensor locations should be favored over expanding the duration of the measurements for improved downscaling performance. In this regard, we show the potential of low-cost sensors as a practical and cost-effective solution for gathering the necessary observations. Overall, our findings highlight the suitability of using ground measurements in conjunction with machine learning to derive high spatially resolved SM maps from coarse-scale satellite products. © 2019 by the authors.
+PY  - 2019
+VL  - 11
+IS  - 22
+C7  - 2596
+DO  - 10.3390/rs11222596
+N1  - Export Date: 29 April 2026; Cited By: 47
+UR  - https://www.scopus.com/pages/publications/85075369210?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+
+TY  - JOUR
+AU  - Chávez, J.L.; Torres-Rua, A.F.; Woldt, W.E.; Zhang, H.; Robertson, C.; Marek, G.W.; Wang, D.; Heeren, D.M.; Taghvaeian, S.; Neale, C.M.U.
+TI  - A decade of unmanned aerial systems in irrigated agriculture in the Western U.S.
+T2  - Applied Computational Electromagnetics Society Journal
+LA  - English
+KW  - Agricultural water management; Irrigation prescription mapping; Irrigation scheduling; Precision irrigation; Remote sensing; Sensors; Spatial crop evapotranspiration; Unmanned aerial systems; Agricultural robots; Antennas; Crops; Decision making; Image enhancement; Irrigation; Soil moisture; Unmanned aerial vehicles (UAV); Crop evapotranspiration; Federal Aviation Administration; Irrigation management; Large amounts of data; Radiometric resolution; Research and development; Technological innovation; Unmanned aerial systems; Research and development management
+AB  - Several research institutes, laboratories, academic programs, and service companies around the United States have been developing programs to utilize small unmanned aerial systems (sUAS) as an instrument to improve the efficiency of in-field water and agronomical management. This article describes a decade of efforts on research and development efforts focused on UAS technologies and methodologies developed for irrigation management, including the evolution of aircraft and sensors in contrast to data from satellites. Federal Aviation Administration (FAA) regulations for UAS operation in agriculture have been synthesized along with proposed modifications to enhance UAS contributions to irrigated agriculture. Although it is feasible to use sUAS technology to produce maps of actual crop coefficients, actual crop evapotranspiration, and soil water deficits, for irrigation management, the technology and regulations need to evolve further to facilitate a successful wide adoption and application. Improvements and standards are needed in terms of cameras’ spectral (bands) ranges, radiometric resolutions and associated calibrations, fuel/power technology for longer missions, better imagery processing software, and easier FAA approval of higher altitudes flight missions among other issues. Furthermore, the sUAS technology would play a larger role in irrigated agriculture when integrating multi-scale data (sUAS, ground-based or proximal, satellite) and soil water sensors is addressed, including the need for advances on processing large amounts of data from multiple and different sources, and integration into scientific irrigation scheduling (SIS) systems for convenience of decision making. Desirable technological innovations, and features of the next generation of UAS platforms, sensors, software, and methods for irrigated agriculture, are discussed. © 2020 American Society of Agricultural and Biological Engineers.
+PY  - 2020
+VL  - 36
+IS  - 4
+DO  - 10.13031/aea.13941
+N1  - Export Date: 29 April 2026; Cited By: 20
+SP  - 423
+EP  - 436
+UR  - https://www.scopus.com/pages/publications/85090433180?origin=resultslist
+M3  - Article
+DB  - Scopus
+ER  - 
+

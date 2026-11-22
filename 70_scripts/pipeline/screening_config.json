@@ -1,0 +1,65 @@
+{
+  "weights": {
+    "soil_moisture": 2,
+    "uav_direct": 3,
+    "scaling": 2,
+    "agriculture": 1
+  },
+  "thresholds": {
+    "include_min": 6,
+    "maybe_min": 3
+  },
+  "must_cite_strict": {
+    "score_min": 7,
+    "require_direct_uav": true,
+    "require_scaling": true
+  },
+  "must_cite_extended": {
+    "score_min": 6,
+    "branch_direct_and_scaling": true,
+    "branch_potential_and_scaling_or_passive": true
+  },
+  "terms": {
+    "soil_moisture": ["soil moisture"],
+    "obs_method": ["remote sensing"],
+    "uav": ["uav", "drone", "uas"],
+    "satellite": ["satellite"],
+    "sensors": ["modis", "landsat", "sentinel"],
+    "active": ["sar", "radar", "microwave"],
+    "passive": ["optical", "multispectral", "hyperspectral"],
+    "domain": ["cropland", "farmland", "arable", "bare soil", "agriculture"],
+    "methods": ["irrigation", "precision agriculture", "water management"],
+    "scaling": ["downscaling", "data fusion", "multi-scale"],
+    "high_res": ["high resolution", "fine resolution"],
+    "review": ["review", "systematic review", "meta-analysis"]
+  },
+  "outputs": {
+    "screened_xlsx": true,
+    "summary_txt": true,
+    "summary_xlsx": false,
+    "keyword_txt": true,
+    "ris_all": false,
+    "ris_include": false,
+    "ris_core": false,
+    "ris_must_cite": false,
+    "ris_extended_not_strict": false,
+    "vos_pair": false,
+    "reviews_xlsx_ris": true,
+    "reviews_uav_ris": false,
+    "csv": false,
+    "json": false
+  },
+  "output_formats": {
+    "screened_xlsx": ["xlsx"],
+    "summary": ["txt"],
+    "keyword_txt": ["txt"],
+    "ris_all": [],
+    "ris_include": [],
+    "ris_core": [],
+    "ris_must_cite": [],
+    "ris_extended_not_strict": [],
+    "vos_pair": [],
+    "reviews_xlsx_ris": ["xlsx"],
+    "reviews_uav_ris": []
+  }
+}

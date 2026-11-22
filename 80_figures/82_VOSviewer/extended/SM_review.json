@@ -1,0 +1,653 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 23,
+				"label": "antennas",
+				"x": -0.7252,
+				"y": 0.4925,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 58,
+				"label": "crops",
+				"x": -0.1828,
+				"y": 0.6597,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 50.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3750
+				}
+			},
+			{
+				"id": 131,
+				"label": "irrigation",
+				"x": -0.6796,
+				"y": -0.6519,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6000
+				}
+			},
+			{
+				"id": 150,
+				"label": "machine learning",
+				"x": 0.8833,
+				"y": -0.6473,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.1429
+				}
+			},
+			{
+				"id": 202,
+				"label": "precision agriculture",
+				"x": -0.0678,
+				"y": -0.3600,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 62.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0909
+				}
+			},
+			{
+				"id": 222,
+				"label": "remote sensing",
+				"x": -0.4939,
+				"y": 0.1865,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 71.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4615
+				}
+			},
+			{
+				"id": 234,
+				"label": "satellite data",
+				"x": 0.5281,
+				"y": -0.1304,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.8333
+				}
+			},
+			{
+				"id": 235,
+				"label": "satellite imagery",
+				"x": -0.8747,
+				"y": -0.1677,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5714
+				}
+			},
+			{
+				"id": 257,
+				"label": "soil moisture",
+				"x": 0.0411,
+				"y": 0.0385,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 94.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.1111
+				}
+			},
+			{
+				"id": 259,
+				"label": "soil moisture content",
+				"x": 0.6710,
+				"y": 0.7091,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.4000
+				}
+			},
+			{
+				"id": 268,
+				"label": "soil surveys",
+				"x": -0.2864,
+				"y": -0.0579,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 77.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.2500
+				}
+			},
+			{
+				"id": 313,
+				"label": "uav",
+				"x": 1.0852,
+				"y": 0.2834,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.8000
+				}
+			},
+			{
+				"id": 325,
+				"label": "unmanned aerial vehicles (uav)",
+				"x": -0.1421,
+				"y": 0.3075,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 70.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.9091
+				}
+			},
+			{
+				"id": 330,
+				"label": "unmanned vehicle",
+				"x": 0.2438,
+				"y": -0.6620,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.3333
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 23,
+				"target_id": 58,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 131,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 202,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 222,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 234,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 235,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 257,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 268,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 325,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 131,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 202,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 222,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 234,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 235,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 257,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 268,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 325,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 202,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 222,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 234,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 235,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 257,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 268,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 325,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 202,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 234,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 235,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 257,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 259,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 268,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 325,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 330,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 222,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 234,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 235,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 257,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 259,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 268,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 325,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 330,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 234,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 235,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 257,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 259,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 268,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 325,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 330,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 235,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 257,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 259,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 268,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 325,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 330,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 257,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 268,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 325,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 257,
+				"target_id": 259,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 257,
+				"target_id": 268,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 257,
+				"target_id": 313,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 257,
+				"target_id": 325,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 257,
+				"target_id": 330,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 268,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 325,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 268,
+				"target_id": 313,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 268,
+				"target_id": 325,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 268,
+				"target_id": 330,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 325,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 330,
+				"strength": 4.0000
+			}
+		]
+	}
+}

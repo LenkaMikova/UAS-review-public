@@ -1,0 +1,13 @@
+VOS RIS pair — written by screening_and_deep_classify.py
+
+VOS_full.ris (all screened non-review): 1031
+  with keywords: 1014
+  without keywords: 17
+  TY journal (JOUR/JO): 729
+  TY other (CONF, chapter, …): 302
+VOS_must-cite.ris (must_cite = core + extended): 49
+  core (must_cite_strict): 22
+  extended (must_cite and not strict): 27
+
+Do not merge extended_studies.ris with must_cite_records.ris -- that doubles the extended tier.
+VOS_must-cite is core + extended in one file (48 records, not 45 unique studies).

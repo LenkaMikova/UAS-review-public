@@ -1,0 +1,278 @@
+# Query Input Combinations (for Wos_Scopus_query tool)
+
+## 1
+
+soil moisture, soil temperature | topic
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture" OR "soil temperature") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture" OR "soil temperature") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+
+## 2
+
+soil moisture, soil temperature | all
+year: 2019-2026
+language: English
+
+Web of Science:
+ALL=("soil moisture" OR "soil temperature") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+ALL("soil moisture" OR "soil temperature") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 3
+
+soil moisture | all
+remote sensing | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 4
+
+soil moisture | all
+remote sensing, UAV, Drones | all
+high resolution, field scale, microclimate | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "Drones") AND TS=("high resolution" OR "field scale" OR "microclimate") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "Drones") AND TITLE-ABS-KEY("high resolution" OR "field scale" OR "microclimate") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 5
+
+soil moisture | all
+remote sensing, UAV, Drones | all
+high resolution, field scale, microclimate | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "Drones") AND TS=("high resolution" OR "field scale" OR "microclimate") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "Drones") AND TITLE-ABS-KEY("high resolution" OR "field scale" OR "microclimate") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 6
+
+soil moisture | all
+remote sensing, UAV, Drones | all
+high resolution, field scale, microclimate | all
+estimation, retrival, mapping, prediction | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "Drones") AND TS=("high resolution" OR "field scale" OR "microclimate") AND TS=("estimation" OR "retrival" OR "mapping" OR "prediction") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "Drones") AND TITLE-ABS-KEY("high resolution" OR "field scale" OR "microclimate") AND TITLE-ABS-KEY("estimation" OR "retrival" OR "mapping" OR "prediction") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 7
+
+soil moisture | all
+remote sensing, UAV, Drones | all
+high resolution, field scale, microclimate | all
+estimation, retrival, mapping, prediction | all
+NOT: active, microwave | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "Drones") AND TS=("high resolution" OR "field scale" OR "microclimate") AND TS=("estimation" OR "retrival" OR "mapping" OR "prediction") NOT TS=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "Drones") AND TITLE-ABS-KEY("high resolution" OR "field scale" OR "microclimate") AND TITLE-ABS-KEY("estimation" OR "retrival" OR "mapping" OR "prediction") AND NOT TITLE-ABS-KEY("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 8
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, field scale, microclimate | abstract
+estimation, retrival, mapping, prediction | abstract
+NOT: active, microwave | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "field scale" OR "microclimate") AND AB=("estimation" OR "retrival" OR "mapping" OR "prediction") NOT AB=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "field scale" OR "microclimate") AND ABS("estimation" OR "retrival" OR "mapping" OR "prediction") AND NOT ABS("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 9
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, field scale, microclimate | abstract
+NOT: active, microwave | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "field scale" OR "microclimate") NOT AB=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "field scale" OR "microclimate") AND NOT ABS("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 10
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution | abstract
+NOT: active, microwave | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution") NOT AB=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution") AND NOT ABS("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 11
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, downscaling | abstract
+NOT: active, microwave | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "downscaling") NOT AB=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "downscaling") AND NOT ABS("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 12
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, Agriculture, bare soil, downsca*, local climate, microclim* | abstract
+NOT: active, microwave | abstract
+NOT: Forest, Trees | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "Agriculture" OR "bare soil" OR "downsca*" OR "local climate" OR "microclim*") NOT AB=("active" OR "microwave") NOT AB=("Forest" OR "Trees") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "Agriculture" OR "bare soil" OR "downsca*" OR "local climate" OR "microclim*") AND NOT ABS("active" OR "microwave") AND NOT ABS("Forest" OR "Trees") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 13
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, Agriculture, bare soil | abstract
+NOT: active, microwave | abstract
+NOT: Forest, Trees | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "Agriculture" OR "bare soil") NOT AB=("active" OR "microwave") NOT AB=("Forest" OR "Trees") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "Agriculture" OR "bare soil") AND NOT ABS("active" OR "microwave") AND NOT ABS("Forest" OR "Trees") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 14
+
+soil moisture | title
+remote sensing, UAV, Drones, UAS | abstract
+high resolution, downsca*, local climate, microclim*, precision Agriculture | abstract
+NOT: active, microwave | abstract
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND AB=("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND AB=("high resolution" OR "downsca*" OR "local climate" OR "microclim*" OR "precision Agriculture") NOT AB=("active" OR "microwave") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND ABS("remote sensing" OR "UAV" OR "Drones" OR "UAS") AND ABS("high resolution" OR "downsca*" OR "local climate" OR "microclim*" OR "precision Agriculture") AND NOT ABS("active" OR "microwave") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 15
+
+soil moisture | topic
+remote sensing, UAV, UAS, drone* | topic
+high resolution, field scale, plot scale, precision agriculture, downsca*, microclim*, local climate | topic
+NOT: microwave, radar, SAR, active | topic
+NOT: forest, tree* | topic
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "UAS" OR "drone*") AND TS=("high resolution" OR "field scale" OR "plot scale" OR "precision agriculture" OR "downsca*" OR "microclim*" OR "local climate") NOT TS=("microwave" OR "radar" OR "SAR" OR "active") NOT TS=("forest" OR "tree*") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "UAS" OR "drone*") AND TITLE-ABS-KEY("high resolution" OR "field scale" OR "plot scale" OR "precision agriculture" OR "downsca*" OR "microclim*" OR "local climate") AND NOT TITLE-ABS-KEY("microwave" OR "radar" OR "SAR" OR "active") AND NOT TITLE-ABS-KEY("forest" OR "tree*") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 16
+
+soil moisture | all
+remote sensing, UAV, UAS, drone*, satellite* | all
+agriculture, cropland, arable land, farmland, bare soil | all
+precision agriculture, site-specific, irrigation, water management, downscaling, multi-scale, data fusion | all
+year: 2019-2026
+language: English
+
+Web of Science:
+TS=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND TS=("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND TS=("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE-ABS-KEY("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND TITLE-ABS-KEY("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND TITLE-ABS-KEY("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+## 17
+
+soil moisture | title
+remote sensing, UAV, UAS, drone*, satellite* | topic
+agriculture, cropland, arable land, farmland, bare soil | topic
+precision agriculture, site-specific, irrigation, water management, downscaling, multi-scale, data fusion | topic
+year: 2019-2026
+language: English
+
+Web of Science:
+TI=("soil moisture") AND TS=("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND TS=("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND TS=("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion") AND PY=2019-2026 AND LA=ENGLISH
+
+Scopus:
+TITLE("soil moisture") AND TITLE-ABS-KEY("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND TITLE-ABS-KEY("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND TITLE-ABS-KEY("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion") AND PUBYEAR > 2018 AND PUBYEAR < 2027 AND LANGUAGE(english)
+
+
+---
+
+databases: WoS; Scopus
+soil moisture | all
+remote sensing, UAV, UAS, drone*, satellite* | all
+agriculture, cropland, arable land, farmland, bare soil | all
+precision agriculture, site-specific, irrigation, water management, downscaling, multi-scale, data fusion | all
+year: 2019-2026
+language: English
+
+("soil moisture") AND ("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND ("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND ("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion")
+
+
+---
+
+databases: WoS; Scopus
+soil moisture | all
+remote sensing, UAV, UAS, drone*, satellite* | all
+agriculture, cropland, arable land, farmland, bare soil | all
+precision agriculture, site-specific, irrigation, water management, downscaling, multi-scale, data fusion | all
+year: 2019-2026
+language: English
+
+("soil moisture") AND ("remote sensing" OR "UAV" OR "UAS" OR "drone*" OR "satellite*") AND ("agriculture" OR "cropland" OR "arable land" OR "farmland" OR "bare soil") AND ("precision agriculture" OR "site-specific" OR "irrigation" OR "water management" OR "downscaling" OR "multi-scale" OR "data fusion")

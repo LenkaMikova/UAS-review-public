@@ -1,0 +1,11 @@
+<!-- Online Resource 6 (`or-prisma-flow`). Number comes from include order.
+     Figure 2 PNG is from the Haddaway web app, not Rscript.
+     60_prisma/PRISMA_flow_how.md: runner ho při startu přepíše — po běhu
+     znovu uvést shinyapps URL. -->
+
+::: {#or-prisma-flow}
+
+{{< include ../../60_prisma/PRISMA_flow_how.md >}}
+
+How the PRISMA 2020 flow diagram was produced with the PRISMA2020 web application (<https://estech.shinyapps.io/prisma_flowdiagram/>) [@PRISMAfd2022].
+:::

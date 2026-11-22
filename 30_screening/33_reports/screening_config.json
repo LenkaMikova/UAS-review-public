@@ -1,0 +1,142 @@
+{
+  "weights": {
+    "soil_moisture": 2,
+    "obs_method": 0,
+    "uav": 3,
+    "uav_direct": 3,
+    "satellite": 0,
+    "sensors": 0,
+    "active": 0,
+    "passive": 0,
+    "domain": 1,
+    "agriculture": 1,
+    "methods": 0,
+    "scaling": 2,
+    "high_res": 0,
+    "review": 0
+  },
+  "thresholds": {
+    "include_min": 6,
+    "maybe_min": 3
+  },
+  "must_cite_strict": {
+    "score_min": 7,
+    "require_direct_uav": true,
+    "require_scaling": true
+  },
+  "must_cite_extended": {
+    "score_min": 6,
+    "branch_direct_and_scaling": true,
+    "branch_potential_and_scaling_or_passive": true
+  },
+  "terms": {
+    "soil_moisture": [
+      "soil moisture"
+    ],
+    "obs_method": [
+      "remote sensing"
+    ],
+    "uav": [
+      "uav",
+      "drone",
+      "uas"
+    ],
+    "satellite": [
+      "satellite"
+    ],
+    "sensors": [
+      "modis",
+      "landsat",
+      "sentinel"
+    ],
+    "active": [
+      "sar",
+      "radar",
+      "microwave"
+    ],
+    "passive": [
+      "optical",
+      "multispectral",
+      "hyperspectral"
+    ],
+    "domain": [
+      "cropland",
+      "farmland",
+      "arable",
+      "bare soil",
+      "agriculture"
+    ],
+    "methods": [
+      "irrigation",
+      "precision agriculture",
+      "water management"
+    ],
+    "scaling": [
+      "downscaling",
+      "data fusion",
+      "multi-scale"
+    ],
+    "high_res": [
+      "high resolution",
+      "fine resolution"
+    ],
+    "review": [
+      "review",
+      "systematic review",
+      "meta-analysis"
+    ]
+  },
+  "outputs": {
+    "screened_xlsx": true,
+    "summary_txt": true,
+    "summary_xlsx": false,
+    "keyword_txt": true,
+    "ris_all": true,
+    "ris_include": true,
+    "ris_core": true,
+    "ris_must_cite": true,
+    "ris_extended_not_strict": true,
+    "vos_pair": true,
+    "reviews_xlsx_ris": true,
+    "reviews_uav_ris": true,
+    "csv": false,
+    "json": false
+  },
+  "output_formats": {
+    "screened_xlsx": [
+      "xlsx",
+      "csv"
+    ],
+    "summary": [
+      "txt"
+    ],
+    "keyword_txt": [
+      "txt"
+    ],
+    "ris_all": [
+      "ris"
+    ],
+    "ris_include": [
+      "ris"
+    ],
+    "ris_core": [
+      "ris"
+    ],
+    "ris_must_cite": [
+      "ris"
+    ],
+    "ris_extended_not_strict": [
+      "ris"
+    ],
+    "vos_pair": [
+      "ris"
+    ],
+    "reviews_xlsx_ris": [
+      "xlsx",
+      "ris"
+    ],
+    "reviews_uav_ris": [
+      "ris"
+    ]
+  }
+}

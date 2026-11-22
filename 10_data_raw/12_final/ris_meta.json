@@ -1,0 +1,24 @@
+{
+  "exports": [
+    {
+      "database": "WoS",
+      "file": "export_WoS.ris",
+      "original": "2026-04-29 export_WoS.ris",
+      "source": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\10_data_raw\\11_original\\2026-04-29 export_WoS_eng.ris",
+      "source_name": "2026-04-29 export_WoS_eng.ris",
+      "downloaded_at": "2026-04-29",
+      "n_records": 633,
+      "imported": "2026-11-21T11:09:57"
+    },
+    {
+      "database": "Scopus",
+      "file": "export_Scopus.ris",
+      "original": "2026-04-29 export_Scopus.ris",
+      "source": "C:\\Users\\lenka\\OneDrive - CZU v Praze\\DSP FŽP\\04 articles\\2026 Review_TempHumidity\\review\\10_data_raw\\11_original\\2026-04-29 export_Scopus_eng.ris",
+      "source_name": "2026-04-29 export_Scopus_eng.ris",
+      "downloaded_at": "2026-04-29",
+      "n_records": 1003,
+      "imported": "2026-11-21T11:09:58"
+    }
+  ]
+}

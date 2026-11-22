@@ -1,0 +1,13 @@
+<!-- Online Resource 5 (`or-processing`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+
+::: {#or-processing}
+```{python}
+#| echo: false
+# 20_data_clean/21_audit/processing_report.txt
+print(prisma)
+```
+
+Processing report of the automated merge and deduplication workflow.
+:::
+
+------------------------------------------------------------------------

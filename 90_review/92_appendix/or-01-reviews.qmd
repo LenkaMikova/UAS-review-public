@@ -1,0 +1,42 @@
+<!-- Online Resource 1 (`or-reviews`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+
+::: {#or-reviews}
+| Reference | Main Thematic Focus | Investigated Platforms | Primary Focus on Soil Moisture? | Primary Focus on UAVs? | Detailed UAV-SM Methods? |
+|------------|------------|------------|------------|------------|------------|
+| **@Abdulraheem2024** | Remote Sensing for Soil Measurements | Satellites, UAV, Proximal <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No | No |
+| **@Acharya2021** | Hydrology and Water Management | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | Yes (Broadly) | Yes | No |
+| **@Ali2024** | Precision Crop Management | Satellites, UAV <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} | No (Secondary) | Yes | No |
+| **@Amarasingam2022** | Sugarcane Crop Monitoring | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No (Briefly) | Yes | No |
+| **@Aslan2024** | Precision Agriculture in Open Fields | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No | Yes | No |
+| **@Awais2023** | Plant Stress via Thermal Imaging | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | Yes (Indirectly) | Yes | No |
+| **@Bogena2022** | Noninvasive Soil Moisture Sensing | In-situ (CRNS, WSN) <br>![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No | No |
+| **@Dong2024** | Crop Water Stress Detection | UAV, Satellites <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} | Yes (Indirectly) | Yes | No |
+| **@Eladl2024b** | Smart Agriculture and AI | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No | Yes | No |
+| **@Florea2025** | Smart Irrigation in Viticulture | Various <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Broadly) | No | No |
+| **@FuentesPenailillo2025** | Precision Irrigation Dynamics | RS, WSN, UAV <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Broadly) | No | No |
+| **@Haokip2025** | Soil Moisture Assessment Methods | Satellites, UAV, In-situ <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No (Broad focus) | No |
+| **@Kaivosoja2021** | Reference Data in Agriculture | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No | Yes | No |
+| **@Karthikeyan2020** | ML for Biomass & Soil Moisture | Satellites <br>![](../80_figures/81_icons/sat.png){width=40} | Yes (Deeply) | No | No |
+| **@Kuunya2025** | Sensors for Water Management | In-situ, IoT <br>![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No | No |
+| **@Lagiewska2025** | Robotics & RS in Agriculture | RS, UAV, Robots <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/ugv.png){width=40} | No (Secondary) | Yes | No |
+| **@Mamun2026** | IoT in Smart Agriculture | WSN, IoT <br>![](../80_figures/81_icons/in-situ.png){width=40} | No (Secondary) | No | No |
+| **@Mkhwenkwana2025** | Soil Moisture in Crop Production | Satellites <br>![](../80_figures/81_icons/sat.png){width=40} | Yes (Deeply) | No | No |
+| **@Mowla2026** | UAV and ML in Smart Agriculture | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | Yes (Broadly) | Yes | No |
+| **@P2025** | Advancements in SM Estimation | Satellites, UAV, In-situ <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No | No |
+| **@Petrovic2025** | Precision Agriculture Adaptation | Various <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | No (Secondary) | No | No |
+| **@Sivakumar2025** | Thermal Imaging in Agriculture | UAV, Satellites <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} | Yes (Indirectly) | Yes | No |
+| **@Talaviya2020** | AI and Drones in Agriculture | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No (Secondary) | Yes | No |
+| **@Teixeira2025** | High-Resolution SM Estimation | Satellites, UAV <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} | Yes (Deeply) | No | No |
+| **@Tsaousidis2026** | Digital Twins in Agriculture | All Platforms <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | No (Briefly) | No | No |
+| **@Wadod2023** | Drone Application Methodologies | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | No | Yes | No |
+| **@Yadav2024** | UAVs for Irrigation Scheduling | UAV <br>![](../80_figures/81_icons/drone.png){width=40} | Yes (Indirectly) | Yes | No |
+| **@Yousaf2023** | UAV and Robotics in Farms | UAV, Robotics <br>![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/ugv.png){width=40} | No | Yes | No |
+| **@Zhang2024** | On-the-go Sensors for Soil Moisture | Proximal, UAV <br>![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | Yes (Deeply) | No | No |
+| ***This Review*** | *UAV-enabled Soil Moisture Monitoring* | *UAV (Fusion with Sat/In-situ)* <br>![](../80_figures/81_icons/sat.png){width=40} ![](../80_figures/81_icons/drone.png){width=40} ![](../80_figures/81_icons/in-situ.png){width=40} | *Yes (Deeply)* | *Yes* | *Yes* |
+
+Comparative overview of a **selected** subset of existing review articles
+(not the full set of review papers identified during processing), highlighting
+the research gap in UAV-based soil moisture monitoring.
+:::
+
+------------------------------------------------------------------------

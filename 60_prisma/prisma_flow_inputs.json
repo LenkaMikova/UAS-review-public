@@ -1,0 +1,80 @@
+{
+  "package": "PRISMA2020",
+  "cite": "Haddaway NR, Page MJ, Pritchard CC, McGuinness LA (2022) Campbell Systematic Reviews 18:e1230.",
+  "not": "GSscraper (Google Scholar scraper) is not used.",
+  "saved_at": "2026-11-22T13:40:37",
+  "previous": false,
+  "other": false,
+  "identification": {
+    "wos": 633,
+    "scopus": 1003,
+    "database_results": 1636,
+    "database_specific": "WoS, 633; Scopus, 1003",
+    "register_results": 0,
+    "registers": "",
+    "website_results": 0,
+    "organisation_results": 0,
+    "citations_results": 0,
+    "duplicates": 479,
+    "excluded_automatic": 0,
+    "excluded_other": 11,
+    "missing_doi_not_removed": 21,
+    "retained": 1146,
+    "reviews_set_aside": 115,
+    "lock_extra": 8
+  },
+  "screening": {
+    "records_screened": 1146,
+    "records_excluded": 1097,
+    "split": {
+      "exclude": 50,
+      "maybe": 723,
+      "include_not_sought": 209,
+      "auto": true,
+      "total": 1097
+    },
+    "notes": "reviews 115; score < 3, 50; score 3–5, 723; score ≥ 6 not must-cite, 209"
+  },
+  "retrieval": {
+    "sought": 49,
+    "sought_source": "typed",
+    "not_retrieved": 0,
+    "not_retrieved_notes": "",
+    "assessed": 49
+  },
+  "included": {
+    "studies": 46,
+    "reports": 46,
+    "ft_excluded": [
+      {
+        "reason": "publisher correction",
+        "n": 1
+      },
+      {
+        "reason": "book chapter",
+        "n": 1
+      },
+      {
+        "reason": "conference paper without operational SM retrieval",
+        "n": 1
+      }
+    ],
+    "ft_excluded_n": 3,
+    "ft_excluded_box": "publisher correction, 1; book chapter, 1; conference paper without operational SM retrieval, 1"
+  },
+  "warnings": [],
+  "typed_fields": {
+    "prisma_sought": "49",
+    "prisma_not_retrieved": "0",
+    "prisma_not_retrieved_notes": "",
+    "prisma_included_studies": "46",
+    "prisma_included_reports": "46",
+    "prisma_ft_excluded": "publisher correction, 1\nbook chapter, 1\nconference paper without operational SM retrieval, 1",
+    "prisma_screen_excluded_notes": "reviews 115; score < 3, 50; score 3–5, 723; score ≥ 6 not must-cite, 209",
+    "prisma_register_n": "0",
+    "prisma_registers": "",
+    "prisma_website_n": "0",
+    "prisma_organisation_n": "0",
+    "prisma_citation_n": "0"
+  }
+}

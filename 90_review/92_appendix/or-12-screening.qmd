@@ -1,0 +1,14 @@
+<!-- Online Resource 12 (`or-screening`). Number comes from this file's position in `_online-resources.qmd`, not from this comment. -->
+
+::: {#or-screening}
+```{python}
+#| echo: false
+# 30_screening/33_reports/screening_summary.txt
+print(scr)
+```
+
+Automated screening summary: record counts and proportions per screening
+category, including the two must-cite tiers.
+:::
+
+------------------------------------------------------------------------

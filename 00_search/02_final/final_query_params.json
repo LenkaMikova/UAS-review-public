@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-11-21T11:08:49.256031",
+  "input": {
+    "groups": [
+      {
+        "terms": [
+          "soil moisture"
+        ],
+        "field": "all"
+      },
+      {
+        "terms": [
+          "remote sensing",
+          "UAV",
+          "UAS",
+          "drone*",
+          "satellite*"
+        ],
+        "field": "all"
+      },
+      {
+        "terms": [
+          "agriculture",
+          "cropland",
+          "arable land",
+          "farmland",
+          "bare soil"
+        ],
+        "field": "all"
+      },
+      {
+        "terms": [
+          "precision agriculture",
+          "site-specific",
+          "irrigation",
+          "water management",
+          "downscaling",
+          "multi-scale",
+          "data fusion"
+        ],
+        "field": "all"
+      }
+    ],
+    "exclude": [],
+    "year_from": 2019,
+    "year_to": 2026,
+    "language": "English"
+  },
+  "databases": [
+    "WoS",
+    "Scopus"
+  ],
+  "queries": {
+    "boolean": "(\"soil moisture\") AND (\"remote sensing\" OR \"UAV\" OR \"UAS\" OR \"drone*\" OR \"satellite*\") AND (\"agriculture\" OR \"cropland\" OR \"arable land\" OR \"farmland\" OR \"bare soil\") AND (\"precision agriculture\" OR \"site-specific\" OR \"irrigation\" OR \"water management\" OR \"downscaling\" OR \"multi-scale\" OR \"data fusion\")"
+  }
+}
