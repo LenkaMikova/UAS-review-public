@@ -6,7 +6,7 @@ This folder contains materials related to the data extraction stage of the syste
 
 - **41_input/**
   - `extraction_input_full.xlsx` — *include* + *maybe* records (973 = 249 + 724)
-  - `extraction_input_refined.xlsx` — *include* only, prioritized (`Priority == HIGH` = 48 must-cite). Columns `Scaling_type` and `Scaling_source`
+  - `extraction_input_refined.xlsx` — *include* only, prioritized (`Priority == HIGH` = 49 must-cite, Fenhe patched 2026-11-22). Columns `Scaling_type` and `Scaling_source`
   - `batches/batch_N.xlsx` — subsets (~50 records) for manual work
 
 - **42_working/**
@@ -27,17 +27,18 @@ This folder contains materials related to the data extraction stage of the syste
 
 Copied from screening `scaling` when the title, abstract, or keywords contained `downscaling`, `data fusion`, or `multi-scale`.
 
-| | n (of 48 HIGH) |
+| | n (of 49 HIGH) |
 |---|---:|
 | **automaticky** (`Scaling_source`) | 22 |
-| **ručně** | 26 |
-| of which still `none` | 23 |
+| **ručně** | 27 |
+| of which still `none` | 24 |
 | recoded from abstract | 3 (Guo 2022, Senyurek 2022 → data fusion; He 2025 → multi-scale) |
+| Fenhe / Guo 2026 | `none`, ručně (patched in Excel; templates not re-run) |
 
-Current `Scaling_type` bars in Figure 5: 18 data fusion, 3 downscaling, 4 multi-scale, 23 none.
+Current `Scaling_type` bars in Figure 5: 18 data fusion, 3 downscaling, 4 multi-scale, 24 none.
 
 - Column `Scaling_source` sits next to `Scaling_type` in `extraction_input_refined.xlsx` and in `30_screening/32_exports/must_cite_list.xlsx`
-- Recode the remaining 23 in `30_screening/32_exports/HIGH_Scaling_none_with_abstracts.xlsx` (one tick: data fusion / downscaling / multi-scale / **one source** / **ostatní**). *one source* = one platform/sensor **or a comparison of two sources that is not fusion**. Copy the chosen label into `Scaling_type` here; keep `Scaling_source` = ručně. Figure 5 still uses `none` until the article body is updated.
+- Recode the remaining 24 in `30_screening/32_exports/HIGH_Scaling_none_with_abstracts.xlsx` (one tick: data fusion / downscaling / multi-scale / **one source** / **ostatní**). *one source* = one platform/sensor **or a comparison of two sources that is not fusion**. Copy the chosen label into `Scaling_type` here; keep `Scaling_source` = ručně. Figure 5 still uses `none` until the article body is updated.
 - Printable 48 / 45 lists: `30_screening/32_exports/must_cite_list.xlsx`
 
 ## Description
